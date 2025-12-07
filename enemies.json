@@ -1,0 +1,4996 @@
+{
+  "com_example_mob_duobossfight": {
+    "data": {
+      "type": "enemies",
+      "id": "com.example.mob.duobossfight",
+      "dependencies": [],
+      "subpackages": [
+        "com.example.char.Duo"
+      ],
+      "name": "Dangerous Duo",
+      "detail": {
+        "preview": "images\\com_example_mob_duobossfight_preview.png"
+      },
+      "description": "Duo is back too? The nightmare never ends!"
+    },
+    "attachment_data": {
+      "timestamp": 1639557267016,
+      "discord_url": "https://cdn.discordapp.com/attachments/920593979198824498/920594643589165076/duo_mob.zip",
+      "author_name": "jamesking",
+      "author_id": "389909385981329418",
+      "original_filename": "duo_mob.zip",
+      "attachment_id": "920594643589165076",
+      "thread_id": "920593979198824498",
+      "thread_name": "[OFC][MOB][BN4] DUO",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_discord_Konstinople_7692_cactikil": {
+    "data": {
+      "type": "enemies",
+      "id": "com.discord.Konstinople#7692.cactikil",
+      "dependencies": [],
+      "subpackages": [
+        "com.discord.Konstinople#7692.enemy.cactikil",
+        "com.discord.Konstinople#7692.enemy.cactroll",
+        "com.discord.Konstinople#7692.enemy.cacter"
+      ],
+      "name": "Cactikil",
+      "detail": {
+        "preview": "images\\com_discord_Konstinople_7692_cactikil_preview.png"
+      },
+      "description": "Cactikil, known as \"Sabotekoron\" in Japan, is a cactus"
+    },
+    "attachment_data": {
+      "timestamp": 1641229834422,
+      "discord_url": "https://cdn.discordapp.com/attachments/921049513676931162/927609900551503932/cactikil.zip",
+      "author_name": "Konstinople",
+      "author_id": "252196240144597002",
+      "original_filename": "cactikil.zip",
+      "attachment_id": "927609900551503932",
+      "thread_id": "921049513676931162",
+      "thread_name": "[OFC][MOB][BN5] Cactikil",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_dawn_canosmart": {
+    "data": {
+      "type": "enemies",
+      "id": "com.dawn.canosmart",
+      "dependencies": [],
+      "subpackages": [
+        "com.dawn.enemy.canosmart"
+      ],
+      "name": "Canosmart",
+      "detail": {
+        "preview": "images\\com_dawn_canosmart_preview.png"
+      },
+      "description": "Me no dumb! Me smart! Try me!"
+    },
+    "attachment_data": {
+      "timestamp": 1643129928967,
+      "discord_url": "https://cdn.discordapp.com/attachments/935579426882719776/935579474324512798/canosmart.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "canosmart.zip",
+      "attachment_id": "935579474324512798",
+      "thread_id": "935579426882719776",
+      "thread_name": "[CUS][MOB] CanoSmart",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_Viruses_Gunner": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.Viruses.Gunner",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.Viruses.Enemy.Gunner"
+      ],
+      "name": "Gunner",
+      "detail": {
+        "preview": "images\\com_Dawn_Viruses_Gunner_preview.png"
+      },
+      "description": "Dig the trenches!"
+    },
+    "attachment_data": {
+      "timestamp": 1643664364536,
+      "discord_url": "https://cdn.discordapp.com/attachments/935339087471202305/937821059661594664/Gunner.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "Gunner.zip",
+      "attachment_id": "937821059661594664",
+      "thread_id": "935339087471202305",
+      "thread_name": "[AES][MOB][BN6] Gunner!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Entropy_mob_HyperSpikey": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Entropy.mob.HyperSpikey",
+      "dependencies": [],
+      "subpackages": [
+        "com.Entropy.char.HyperSpikey"
+      ],
+      "name": "HyperSpikey",
+      "detail": {
+        "preview": "images\\com_Entropy_mob_HyperSpikey_preview.png"
+      },
+      "description": "Rumble with a HyperSpikey!"
+    },
+    "attachment_data": {
+      "timestamp": 1643929460075,
+      "discord_url": "https://cdn.discordapp.com/attachments/938932940111499334/938932950916038666/hyperspikey.zip",
+      "author_name": "Entropy",
+      "author_id": "310950861918568449",
+      "original_filename": "hyperspikey.zip",
+      "attachment_id": "938932950916038666",
+      "thread_id": "938932940111499334",
+      "thread_name": "[CUS][MOB] HyperSpikey",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_keristero_mob_BigBrute": {
+    "data": {
+      "type": "enemies",
+      "id": "com.keristero.mob.BigBrute",
+      "dependencies": [],
+      "subpackages": [
+        "com.keristero.char.BigBrute"
+      ],
+      "name": "BigBrute",
+      "detail": {
+        "preview": "images\\com_keristero_mob_BigBrute_preview.png"
+      },
+      "description": "BN5 accurate BigBrute"
+    },
+    "attachment_data": {
+      "timestamp": 1644184446965,
+      "discord_url": "https://cdn.discordapp.com/attachments/931105154076377098/940002443750686790/big_brute.zip",
+      "author_name": "Keristero",
+      "author_id": "143203336454144000",
+      "original_filename": "big_brute.zip",
+      "attachment_id": "940002443750686790",
+      "thread_id": "931105154076377098",
+      "thread_name": "[OFC][BN5][MOB] Big Brute",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Entropy_mob_Explosive_March": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Entropy.mob.Explosive March",
+      "dependencies": [
+        "com.Dawn.Requested.Enemy.Catack",
+        "Entropy.HyperSpikey"
+      ],
+      "subpackages": [],
+      "name": "Explosive March",
+      "detail": {
+        "preview": "images\\com_Entropy_mob_Explosive_March_preview.png"
+      },
+      "description": "Kill that Catack quick, or it's going to make your life very hard."
+    },
+    "attachment_data": {
+      "timestamp": 1644133927580,
+      "discord_url": "https://cdn.discordapp.com/attachments/939790506664271943/939790549265817630/Explosive_March.zip",
+      "author_name": "Entropy",
+      "author_id": "310950861918568449",
+      "original_filename": "Explosive_March.zip",
+      "attachment_id": "939790549265817630",
+      "thread_id": "939790506664271943",
+      "thread_name": "[CUS][MOB] Explosive March",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_DawnPSIV_ReverentOne": {
+    "data": {
+      "type": "enemies",
+      "id": "com.DawnPSIV.ReverentOne",
+      "dependencies": [],
+      "subpackages": [
+        "com.DawnPSIV.Enemy.ReverentOne"
+      ],
+      "name": "Apostle Zio",
+      "detail": {
+        "preview": "images\\com_DawnPSIV_ReverentOne_preview.png"
+      },
+      "description": "The Destruction of all life...what a fine thing indeed!"
+    },
+    "attachment_data": {
+      "timestamp": 1645213695414,
+      "discord_url": "https://cdn.discordapp.com/attachments/942854255998558219/944319424373063690/ReverentZio.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "ReverentZio.zip",
+      "attachment_id": "944319424373063690",
+      "thread_id": "942854255998558219",
+      "thread_name": "[CUS] [MOB] [PSIV] Dark Apostle Zio",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_DawnIPC_Blues": {
+    "data": {
+      "type": "enemies",
+      "id": "com.DawnIPC.Blues",
+      "dependencies": [],
+      "subpackages": [
+        "com.DawnIPC.Enemy.blues"
+      ],
+      "name": "Protoman",
+      "detail": {
+        "preview": "images\\com_DawnIPC_Blues_preview.png"
+      },
+      "description": "Prove your worth to him one last time. For old times sake."
+    },
+    "attachment_data": {
+      "timestamp": 1646106786497,
+      "discord_url": "https://cdn.discordapp.com/attachments/947978009439240222/948065319954575360/Blues.zip",
+      "author_name": "DJRezzed",
+      "author_id": "714433270309453856",
+      "original_filename": "Blues.zip",
+      "attachment_id": "948065319954575360",
+      "thread_id": "947978009439240222",
+      "thread_name": "[MIX][MOB] ProtoMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_BlastMan_1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.BlastMan_1",
+      "dependencies": [],
+      "subpackages": [
+        "com.Thor.enemy.BlastMan_V1"
+      ],
+      "name": "BlastMan",
+      "detail": {
+        "preview": "images\\com_Thor_BlastMan_1_preview.png"
+      },
+      "description": "BN6 BlastMan Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1646120044228,
+      "discord_url": "https://cdn.discordapp.com/attachments/948120607705399297/948120926724165643/Blastman_1.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Blastman_1.zip",
+      "attachment_id": "948120926724165643",
+      "thread_id": "948120607705399297",
+      "thread_name": "[OFW][BN6][MOB] BlastMan Boss!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_BlastMan_4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.BlastMan_4",
+      "dependencies": [
+        "com.Thor.enemy.BlastMan_V1"
+      ],
+      "subpackages": [],
+      "name": "BlastMan RV",
+      "detail": {
+        "preview": "images\\com_Thor_BlastMan_4_preview.png"
+      },
+      "description": "BN6 BlastMan RV Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1646120044228,
+      "discord_url": "https://cdn.discordapp.com/attachments/948120607705399297/948120926476718090/Blastman_4.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Blastman_4.zip",
+      "attachment_id": "948120926476718090",
+      "thread_id": "948120607705399297",
+      "thread_name": "[OFW][BN6][MOB] BlastMan Boss!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_BlastMan_3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.BlastMan_3",
+      "dependencies": [
+        "com.Thor.enemy.BlastMan_V1"
+      ],
+      "subpackages": [],
+      "name": "BlastMan SP",
+      "detail": {
+        "preview": "images\\com_Thor_BlastMan_3_preview.png"
+      },
+      "description": "BN6 BlastMan SP Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1646120044228,
+      "discord_url": "https://cdn.discordapp.com/attachments/948120607705399297/948120926212481054/Blastman_3.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Blastman_3.zip",
+      "attachment_id": "948120926212481054",
+      "thread_id": "948120607705399297",
+      "thread_name": "[OFW][BN6][MOB] BlastMan Boss!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_BlastMan_2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.BlastMan_2",
+      "dependencies": [
+        "com.Thor.enemy.BlastMan_V1"
+      ],
+      "subpackages": [],
+      "name": "BlastMan EX",
+      "detail": {
+        "preview": "images\\com_Thor_BlastMan_2_preview.png"
+      },
+      "description": "BN6 BlastMan EX Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1646120044228,
+      "discord_url": "https://cdn.discordapp.com/attachments/948120607705399297/948120926032130078/Blastman_2.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Blastman_2.zip",
+      "attachment_id": "948120926032130078",
+      "thread_id": "948120607705399297",
+      "thread_name": "[OFW][BN6][MOB] BlastMan Boss!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_BN3_Ratty": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.BN3.Ratty",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.BN3.Enemy.Ratty"
+      ],
+      "name": "Ratty",
+      "detail": {
+        "preview": "images\\com_Dawn_BN3_Ratty_preview.png"
+      },
+      "description": "Go Go Ratton Rangers!"
+    },
+    "attachment_data": {
+      "timestamp": 1651318310816,
+      "discord_url": "https://cdn.discordapp.com/attachments/944584492331454554/969924037142794250/com_Dawn_BN3_Ratty.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "com_Dawn_BN3_Ratty.zip",
+      "attachment_id": "969924037142794250",
+      "thread_id": "944584492331454554",
+      "thread_name": "[WIP] [BN3] Ratty bois",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_keristero_mob_Mettaur2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.keristero.mob.Mettaur2",
+      "dependencies": [],
+      "subpackages": [
+        "com.keristero.char.Mettaur"
+      ],
+      "name": "Mettaur",
+      "detail": {
+        "preview": "images\\com_keristero_mob_Mettaur2_preview.png"
+      },
+      "description": "BN6 accurate Mettaur2"
+    },
+    "attachment_data": {
+      "timestamp": 1652980793442,
+      "discord_url": "https://cdn.discordapp.com/attachments/976896432676167721/976896994654175272/Mettaur.zip",
+      "author_name": "Rubedo",
+      "author_id": "158187211089641473",
+      "original_filename": "Mettaur.zip",
+      "attachment_id": "976896994654175272",
+      "thread_id": "976896432676167721",
+      "thread_name": "[OFC] [BN6] [Virus] Mettaur 2 Electric Boogaloo",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_Shademan": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.Shademan",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.Enemy.Shademan"
+      ],
+      "name": "Shademan",
+      "detail": {
+        "preview": "images\\com_Dawn_Shademan_preview.png"
+      },
+      "description": "Don't underestimate the Darkloids!"
+    },
+    "attachment_data": {
+      "timestamp": 1654259653402,
+      "discord_url": "https://cdn.discordapp.com/attachments/946815445808341092/982260922133389342/ShademanV1.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "ShademanV1.zip",
+      "attachment_id": "982260922133389342",
+      "thread_id": "946815445808341092",
+      "thread_name": "[MIX] [BN5] [MOB] Shademan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_ShademanAlpha": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.ShademanAlpha",
+      "dependencies": [
+        "com.Dawn.Enemy.Shademan"
+      ],
+      "subpackages": [],
+      "name": "Shademan Alpha",
+      "detail": {
+        "preview": "images\\com_Dawn_ShademanAlpha_preview.png"
+      },
+      "description": "I'll get you for that!"
+    },
+    "attachment_data": {
+      "timestamp": 1653902912303,
+      "discord_url": "https://cdn.discordapp.com/attachments/946815445808341092/980764641288400956/ShademanV2.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "ShademanV2.zip",
+      "attachment_id": "980764641288400956",
+      "thread_id": "946815445808341092",
+      "thread_name": "[MIX] [BN5] [MOB] Shademan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_ShademanBeta": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.ShademanBeta",
+      "dependencies": [
+        "com.Dawn.Enemy.Shademan"
+      ],
+      "subpackages": [],
+      "name": "Shademan Beta",
+      "detail": {
+        "preview": "images\\com_Dawn_ShademanBeta_preview.png"
+      },
+      "description": "This is your final warning!"
+    },
+    "attachment_data": {
+      "timestamp": 1653902912303,
+      "discord_url": "https://cdn.discordapp.com/attachments/946815445808341092/980764641489748028/ShademanV3.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "ShademanV3.zip",
+      "attachment_id": "980764641489748028",
+      "thread_id": "946815445808341092",
+      "thread_name": "[MIX] [BN5] [MOB] Shademan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_keristero_mob_Mettaur": {
+    "data": {
+      "type": "enemies",
+      "id": "com.keristero.mob.Mettaur",
+      "dependencies": [],
+      "subpackages": [
+        "com.keristero.char.Mettaur"
+      ],
+      "name": "Mettaur",
+      "detail": {
+        "preview": "images\\com_keristero_mob_Mettaur_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Old mod, use EXE6-001-Metall for best mettaur mod"
+    },
+    "attachment_data": {
+      "timestamp": 1747261571886,
+      "discord_url": "https://cdn.discordapp.com/attachments/920976392622063686/1372339240536379432/com_keristero_mob_Mettaur_deprecated.zip?ex=68266a03&is=68251883&hm=7ae9ac76e17fe865ee2ee085b6a7bd72c8ed1876972bf3c4706d59b78fd169e3&",
+      "author_name": "keristero",
+      "author_id": "143203336454144000",
+      "original_filename": "com_keristero_mob_Mettaur_deprecated.zip",
+      "attachment_id": "1372339240536379432",
+      "thread_id": "920976392622063686",
+      "thread_name": "[OFC][MOB][BN6] Mettaur virus",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_Viruses_FighterPlane": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.Viruses.FighterPlane",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.Viruses.Enemy.FighterPlane"
+      ],
+      "name": "FighterPlane",
+      "detail": {
+        "preview": "images\\com_Dawn_Viruses_FighterPlane_preview.png"
+      },
+      "description": "Eyes to the skies!"
+    },
+    "attachment_data": {
+      "timestamp": 1645398504978,
+      "discord_url": "https://cdn.discordapp.com/attachments/942461335948656700/945094571854028910/com_Dawn_Viruses_FighterPlane.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "com_Dawn_Viruses_FighterPlane.zip",
+      "attachment_id": "945094571854028910",
+      "thread_id": "942461335948656700",
+      "thread_name": "[WIP] [MIX] [MOB] [BN6] FighterPlane!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_EXE3_Metrid": {
+    "data": {
+      "type": "enemies",
+      "id": "com.EXE3.Metrid",
+      "dependencies": [],
+      "subpackages": [
+        "com.EXE3.Metrid.Enemy"
+      ],
+      "name": "Metrid",
+      "detail": {
+        "preview": "images\\com_EXE3_Metrid_preview.png"
+      },
+      "description": "I don't care about the NPCs, I CAST METEOR."
+    },
+    "attachment_data": {
+      "timestamp": 1656108981899,
+      "discord_url": "https://cdn.discordapp.com/attachments/974308341323026462/990017567919849533/Metrid.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "Metrid.zip",
+      "attachment_id": "990017567919849533",
+      "thread_id": "974308341323026462",
+      "thread_name": "[WIP] [MOB] [BN3] Metrid",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_BN3_Alpha": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.BN3.Alpha",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.BN3.Alpha.BossFight"
+      ],
+      "name": "Alpha",
+      "detail": {
+        "preview": "images\\com_Dawn_BN3_Alpha_preview.png"
+      },
+      "description": "The Internet is in danger!"
+    },
+    "attachment_data": {
+      "timestamp": 1654958727565,
+      "discord_url": "https://cdn.discordapp.com/attachments/971906580549361744/985193051620266094/Alpha.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "Alpha.zip",
+      "attachment_id": "985193051620266094",
+      "thread_id": "971906580549361744",
+      "thread_name": "[OFC] [BN3] [MOB] Alpha",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_BN3_AlphaNM": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.BN3.AlphaNM",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.BN3.AlphaNM.BossFight"
+      ],
+      "name": "Alpha...?",
+      "detail": {
+        "preview": "images\\com_Dawn_BN3_AlphaNM_preview.png"
+      },
+      "description": "Something is different this time..."
+    },
+    "attachment_data": {
+      "timestamp": 1654962863186,
+      "discord_url": "https://cdn.discordapp.com/attachments/971906580549361744/985210397709729893/AlphaNM.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "AlphaNM.zip",
+      "attachment_id": "985210397709729893",
+      "thread_id": "971906580549361744",
+      "thread_name": "[OFC] [BN3] [MOB] Alpha",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_mob_Spikey": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.mob.Spikey",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.char.Spikey"
+      ],
+      "name": "Spikey",
+      "detail": {
+        "preview": "images\\com_Dawn_mob_Spikey_preview.png"
+      },
+      "description": "Rumble with a Spikey!"
+    },
+    "attachment_data": {
+      "timestamp": 1657992953880,
+      "discord_url": "https://cdn.discordapp.com/attachments/931952263742771200/997919519450353684/com_Dawn_mob_Spikey.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "com_Dawn_mob_Spikey.zip",
+      "attachment_id": "997919519450353684",
+      "thread_id": "931952263742771200",
+      "thread_name": "[WIP][MOB][BN3] Spikey!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_discord_Konstinople_7692_canodumb": {
+    "data": {
+      "type": "enemies",
+      "id": "com.discord.Konstinople#7692.canodumb",
+      "dependencies": [],
+      "subpackages": [
+        "com.discord.Konstinople#7692.enemy.canodumb"
+      ],
+      "name": "Canodumb",
+      "detail": {
+        "preview": "images\\com_discord_Konstinople_7692_canodumb_preview.png"
+      },
+      "description": "Canodumb lua port!"
+    },
+    "attachment_data": {
+      "timestamp": 1642649280900,
+      "discord_url": "https://cdn.discordapp.com/attachments/927101546049724426/933563490285781002/canodumb.zip",
+      "author_name": "Konstinople",
+      "author_id": "252196240144597002",
+      "original_filename": "canodumb.zip",
+      "attachment_id": "933563490285781002",
+      "thread_id": "927101546049724426",
+      "thread_name": "[OFC][BN3] Canodumb",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_juraigon": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.juraigon",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.juraigonVirus"
+      ],
+      "name": "Juragon",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_juraigon_preview.png"
+      },
+      "description": "Juragon1-3 from Shanghai.EXE!"
+    },
+    "attachment_data": {
+      "timestamp": 1659560214214,
+      "discord_url": "https://cdn.discordapp.com/attachments/994799783606763660/1004493085381755030/Juraigon.zip",
+      "author_name": "Alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "Juraigon.zip",
+      "attachment_id": "1004493085381755030",
+      "thread_id": "994799783606763660",
+      "thread_name": "[GENSO] [CUS] [ENEMY] Juragon",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_EXE5_Bladia": {
+    "data": {
+      "type": "enemies",
+      "id": "com.EXE5.Bladia",
+      "dependencies": [],
+      "subpackages": [
+        "com.EXE5.Bladia.Enemy",
+        "com.EXE5.Bladia.Enemy1",
+        "com.EXE5.Bladia.Enemy2",
+        "com.EXE5.Bladia.Enemy3",
+        "com.EXE5.Bladia.Enemy4",
+        "com.EXE5.Bladia.Enemy5",
+        "com.EXE5.Bladia.Enemy6"
+      ],
+      "name": "Bladia",
+      "detail": {
+        "preview": "images\\com_EXE5_Bladia_preview.png"
+      },
+      "description": "And steadily it would decline, in to its solitary shell."
+    },
+    "attachment_data": {
+      "timestamp": 1661835172201,
+      "discord_url": "https://cdn.discordapp.com/attachments/1013975797314371696/1014034950829379595/Bladia.zip",
+      "author_name": "D3str0y3d255",
+      "author_id": "414013449585033216",
+      "original_filename": "Bladia.zip",
+      "attachment_id": "1014034950829379595",
+      "thread_id": "1013975797314371696",
+      "thread_name": "[OFC] [MOB] [BN5] Bladia",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "hoov_package_targetdummy": {
+    "data": {
+      "type": "enemies",
+      "id": "hoov.package.targetdummy",
+      "dependencies": [],
+      "subpackages": [
+        "hoov.enemy.targetdummy"
+      ],
+      "name": "Targetdummies",
+      "detail": {
+        "preview": "images\\hoov_package_targetdummy_preview.png"
+      },
+      "description": "Use to test battlechips"
+    },
+    "attachment_data": {
+      "timestamp": 1663691854831,
+      "discord_url": "https://cdn.discordapp.com/attachments/1021574608052310068/1021822442441814126/targetdummy.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "targetdummy.zip",
+      "attachment_id": "1021822442441814126",
+      "thread_id": "1021574608052310068",
+      "thread_name": "[CUS][MOB] TargetDummy",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_DarkRockNM": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.DarkRockNM",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.Enemy.DarkRockNM"
+      ],
+      "name": "Nightmare Rock",
+      "detail": {
+        "preview": "images\\com_Dawn_DarkRockNM_preview.png"
+      },
+      "description": "Standing up on the edge, and I'm about to...!"
+    },
+    "attachment_data": {
+      "timestamp": 1652039912337,
+      "discord_url": "https://cdn.discordapp.com/attachments/946066809226920027/972950653238390815/com_Dawn_DarkRockNM.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "com_Dawn_DarkRockNM.zip",
+      "attachment_id": "972950653238390815",
+      "thread_id": "946066809226920027",
+      "thread_name": "[CUS] [ONB] [MOB] BN6 Dark Rock!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_SoulNM": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.SoulNM",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.Enemy.SoulNM"
+      ],
+      "name": "Nightmare Soul",
+      "detail": {
+        "preview": "images\\com_Dawn_SoulNM_preview.png"
+      },
+      "description": "I am you and you are me! Face your destiny!"
+    },
+    "attachment_data": {
+      "timestamp": 1654361649797,
+      "discord_url": "https://cdn.discordapp.com/attachments/946066809226920027/982688726100631623/Nightmare_Soul.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "Nightmare_Soul.zip",
+      "attachment_id": "982688726100631623",
+      "thread_id": "946066809226920027",
+      "thread_name": "[CUS] [ONB] [MOB] BN6 Dark Rock!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_DarkRock": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.DarkRock",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.Enemy.DarkRock"
+      ],
+      "name": "Dark Rock",
+      "detail": {
+        "preview": "images\\com_Dawn_DarkRock_preview.png"
+      },
+      "description": "Dark Soul I Have Become"
+    },
+    "attachment_data": {
+      "timestamp": 1664126086430,
+      "discord_url": "https://cdn.discordapp.com/attachments/946066809226920027/1023643741711519834/com_Dawn_DarkRock.zip",
+      "author_name": "D3str0y3d255",
+      "author_id": "414013449585033216",
+      "original_filename": "com_Dawn_DarkRock.zip",
+      "attachment_id": "1023643741711519834",
+      "thread_id": "946066809226920027",
+      "thread_name": "[CUS] [ONB] [MOB] BN6 Dark Rock!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_VolcanoMan": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.VolcanoMan",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.VolcanoManEnemy"
+      ],
+      "name": "VolcanoMan",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_VolcanoMan_preview.png"
+      },
+      "description": ""
+    },
+    "attachment_data": {
+      "timestamp": 1665542956402,
+      "discord_url": "https://cdn.discordapp.com/attachments/1029572711694999552/1029586524930592888/VolcanoMan.zip",
+      "author_name": "Alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "VolcanoMan.zip",
+      "attachment_id": "1029586524930592888",
+      "thread_id": "1029572711694999552",
+      "thread_name": "[CUS] [MOB] VolcanoMan Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_EXE3_Basher": {
+    "data": {
+      "type": "enemies",
+      "id": "com.EXE3.Basher",
+      "dependencies": [],
+      "subpackages": [
+        "com.EXE3.Basher.Enemy"
+      ],
+      "name": "Basher",
+      "detail": {
+        "preview": "images\\com_EXE3_Basher_preview.png"
+      },
+      "description": "TARGET LOCKED.\nFIRING.\nAREA ANNIHILATED."
+    },
+    "attachment_data": {
+      "timestamp": 1654573323580,
+      "discord_url": "https://cdn.discordapp.com/attachments/983414597962850406/983576550123401257/Basher.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "Basher.zip",
+      "attachment_id": "983576550123401257",
+      "thread_id": "983414597962850406",
+      "thread_name": "[WIP] [MOB] [BN3] Basher!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_discord_Konstinople_7692_powie": {
+    "data": {
+      "type": "enemies",
+      "id": "com.discord.Konstinople#7692.powie",
+      "dependencies": [],
+      "subpackages": [
+        "com.discord.Konstinople#7692.enemy.powie",
+        "com.discord.Konstinople#7692.enemy.powie2",
+        "com.discord.Konstinople#7692.enemy.powie3"
+      ],
+      "name": "Powie",
+      "detail": {
+        "preview": "images\\com_discord_Konstinople_7692_powie_preview.png"
+      },
+      "description": "Powie, known as \"Poward\" in Japan, also known as Flappy"
+    },
+    "attachment_data": {
+      "timestamp": 1643774469775,
+      "discord_url": "https://cdn.discordapp.com/attachments/921907571177193532/938282874807922698/powie.zip",
+      "author_name": "Konstinople",
+      "author_id": "252196240144597002",
+      "original_filename": "powie.zip",
+      "attachment_id": "938282874807922698",
+      "thread_id": "921907571177193532",
+      "thread_name": "[OFC][MOB][BN5] Powie",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_keristero_mob_Gunner": {
+    "data": {
+      "type": "enemies",
+      "id": "com.keristero.mob.Gunner",
+      "dependencies": [],
+      "subpackages": [
+        "com.keristero.char.Gunner",
+        "com.keristero.char.Shooter",
+        "com.keristero.char.Sniper"
+      ],
+      "name": "Gunner",
+      "detail": {
+        "preview": "images\\com_keristero_mob_Gunner_preview.png"
+      },
+      "description": "BN6 accurate Gunner"
+    },
+    "attachment_data": {
+      "timestamp": 1669075827375,
+      "discord_url": "https://cdn.discordapp.com/attachments/935628663364390932/1044404459717001297/gunner-bn6.zip",
+      "author_name": "Keristero",
+      "author_id": "143203336454144000",
+      "original_filename": "gunner-bn6.zip",
+      "attachment_id": "1044404459717001297",
+      "thread_id": "935628663364390932",
+      "thread_name": "[OFC][MOB][BN6] Gunner!!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_keristero_mob_Champy": {
+    "data": {
+      "type": "enemies",
+      "id": "com.keristero.mob.Champy",
+      "dependencies": [],
+      "subpackages": [
+        "com.keristero.char.Champy",
+        "com.keristero.char.Chimpy",
+        "com.keristero.char.Chumpy",
+        "com.keristero.char.RareChampy"
+      ],
+      "name": "Champy",
+      "detail": {
+        "preview": "images\\com_keristero_mob_Champy_preview.png"
+      },
+      "description": "BN5 accurate Champy with BN6 forms"
+    },
+    "attachment_data": {
+      "timestamp": 1644184924471,
+      "discord_url": "https://cdn.discordapp.com/attachments/921639708000415794/940004446153367602/champy.zip",
+      "author_name": "jamesking",
+      "author_id": "389909385981329418",
+      "original_filename": "champy.zip",
+      "attachment_id": "940004446153367602",
+      "thread_id": "921639708000415794",
+      "thread_name": "[OFC][MOB][BN6] Champy Family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Dawn_Requested_Catack": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.Requested.Catack",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.Requested.Enemy.Catack"
+      ],
+      "name": "Catack",
+      "detail": {
+        "preview": "images\\com_Dawn_Requested_Catack_preview.png"
+      },
+      "description": "Battletanx!"
+    },
+    "attachment_data": {
+      "timestamp": 1644120349024,
+      "discord_url": "https://cdn.discordapp.com/attachments/939733042224836628/939733597236129792/Catack.zip",
+      "author_name": "Maplewood",
+      "author_id": "191035809820835840",
+      "original_filename": "Catack.zip",
+      "attachment_id": "939733597236129792",
+      "thread_id": "939733042224836628",
+      "thread_name": "[MIX] [BN5|BN6] Catack attack!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Flashy": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Flashy",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Flashy"
+      ],
+      "name": "Flashy",
+      "detail": {
+        "preview": "images\\com_louise_Flashy_preview.png"
+      },
+      "description": "An angry lightbulb"
+    },
+    "attachment_data": {
+      "timestamp": 1673219493768,
+      "discord_url": "https://cdn.discordapp.com/attachments/1047488788806508674/1061784256331907112/Flashy.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Flashy.zip",
+      "attachment_id": "1061784256331907112",
+      "thread_id": "1047488788806508674",
+      "thread_name": "[EXE5] [MOB] Flashy",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Dominerd": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Dominerd",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Dominerd"
+      ],
+      "name": "Dominerd",
+      "detail": {
+        "preview": "images\\com_louise_Dominerd_preview.png"
+      },
+      "description": "Watch your step"
+    },
+    "attachment_data": {
+      "timestamp": 1673219206467,
+      "discord_url": "https://cdn.discordapp.com/attachments/1048775669934473287/1061783051211903076/Dominerd.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Dominerd.zip",
+      "attachment_id": "1061783051211903076",
+      "thread_id": "1048775669934473287",
+      "thread_name": "[MOB][EXE2][EXE3][EXE5] Dominerd",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Swordy": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Swordy",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Swordy"
+      ],
+      "name": "Swordy",
+      "detail": {
+        "preview": "images\\com_louise_Swordy_preview.png"
+      },
+      "description": "*Swordy Swordy*"
+    },
+    "attachment_data": {
+      "timestamp": 1673220503135,
+      "discord_url": "https://cdn.discordapp.com/attachments/1038072834313965609/1061788489642954812/Swordy.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Swordy.zip",
+      "attachment_id": "1061788489642954812",
+      "thread_id": "1038072834313965609",
+      "thread_name": "[EXE3] [MOB] Swordy",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Volcano": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Volcano",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Volcano"
+      ],
+      "name": "Volcano",
+      "detail": {
+        "preview": "images\\com_louise_Volcano_preview.png"
+      },
+      "description": "Shoots out fireballs at an arc and heals on lava!"
+    },
+    "attachment_data": {
+      "timestamp": 1673221011965,
+      "discord_url": "https://cdn.discordapp.com/attachments/1028430365427241060/1061790624031981659/Volcano.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Volcano.zip",
+      "attachment_id": "1061790624031981659",
+      "thread_id": "1028430365427241060",
+      "thread_name": "[EXE3] [MOB] Volcano.",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_CirKill": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.CirKill",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.CirKill",
+        "com.louise.enemy.CirCrush",
+        "com.louise.enemy.CirSmash"
+      ],
+      "name": "CirKill",
+      "detail": {
+        "preview": "images\\com_louise_CirKill_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Your nightmares took physical form",
+      "speed": 1,
+      "attack": 0,
+      "health": 0
+    },
+    "attachment_data": {
+      "timestamp": 1746931056154,
+      "discord_url": "https://cdn.discordapp.com/attachments/1024494759064109086/1370952957213933618/com_louise_CirKill.zip?ex=68215ef0&is=68200d70&hm=4e91c9cf5f641e3d2990318bbf040925efe26aa4ca74f739353637d9f4589235&",
+      "author_name": "hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "com_louise_CirKill.zip",
+      "attachment_id": "1370952957213933618",
+      "thread_id": "1024494759064109086",
+      "thread_name": "[EXE4] [MOB] CircKill",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_WindBox": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.WindBox",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.WindBox",
+        "com.louise.enemy.VacuumFan"
+      ],
+      "name": "WindBox",
+      "detail": {
+        "preview": "images\\com_louise_WindBox_preview.png"
+      },
+      "description": "The WindBox/VacuumFan series."
+    },
+    "attachment_data": {
+      "timestamp": 1673222227887,
+      "discord_url": "https://cdn.discordapp.com/attachments/1015019246612389908/1061795723902988288/WindBox.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "WindBox.zip",
+      "attachment_id": "1061795723902988288",
+      "thread_id": "1015019246612389908",
+      "thread_name": "[WIP][MOB] [EXE2][EXE3][EXE4][EXE5][EXE6] WindBox and VacuumFan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_OldStove": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.OldStove",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.OldStove",
+        "com.louise.enemy.OldHeater",
+        "com.louise.enemy.OldBurner"
+      ],
+      "name": "OldStove",
+      "detail": {
+        "preview": "images\\com_louise_OldStove_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "An old stove",
+      "speed": 1,
+      "attack": 20,
+      "health": 80
+    },
+    "attachment_data": {
+      "timestamp": 1746043303989,
+      "discord_url": "https://cdn.discordapp.com/attachments/1016037992000913479/1367229454941683842/com_louise_OldStove.zip?ex=6813d327&is=681281a7&hm=2d1acf5c31bada8347aede86ee6d3885045a9a3329dad426ec31239e0bac4426&",
+      "author_name": "hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "com_louise_OldStove.zip",
+      "attachment_id": "1367229454941683842",
+      "thread_id": "1016037992000913479",
+      "thread_name": "[MOB] [EXE6] Old Stove",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Bugtank": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Bugtank",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Bugtank"
+      ],
+      "name": "Bugtank",
+      "detail": {
+        "preview": "images\\com_louise_Bugtank_preview.png"
+      },
+      "description": "Bugtank!"
+    },
+    "attachment_data": {
+      "timestamp": 1673222436502,
+      "discord_url": "https://cdn.discordapp.com/attachments/1008897900643893370/1061796599019356160/Bugtank.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Bugtank.zip",
+      "attachment_id": "1061796599019356160",
+      "thread_id": "1008897900643893370",
+      "thread_name": "[EXE5] [MOB] Bugtank",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Shrimpy": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Shrimpy",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Shrimpy"
+      ],
+      "name": "Shrimpy",
+      "detail": {
+        "preview": "images\\com_louise_Shrimpy_preview.png"
+      },
+      "description": "Shrimpy!"
+    },
+    "attachment_data": {
+      "timestamp": 1673222801517,
+      "discord_url": "https://cdn.discordapp.com/attachments/999123661179080724/1061798129994842173/Shrimpy.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Shrimpy.zip",
+      "attachment_id": "1061798129994842173",
+      "thread_id": "999123661179080724",
+      "thread_name": "[EXE3] [MOB] Shrimpy!",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Puffy": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Puffy",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Puffy"
+      ],
+      "name": "Puffy",
+      "detail": {
+        "preview": "images\\com_louise_Puffy_preview.png"
+      },
+      "description": "Bn6 Puffy"
+    },
+    "attachment_data": {
+      "timestamp": 1673222754148,
+      "discord_url": "https://cdn.discordapp.com/attachments/997667152079356035/1061797931319050400/Puffy.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Puffy.zip",
+      "attachment_id": "1061797931319050400",
+      "thread_id": "997667152079356035",
+      "thread_name": "[EXE6] [MOB] Puffy.",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Boomer": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Boomer",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Boomer",
+        "com.louise.enemy.Gloomer",
+        "com.louise.enemy.Doomer"
+      ],
+      "name": "Boomer",
+      "detail": {
+        "preview": "images\\com_louise_Boomer_preview.png"
+      },
+      "description": "Bn3 Boomer"
+    },
+    "attachment_data": {
+      "timestamp": 1673223573086,
+      "discord_url": "https://cdn.discordapp.com/attachments/993560447682871356/1061801366340784198/Boomer.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Boomer.zip",
+      "attachment_id": "1061801366340784198",
+      "thread_id": "993560447682871356",
+      "thread_name": "[EXE3] [MOB] Boomer",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Piranha": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Piranha",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Piranha"
+      ],
+      "name": "Piranha",
+      "detail": {
+        "preview": "images\\com_louise_Piranha_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Bn6 Piranha",
+      "speed": 1,
+      "attack": 20,
+      "health": 70
+    },
+    "attachment_data": {
+      "timestamp": 1748307738341,
+      "discord_url": "https://cdn.discordapp.com/attachments/989687948456919126/1376727181199409243/Piranha.zip?ex=6836609a&is=68350f1a&hm=adde5b78bada844b9dc0ef24ba63cab1ba89a205fbd2b650fe86a98eaf2410fa&",
+      "author_name": "hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Piranha.zip",
+      "attachment_id": "1376727181199409243",
+      "thread_id": "989687948456919126",
+      "thread_name": "[EXE6] [MOB] Piranha",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_HardHead": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.HardHead",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.HardHead",
+        "com.louise.enemy.ColdHead",
+        "com.louise.enemy.HotHead"
+      ],
+      "name": "HardHead",
+      "detail": {
+        "preview": "images\\com_louise_HardHead_preview.png"
+      },
+      "description": "Bn3 HardHeads"
+    },
+    "attachment_data": {
+      "timestamp": 1673223957136,
+      "discord_url": "https://cdn.discordapp.com/attachments/987754140249772053/1061802976932536390/HardHead.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "HardHead.zip",
+      "attachment_id": "1061802976932536390",
+      "thread_id": "987754140249772053",
+      "thread_name": "[EXE3] [MOB] HardHead",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_KillerEye": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.KillerEye",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.KillerEye",
+        "com.louise.enemy.DemonEye",
+        "com.louise.enemy.JokerEye"
+      ],
+      "name": "KillerEye",
+      "detail": {
+        "preview": "images\\com_louise_KillerEye_preview.png"
+      },
+      "description": "Bn6 KillerEye Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1673225171443,
+      "discord_url": "https://cdn.discordapp.com/attachments/982056532017569822/1061808069966839879/KillerEye.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "KillerEye.zip",
+      "attachment_id": "1061808069966839879",
+      "thread_id": "982056532017569822",
+      "thread_name": "[EXE6][MOB]KillrEye",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Scutz": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Scutz",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Scutz",
+        "com.louise.enemy.Scuttle",
+        "com.louise.enemy.Scuttler",
+        "com.louise.enemy.Scuttzer",
+        "com.louise.enemy.Scuttlest"
+      ],
+      "name": "Scutz",
+      "detail": {
+        "preview": "images\\com_louise_Scutz_preview.png"
+      },
+      "description": "Life virus minions"
+    },
+    "attachment_data": {
+      "timestamp": 1673224718059,
+      "discord_url": "https://cdn.discordapp.com/attachments/1030981724680765500/1061806168504291358/Scutz.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Scutz.zip",
+      "attachment_id": "1061806168504291358",
+      "thread_id": "1030981724680765500",
+      "thread_name": "[CUS][EXE3][WIP] Scuttlest",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_AirManV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise_AirManV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise_enemy_AirManV1"
+      ],
+      "name": "AirMan",
+      "detail": {
+        "preview": "images\\com_louise_AirManV1_preview.png"
+      },
+      "description": "AirMan remastered!"
+    },
+    "attachment_data": {
+      "timestamp": 1673225103995,
+      "discord_url": "https://cdn.discordapp.com/attachments/982994848271462400/1061807787304304771/Airmanv1.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Airmanv1.zip",
+      "attachment_id": "1061807787304304771",
+      "thread_id": "982994848271462400",
+      "thread_name": "[MIX][EXE2] AirMan Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_mob_Volgear": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.mob.Volgear",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.char.Volgear"
+      ],
+      "name": "Volgear",
+      "detail": {
+        "preview": "images\\com_louise_mob_Volgear_preview.png"
+      },
+      "description": "BN4 based Volgear"
+    },
+    "attachment_data": {
+      "timestamp": 1673227461123,
+      "discord_url": "https://cdn.discordapp.com/attachments/976986919844077660/1061817673777942538/volgear.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "volgear.zip",
+      "attachment_id": "1061817673777942538",
+      "thread_id": "976986919844077660",
+      "thread_name": "[BN4] [Virus] [WIP] Volgear family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_CircusMan": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.CircusMan",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.CircusMan"
+      ],
+      "name": "CircusMan",
+      "detail": {
+        "preview": "images\\com_louise_CircusMan_preview.png"
+      },
+      "description": "Bn6 CircusMan"
+    },
+    "attachment_data": {
+      "timestamp": 1673223738433,
+      "discord_url": "https://cdn.discordapp.com/attachments/992569718886125609/1061802059826991204/CircusMan.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "CircusMan.zip",
+      "attachment_id": "1061802059826991204",
+      "thread_id": "992569718886125609",
+      "thread_name": "[WIP] [MOB] [EXE6] CircusMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Skarab": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Skarab",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Skarab",
+        "com.louise.enemy.Skarry",
+        "com.louise.enemy.Skelly"
+      ],
+      "name": "Skarab",
+      "detail": {
+        "preview": "images\\com_louise_Skarab_preview.png"
+      },
+      "description": "Skeletons."
+    },
+    "attachment_data": {
+      "timestamp": 1673976553671,
+      "discord_url": "https://cdn.discordapp.com/attachments/1035520444482191360/1064959595593875506/Skarab.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Skarab.zip",
+      "attachment_id": "1064959595593875506",
+      "thread_id": "1035520444482191360",
+      "thread_name": "[EXE5] [MOB] Skarab (skeleton)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Elemperor": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Elemperor",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Elemperor"
+      ],
+      "name": "Elemperor",
+      "detail": {
+        "preview": "images\\com_louise_Elemperor_preview.png"
+      },
+      "description": "The Emperor of the Elements has returned."
+    },
+    "attachment_data": {
+      "timestamp": 1673976669362,
+      "discord_url": "https://cdn.discordapp.com/attachments/1020707222411563098/1064960080774180884/Elemperor.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Elemperor.zip",
+      "attachment_id": "1064960080774180884",
+      "thread_id": "1020707222411563098",
+      "thread_name": "[EXE4] [MOB] Elemperor",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_BassXmas": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.BassXmas",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.BassXmas"
+      ],
+      "name": "BassXmas",
+      "detail": {
+        "preview": "images\\com_louise_BassXmas_preview.png"
+      },
+      "description": "Stop bass from ruining christmas!"
+    },
+    "attachment_data": {
+      "timestamp": 1673976377114,
+      "discord_url": "https://cdn.discordapp.com/attachments/1055474766263353365/1064958855123050636/BassXmas.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "BassXmas.zip",
+      "attachment_id": "1064958855123050636",
+      "thread_id": "1055474766263353365",
+      "thread_name": "[CUS] [MOB] [EXE6] BassXM",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_exe2_MetFire": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.exe2.MetFire",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.MetFire",
+        "com.louise.enemy.FulFire",
+        "com.louise.enemy.DthFire"
+      ],
+      "name": "MetFire",
+      "detail": {
+        "preview": "images\\com_louise_exe2_MetFire_preview.png"
+      },
+      "description": "More meteors!"
+    },
+    "attachment_data": {
+      "timestamp": 1673976700028,
+      "discord_url": "https://cdn.discordapp.com/attachments/1022185497671499778/1064960208792731808/MetFire.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "MetFire.zip",
+      "attachment_id": "1064960208792731808",
+      "thread_id": "1022185497671499778",
+      "thread_name": "[EXE2][EXE5][MOB] MetFire",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_HauntedCandle": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.HauntedCandle",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.HauntedCandle"
+      ],
+      "name": "HauntedCandle",
+      "detail": {
+        "preview": "images\\com_louise_HauntedCandle_preview.png"
+      },
+      "description": "Bn6 HauntedCandle Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1673977730635,
+      "discord_url": "https://cdn.discordapp.com/attachments/984204775438581760/1064964532042223676/HauntedCandle.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "HauntedCandle.zip",
+      "attachment_id": "1064964532042223676",
+      "thread_id": "984204775438581760",
+      "thread_name": "[MOB] [BN6] Haunted Candle",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_mob_HeelNavi": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.mob.HeelNavi",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.HeelNavi",
+        "included.Volgear",
+        "included.Boomer",
+        "included.Gloomer",
+        "included.Doomer",
+        "included.Piranha"
+      ],
+      "name": "HeelNavi",
+      "detail": {
+        "preview": "images\\com_louise_mob_HeelNavi_preview.png"
+      },
+      "description": "BN4 HeelNavi"
+    },
+    "attachment_data": {
+      "timestamp": 1673978230791,
+      "discord_url": "https://cdn.discordapp.com/attachments/995356493840908369/1064966629970161766/heelnavi.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "heelnavi.zip",
+      "attachment_id": "1064966629970161766",
+      "thread_id": "995356493840908369",
+      "thread_name": "[EXE4] [ENEMY] Fightable Heel Navi",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Quaker": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Quaker",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Quaker"
+      ],
+      "name": "Quaker",
+      "detail": {
+        "preview": "images\\com_louise_Quaker_preview.png"
+      },
+      "description": "Bn6 Quaker"
+    },
+    "attachment_data": {
+      "timestamp": 1673978297007,
+      "discord_url": "https://cdn.discordapp.com/attachments/990619810138312774/1064966907716968448/Quaker.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Quaker.zip",
+      "attachment_id": "1064966907716968448",
+      "thread_id": "990619810138312774",
+      "thread_name": "[EXE6] [WIP] Quaker.",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Corn": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Corn",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Corn.BombCorn",
+        "com.louise.enemy.Corn.MegaCorn",
+        "com.louise.enemy.Corn.GigaCorn"
+      ],
+      "name": "Corn",
+      "detail": {
+        "preview": "images\\com_louise_Corn_preview.png"
+      },
+      "description": "Time for some popcorn"
+    },
+    "attachment_data": {
+      "timestamp": 1673982279147,
+      "discord_url": "https://cdn.discordapp.com/attachments/985254222465490944/1064983610005913631/Corn.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Corn.zip",
+      "attachment_id": "1064983610005913631",
+      "thread_id": "985254222465490944",
+      "thread_name": "[EXE6] [MOB] Corn family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Cutman": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Cutman",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Cutman",
+        "com.louise.enemy.Rock"
+      ],
+      "name": "Cutman",
+      "detail": {
+        "preview": "images\\com_louise_Cutman_preview.png"
+      },
+      "description": "Cutman"
+    },
+    "attachment_data": {
+      "timestamp": 1674055457796,
+      "discord_url": "https://cdn.discordapp.com/attachments/1039902370777268375/1065290543485161532/Cutman.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Cutman.zip",
+      "attachment_id": "1065290543485161532",
+      "thread_id": "1039902370777268375",
+      "thread_name": "[EXE2] [MOB] [CUS] Cutman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Lark": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Lark",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Lark",
+        "com.louise.enemy.Bark",
+        "com.louise.enemy.Tark"
+      ],
+      "name": "Lark",
+      "detail": {
+        "preview": "images\\com_louise_Lark_preview.png"
+      },
+      "description": "A weird fish"
+    },
+    "attachment_data": {
+      "timestamp": 1674055527158,
+      "discord_url": "https://cdn.discordapp.com/attachments/1032253517609586750/1065290834456625202/Lark.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Lark.zip",
+      "attachment_id": "1065290834456625202",
+      "thread_id": "1032253517609586750",
+      "thread_name": "[EXE4][EXE5][MOB][WIP] Lark, Bark and Tark",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Quickman": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Quickman",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Quickman"
+      ],
+      "name": "Quickman",
+      "detail": {
+        "preview": "images\\com_louise_Quickman_preview.png"
+      },
+      "description": "Think you can keep up with me?"
+    },
+    "attachment_data": {
+      "timestamp": 1674063394114,
+      "discord_url": "https://cdn.discordapp.com/attachments/1023748331807195166/1065323830849061046/Quickman.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Quickman.zip",
+      "attachment_id": "1065323830849061046",
+      "thread_id": "1023748331807195166",
+      "thread_name": "[EXE2] [BOSS] Quickman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Cragger": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Cragger",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Cragger"
+      ],
+      "name": "Cragger",
+      "detail": {
+        "preview": "images\\com_louise_Cragger_preview.png"
+      },
+      "description": "What goes around comes around"
+    },
+    "attachment_data": {
+      "timestamp": 1674063985983,
+      "discord_url": "https://cdn.discordapp.com/attachments/1044765637161001010/1065326313369505872/Cragger.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Cragger.zip",
+      "attachment_id": "1065326313369505872",
+      "thread_id": "1044765637161001010",
+      "thread_name": "[EXE6] [MOB] Cragger.",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Bunny": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Bunny",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Bunny",
+        "com.louise.enemy.TuffBunny",
+        "com.louise.enemy.MegaBunny"
+      ],
+      "name": "Bunny",
+      "detail": {
+        "preview": "images\\com_louise_Bunny_preview.png"
+      },
+      "description": "Bn3 Bunny"
+    },
+    "attachment_data": {
+      "timestamp": 1674073597062,
+      "discord_url": "https://cdn.discordapp.com/attachments/1000919662126694440/1065366624871383182/Bunny.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Bunny.zip",
+      "attachment_id": "1065366624871383182",
+      "thread_id": "1000919662126694440",
+      "thread_name": "[EXE2][EXE3][MOB] Bunny.",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Yort": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Yort",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Yort"
+      ],
+      "name": "Yort",
+      "detail": {
+        "preview": "images\\com_louise_Yort_preview.png"
+      },
+      "description": "What goes around comes around"
+    },
+    "attachment_data": {
+      "timestamp": 1674073546415,
+      "discord_url": "https://cdn.discordapp.com/attachments/1014146962758578246/1065366412647993404/Yort.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Yort.zip",
+      "attachment_id": "1065366412647993404",
+      "thread_id": "1014146962758578246",
+      "thread_name": "[EXE2][EXE3][MOB] Yort",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_louise_Fishy": {
+    "data": {
+      "type": "enemies",
+      "id": "com.louise.Fishy",
+      "dependencies": [],
+      "subpackages": [
+        "com.louise.enemy.Fishy"
+      ],
+      "name": "Fishy",
+      "detail": {
+        "preview": "images\\com_louise_Fishy_preview.png"
+      },
+      "description": "BN3 Fishy Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1674085476794,
+      "discord_url": "https://cdn.discordapp.com/attachments/979565503771205712/1065416452254994512/fishy.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "fishy.zip",
+      "attachment_id": "1065416452254994512",
+      "thread_id": "979565503771205712",
+      "thread_name": "[EXE3] [MOB] Fishy",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_hinoken_firemanV2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.hinoken.firemanV2",
+      "dependencies": [],
+      "subpackages": [
+        "com.hinoken.Enemy.firemanvs2"
+      ],
+      "name": "FireMan",
+      "detail": {
+        "preview": "images\\com_hinoken_firemanV2_preview.png"
+      },
+      "description": "Something is off.."
+    },
+    "attachment_data": {
+      "timestamp": 1675213067704,
+      "discord_url": "https://cdn.discordapp.com/attachments/1070112574110179328/1070145911491153960/hinoken_firemanv2.zip",
+      "author_name": "DJRezzed",
+      "author_id": "714433270309453856",
+      "original_filename": "hinoken_firemanv2.zip",
+      "attachment_id": "1070145911491153960",
+      "thread_id": "1070112574110179328",
+      "thread_name": "[MIX][MOB] FireMan.exe",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_hinoken_fireman": {
+    "data": {
+      "type": "enemies",
+      "id": "com.hinoken.fireman",
+      "dependencies": [],
+      "subpackages": [
+        "com.hinoken.Enemy.firemanvs"
+      ],
+      "name": "FireMan",
+      "detail": {
+        "preview": "images\\com_hinoken_fireman_preview.png"
+      },
+      "description": "A mysterious navi appe....IS THAT OUR OVEN? Not again..."
+    },
+    "attachment_data": {
+      "timestamp": 1675213067704,
+      "discord_url": "https://cdn.discordapp.com/attachments/1070112574110179328/1070145911092678656/hinoken_fireman.zip",
+      "author_name": "DJRezzed",
+      "author_id": "714433270309453856",
+      "original_filename": "hinoken_fireman.zip",
+      "attachment_id": "1070145911092678656",
+      "thread_id": "1070112574110179328",
+      "thread_name": "[MIX][MOB] FireMan.exe",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_hinoken_firemanV3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.hinoken.firemanV3",
+      "dependencies": [],
+      "subpackages": [
+        "com.hinoken.Enemy.firemanvs3"
+      ],
+      "name": "FireMan",
+      "detail": {
+        "preview": "images\\com_hinoken_firemanV3_preview.png"
+      },
+      "description": "I can barely see anthing...its too bright"
+    },
+    "attachment_data": {
+      "timestamp": 1675213067704,
+      "discord_url": "https://cdn.discordapp.com/attachments/1070112574110179328/1070145910585163776/hinoken_firemanv3.zip",
+      "author_name": "DJRezzed",
+      "author_id": "714433270309453856",
+      "original_filename": "hinoken_firemanv3.zip",
+      "attachment_id": "1070145910585163776",
+      "thread_id": "1070112574110179328",
+      "thread_name": "[MIX][MOB] FireMan.exe",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_Gutsman_V2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.Gutsman_V2",
+      "dependencies": [
+        "com.Thor.enemy.Gutsman_V1"
+      ],
+      "subpackages": [],
+      "name": "GutsMan V2",
+      "detail": {
+        "preview": "images\\com_Thor_Gutsman_V2_preview.png"
+      },
+      "description": "BN3 GutsMan V2 (Alpha) Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1642490499058,
+      "discord_url": "https://cdn.discordapp.com/attachments/928447687605485580/932897511008526366/Gutsman_V2.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Gutsman_V2.zip",
+      "attachment_id": "932897511008526366",
+      "thread_id": "928447687605485580",
+      "thread_name": "[OFW][BN3][MOB] GutsMan Fights",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_Gutsman_V1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.Gutsman_V1",
+      "dependencies": [],
+      "subpackages": [
+        "com.Thor.enemy.Gutsman_V1"
+      ],
+      "name": "GutsMan V1",
+      "detail": {
+        "preview": "images\\com_Thor_Gutsman_V1_preview.png"
+      },
+      "description": "BN3 GutsMan V1 Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1657586704873,
+      "discord_url": "https://cdn.discordapp.com/attachments/928447687605485580/996215587380408340/Gutsman_V1.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Gutsman_V1.zip",
+      "attachment_id": "996215587380408340",
+      "thread_id": "928447687605485580",
+      "thread_name": "[OFW][BN3][MOB] GutsMan Fights",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_Gutsman_V4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.Gutsman_V4",
+      "dependencies": [
+        "com.Thor.enemy.Gutsman_V1"
+      ],
+      "subpackages": [],
+      "name": "GutsMan SP",
+      "detail": {
+        "preview": "images\\com_Thor_Gutsman_V4_preview.png"
+      },
+      "description": "BN3 GutsMan SP (Omega) Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1642490499058,
+      "discord_url": "https://cdn.discordapp.com/attachments/928447687605485580/932897510651994142/Gutsman_V4.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Gutsman_V4.zip",
+      "attachment_id": "932897510651994142",
+      "thread_id": "928447687605485580",
+      "thread_name": "[OFW][BN3][MOB] GutsMan Fights",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Thor_Gutsman_V3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Thor.Gutsman_V3",
+      "dependencies": [
+        "com.Thor.enemy.Gutsman_V1"
+      ],
+      "subpackages": [],
+      "name": "GutsMan V3",
+      "detail": {
+        "preview": "images\\com_Thor_Gutsman_V3_preview.png"
+      },
+      "description": "BN3 GutsMan V3 (Beta) Battle!"
+    },
+    "attachment_data": {
+      "timestamp": 1642490499058,
+      "discord_url": "https://cdn.discordapp.com/attachments/928447687605485580/932897510450688010/Gutsman_V3.zip",
+      "author_name": "SusThor",
+      "author_id": "715825982644420668",
+      "original_filename": "Gutsman_V3.zip",
+      "attachment_id": "932897510450688010",
+      "thread_id": "928447687605485580",
+      "thread_name": "[OFW][BN3][MOB] GutsMan Fights",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_HNST_SGNL_DarkMech": {
+    "data": {
+      "type": "enemies",
+      "id": "com.HNST_SGNL.DarkMech",
+      "dependencies": [],
+      "subpackages": [
+        "com.HNST_SGNL.enemy.DarkMech"
+      ],
+      "name": "DarkMech",
+      "detail": {
+        "preview": "images\\com_HNST_SGNL_DarkMech_preview.png"
+      },
+      "description": "DARK MECH STUNS AND SLASHES"
+    },
+    "attachment_data": {
+      "timestamp": 1678671188426,
+      "discord_url": "https://cdn.discordapp.com/attachments/1084650317192368152/1084650321013375076/com_HNST_SGNL_DarkMech.zip",
+      "author_name": "Honest Signal",
+      "author_id": "203203527579795465",
+      "original_filename": "com_HNST_SGNL_DarkMech.zip",
+      "attachment_id": "1084650321013375076",
+      "thread_id": "1084650317192368152",
+      "thread_name": "[OFC][MOB][BN6] DarkMech family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_Hecatia": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.Hecatia",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.HecatiaEnemy"
+      ],
+      "name": "Hecatia",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_Hecatia_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Planetary attack!",
+      "speed": 1,
+      "attack": 120,
+      "health": 3500
+    },
+    "attachment_data": {
+      "timestamp": 1745866247953,
+      "discord_url": "https://cdn.discordapp.com/attachments/1081485805584928858/1366486827912921159/Hecatia.zip?ex=68111f87&is=680fce07&hm=c40cb6e5d7696e4f0d690e3d96b7c3e27a1913c6537f36fcaee5ab005322a6a9&",
+      "author_name": "alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "Hecatia.zip",
+      "attachment_id": "1366486827912921159",
+      "thread_id": "1081485805584928858",
+      "thread_name": "[CUS] [GENSO] [MOB] Hecatia.EXE Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_Yuki": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.Yuki",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.YukiEnemy"
+      ],
+      "name": "Yuki",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_Yuki_preview.png"
+      },
+      "description": ""
+    },
+    "attachment_data": {
+      "timestamp": 1679195769488,
+      "discord_url": "https://cdn.discordapp.com/attachments/1056008104329891900/1086850573619450029/Yuki.zip",
+      "author_name": "Alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "Yuki.zip",
+      "attachment_id": "1086850573619450029",
+      "thread_id": "1056008104329891900",
+      "thread_name": "[CUS] [GENSO] [MOB] Yuki.EXE Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_Kogasa": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.Kogasa",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.KogasaEnemy"
+      ],
+      "name": "Kogasa",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_Kogasa_preview.png"
+      },
+      "description": "Never saw this one coming!"
+    },
+    "attachment_data": {
+      "timestamp": 1665538401748,
+      "discord_url": "https://cdn.discordapp.com/attachments/1029081975820124210/1029567421247397998/Kogasa.zip",
+      "author_name": "Alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "Kogasa.zip",
+      "attachment_id": "1029567421247397998",
+      "thread_id": "1029081975820124210",
+      "thread_name": "[GENSO] [CUS] [MOB] Kogasa Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Rune_mob_PawnMett2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Rune.mob.PawnMett2",
+      "dependencies": [],
+      "subpackages": [
+        "com.Rune.char.PawnMett"
+      ],
+      "name": "PawnMett",
+      "detail": {
+        "preview": "images\\com_Rune_mob_PawnMett2_preview.png"
+      },
+      "description": "Mettaur Pawn"
+    },
+    "attachment_data": {
+      "timestamp": 1654015482189,
+      "discord_url": "https://cdn.discordapp.com/attachments/981236587587305493/981236793691217960/MettPawn.zip",
+      "author_name": "Rubedo",
+      "author_id": "158187211089641473",
+      "original_filename": "MettPawn.zip",
+      "attachment_id": "981236793691217960",
+      "thread_id": "981236587587305493",
+      "thread_name": "[CUS] [VIRUS] [ONB] MettKing Family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Rune_mob_Royal_Decree__V1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Rune.mob.Royal Decree! V1",
+      "dependencies": [
+        "com.Rune.mob.KingMett",
+        "com.Rune.mob.PawnMett"
+      ],
+      "subpackages": [],
+      "name": "Royal Decree! V1",
+      "detail": {
+        "preview": "images\\com_Rune_mob_Royal_Decree__V1_preview.png"
+      },
+      "description": "The royal family of MettVillage."
+    },
+    "attachment_data": {
+      "timestamp": 1654015496575,
+      "discord_url": "https://cdn.discordapp.com/attachments/981236587587305493/981236854135341126/RoyalDecree.zip",
+      "author_name": "Rubedo",
+      "author_id": "158187211089641473",
+      "original_filename": "RoyalDecree.zip",
+      "attachment_id": "981236854135341126",
+      "thread_id": "981236587587305493",
+      "thread_name": "[CUS] [VIRUS] [ONB] MettKing Family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_Rune_mob_KingMett2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Rune.mob.KingMett2",
+      "dependencies": [],
+      "subpackages": [
+        "com.Rune.char.KingMett"
+      ],
+      "name": "KingMett",
+      "detail": {
+        "preview": "images\\com_Rune_mob_KingMett2_preview.png"
+      },
+      "description": "King Mettaur "
+    },
+    "attachment_data": {
+      "timestamp": 1654020249367,
+      "discord_url": "https://cdn.discordapp.com/attachments/981236587587305493/981256788798214144/MettKing.zip",
+      "author_name": "K1rbYat1Na",
+      "author_id": "239009201530208256",
+      "original_filename": "MettKing.zip",
+      "attachment_id": "981256788798214144",
+      "thread_id": "981236587587305493",
+      "thread_name": "[CUS] [VIRUS] [ONB] MettKing Family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "hoov_package_swaplight": {
+    "data": {
+      "type": "enemies",
+      "id": "hoov.package.swaplight",
+      "dependencies": [],
+      "subpackages": [
+        "hoov.enemy.swaplight"
+      ],
+      "name": "Swaplight",
+      "detail": {
+        "preview": "images\\hoov_package_swaplight_preview.png"
+      },
+      "description": "Support Virus Inbound"
+    },
+    "attachment_data": {
+      "timestamp": 1682813862919,
+      "discord_url": "https://cdn.discordapp.com/attachments/1091156561994457120/1102025957117800468/SwapLight.zip",
+      "author_name": "Hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "SwapLight.zip",
+      "attachment_id": "1102025957117800468",
+      "thread_id": "1091156561994457120",
+      "thread_name": "[MIX][MOB] SwapLight Virus",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OctoChris_mob_Noir": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OctoChris.mob.Noir",
+      "dependencies": [],
+      "subpackages": [
+        "com.OctoChris.enemy.Noir"
+      ],
+      "name": "Noir",
+      "detail": {
+        "preview": "images\\com_OctoChris_mob_Noir_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "If you expect defeat, that is what you'll get...",
+      "speed": 5,
+      "attack": 5,
+      "health": 1500
+    },
+    "attachment_data": {
+      "timestamp": 1694081149573,
+      "discord_url": "https://cdn.discordapp.com/attachments/1104117247330488411/1149284382616592404/com_OctoChris_Noir_BossFight.zip",
+      "author_name": "diceman98",
+      "author_id": "188409676696649728",
+      "original_filename": "com_OctoChris_Noir_BossFight.zip",
+      "attachment_id": "1149284382616592404",
+      "thread_id": "1104117247330488411",
+      "thread_name": "[MOB] [CUS] NetBattle vs Noir",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_Yumeko": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.Yumeko",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.YumekoEnemy"
+      ],
+      "name": "Yumeko",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_Yumeko_preview.png"
+      },
+      "description": "An unlikely opponent...!"
+    },
+    "attachment_data": {
+      "timestamp": 1687381762074,
+      "discord_url": "https://cdn.discordapp.com/attachments/1120960327983583272/1121185114852950066/Yumeko.zip",
+      "author_name": "alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "Yumeko.zip",
+      "attachment_id": "1121185114852950066",
+      "thread_id": "1120960327983583272",
+      "thread_name": "[CUS] [GENSO] [MOB] Yumeko.EXE Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_RayCannon": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.RayCannon",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.RayCannon_enemy"
+      ],
+      "name": "RayCannon",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_RayCannon_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "The cannons are clanking happily today.",
+      "speed": 1,
+      "attack": 15,
+      "health": 60
+    },
+    "attachment_data": {
+      "timestamp": 1690328907041,
+      "discord_url": "https://cdn.discordapp.com/attachments/1133546268149420142/1133546336709525504/RayCannon.zip",
+      "author_name": "alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "RayCannon.zip",
+      "attachment_id": "1133546336709525504",
+      "thread_id": "1133546268149420142",
+      "thread_name": "[CUS] [GENSO] [MOB] RayCannon",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OctoChris_MetalSonic": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OctoChris.MetalSonic",
+      "dependencies": [],
+      "subpackages": [
+        "com.OctoChris.Enemy.MetalSonic"
+      ],
+      "name": "Metal Sonic",
+      "detail": {
+        "preview": "images\\com_OctoChris_MetalSonic_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Foreign entity data has appeared. Sprites by CyberShadow.",
+      "speed": 5,
+      "attack": 50,
+      "health": 2000
+    },
+    "attachment_data": {
+      "timestamp": 1694443593116,
+      "discord_url": "https://cdn.discordapp.com/attachments/1150486225577312347/1150804580851011744/com_OctoChris_MetalSonic_BossFight.zip",
+      "author_name": "diceman98",
+      "author_id": "188409676696649728",
+      "original_filename": "com_OctoChris_MetalSonic_BossFight.zip",
+      "attachment_id": "1150804580851011744",
+      "thread_id": "1150486225577312347",
+      "thread_name": "[WIP] [CUS] [MOB] [SONIC] Metal Sonic Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_JammingMan": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.JammingMan",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.JammingManEnemy"
+      ],
+      "name": "JammingMan",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_JammingMan_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "I'm feeling some interference...",
+      "speed": 1,
+      "attack": 60,
+      "health": 1000
+    },
+    "attachment_data": {
+      "timestamp": 1703898122865,
+      "discord_url": "https://cdn.discordapp.com/attachments/1190459701431898182/1190459753034436638/JammingMan.zip?ex=65a1e10a&is=658f6c0a&hm=84e2bf1d40787fdc146b9969ff96c3339d1115055690622489a3cbc118564911&",
+      "author_name": "alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "JammingMan.zip",
+      "attachment_id": "1190459753034436638",
+      "thread_id": "1190459701431898182",
+      "thread_name": "[OFC] [PON] [MOB] JammingMan Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_001_Metall": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-001-Metall",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-001-Metall"
+      ],
+      "name": "Metall (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_001_Metall_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Metall family from EXEPoN",
+      "speed": 1,
+      "attack": 10,
+      "health": 40
+    },
+    "attachment_data": {
+      "timestamp": 1708290182972,
+      "discord_url": "https://cdn.discordapp.com/attachments/1198737670889807912/1208881388254666853/EXEPoN-001-Metall.zip?ex=65e4e586&is=65d27086&hm=24cee9a1d6fe917c1b56c1fa644cabd8e0a0d145e24fbb1f3299e922dd7be003&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-001-Metall.zip",
+      "attachment_id": "1208881388254666853",
+      "thread_id": "1198737670889807912",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Metall family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_008_Rabiri": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-008-Rabiri",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-008-Rabiri",
+        "com.OFC.char.EXEPoN-008-HighRabiri",
+        "com.OFC.char.EXEPoN-008-MegaRabiri"
+      ],
+      "name": "Rabiri (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_008_Rabiri_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Rabiri family from EXEPoN",
+      "speed": 1,
+      "attack": 10,
+      "health": 40
+    },
+    "attachment_data": {
+      "timestamp": 1708290173011,
+      "discord_url": "https://cdn.discordapp.com/attachments/1199033710167732285/1208881346504822804/EXEPoN-008-Rabiri.zip?ex=65e4e57c&is=65d2707c&hm=5d9b166e47dea24729a96b5633b2ce51da458939a646afa914d1256299608dae&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-008-Rabiri.zip",
+      "attachment_id": "1208881346504822804",
+      "thread_id": "1199033710167732285",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Rabiri family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_JammingManV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.JammingManV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.JammingManEnemy"
+      ],
+      "name": "JammingMan",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_JammingManV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "I'm feeling some interference...",
+      "speed": 1,
+      "attack": 60,
+      "health": 1000
+    },
+    "attachment_data": {
+      "timestamp": 1708924704455,
+      "discord_url": "https://cdn.discordapp.com/attachments/1190459701431898182/1211542764257550386/JammingMan.zip?ex=65ee9420&is=65dc1f20&hm=7844d71609f3c51a4f378637cdb1ccfba9bb80fc02ed973344de892d46625494&",
+      "author_name": "alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "JammingMan.zip",
+      "attachment_id": "1211542764257550386",
+      "thread_id": "1190459701431898182",
+      "thread_name": "[OFC] [PON] [MOB] JammingMan Boss Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_007_Kabutank": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-007-Kabutank",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-007-Kabutank"
+      ],
+      "name": "Kabutank (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_007_Kabutank_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Kabutank family from EXEPoN",
+      "speed": 1,
+      "attack": 10,
+      "health": 50
+    },
+    "attachment_data": {
+      "timestamp": 1708883000862,
+      "discord_url": "https://cdn.discordapp.com/attachments/1206252648500830228/1211367846563811478/EXEPoN-007-Kabutank.zip?ex=65edf138&is=65db7c38&hm=b5a45d525c3bb8a958637d119049514f496448616344648a0c2237318c6d7b69&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-007-Kabutank.zip",
+      "attachment_id": "1211367846563811478",
+      "thread_id": "1206252648500830228",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Kabutank family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_020_DreamBolt": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-020-DreamBolt",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-018-DreamMeraru",
+        "com.OFC.char.EXEPoN-018-DreamLapia",
+        "com.OFC.char.EXEPoN-018-DreamBolt",
+        "com.OFC.char.EXEPoN-018-DreamMoss"
+      ],
+      "subpackages": [],
+      "name": "DreamBolt (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_020_DreamBolt_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the DreamBolt family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 80
+    },
+    "attachment_data": {
+      "timestamp": 1708247892965,
+      "discord_url": "https://cdn.discordapp.com/attachments/1208703282587893811/1208704010685644870/EXEPoN-020-DreamBolt.zip?ex=65e44054&is=65d1cb54&hm=f5700352d0f6c6c235120f1d18f3cd24d3f3c7807420ea2f2c96c4fc42a96ac6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-020-DreamBolt.zip",
+      "attachment_id": "1208704010685644870",
+      "thread_id": "1208703282587893811",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Dream Bit families",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_019_DreamLapia": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-019-DreamLapia",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-018-DreamMeraru",
+        "com.OFC.char.EXEPoN-018-DreamLapia",
+        "com.OFC.char.EXEPoN-018-DreamBolt",
+        "com.OFC.char.EXEPoN-018-DreamMoss"
+      ],
+      "subpackages": [],
+      "name": "DreamLapia (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_019_DreamLapia_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the DreamLapia family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 60
+    },
+    "attachment_data": {
+      "timestamp": 1708247892965,
+      "discord_url": "https://cdn.discordapp.com/attachments/1208703282587893811/1208704010396114954/EXEPoN-019-DreamLapia.zip?ex=65e44054&is=65d1cb54&hm=45e65a9bf89022969cb2686c5fdbbc0ab0364181adc5ce1c3b21aa1b5d023541&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-019-DreamLapia.zip",
+      "attachment_id": "1208704010396114954",
+      "thread_id": "1208703282587893811",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Dream Bit families",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_018_DreamMeraru": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-018-DreamMeraru",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-018-DreamMeraru",
+        "com.OFC.char.EXEPoN-018-DreamLapia",
+        "com.OFC.char.EXEPoN-018-DreamBolt",
+        "com.OFC.char.EXEPoN-018-DreamMoss"
+      ],
+      "name": "DreamMeraru (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_018_DreamMeraru_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the DreamMeraru family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 60
+    },
+    "attachment_data": {
+      "timestamp": 1708247892965,
+      "discord_url": "https://cdn.discordapp.com/attachments/1208703282587893811/1208704010115358740/EXEPoN-018-DreamMeraru.zip?ex=65e44054&is=65d1cb54&hm=eda14681bb0fadb871c65ff25f04612d06637efa3abf0556aa24fa8a130988bb&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-018-DreamMeraru.zip",
+      "attachment_id": "1208704010115358740",
+      "thread_id": "1208703282587893811",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Dream Bit families",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_021_DreamMoss": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-021-DreamMoss",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-018-DreamMeraru",
+        "com.OFC.char.EXEPoN-018-DreamLapia",
+        "com.OFC.char.EXEPoN-018-DreamBolt",
+        "com.OFC.char.EXEPoN-018-DreamMoss"
+      ],
+      "subpackages": [],
+      "name": "DreamMoss (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_021_DreamMoss_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the DreamMoss family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 90
+    },
+    "attachment_data": {
+      "timestamp": 1708247892965,
+      "discord_url": "https://cdn.discordapp.com/attachments/1208703282587893811/1208704010987642880/EXEPoN-021-DreamMoss.zip?ex=65e44054&is=65d1cb54&hm=e1d8bb0f489997cb08ff1edb6db6d3981477e173f6356dfab063c09f5e90294c&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-021-DreamMoss.zip",
+      "attachment_id": "1208704010987642880",
+      "thread_id": "1208703282587893811",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Dream Bit families",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_012_Rounda": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-012-Rounda",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-012-Rounda",
+        "com.OFC.char.EXEPoN-012-Roundarau",
+        "com.OFC.char.EXEPoN-012-Roundabar"
+      ],
+      "name": "Rounda (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_012_Rounda_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Rounda family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 60
+    },
+    "attachment_data": {
+      "timestamp": 1708250179126,
+      "discord_url": "https://cdn.discordapp.com/attachments/1208713574495821894/1208713600185667604/EXEPoN-012-Rounda.zip?ex=65e44943&is=65d1d443&hm=54610d021f83bc1e6253c5dd5b5dcaa82d020cc580ef466c9fe0ab6a25c93a7f&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-012-Rounda.zip",
+      "attachment_id": "1208713600185667604",
+      "thread_id": "1208713574495821894",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Rounda family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_002_Cannodumb": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-002-Cannodumb",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-002-Cannodumb"
+      ],
+      "name": "Cannodumb (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_002_Cannodumb_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Cannodumb family from EXEPoN",
+      "speed": 1,
+      "attack": 10,
+      "health": 50
+    },
+    "attachment_data": {
+      "timestamp": 1708290095442,
+      "discord_url": "https://cdn.discordapp.com/attachments/1198993559131529326/1208881021152665691/EXEPoN-002-Cannodumb.zip?ex=65e4e52f&is=65d2702f&hm=d992f6ef84a21eeb407209271d14159a856e5cf1af912171350bee53e230dcd1&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-002-Cannodumb.zip",
+      "attachment_id": "1208881021152665691",
+      "thread_id": "1198993559131529326",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Cannodumb family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_022_FireManV4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-022-FireManV4",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-022-FireMan"
+      ],
+      "subpackages": [],
+      "name": "FireMan SP (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_022_FireManV4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with FireMan SP from EXEPoN",
+      "speed": 1,
+      "attack": 120,
+      "health": 1300
+    },
+    "attachment_data": {
+      "timestamp": 1708290248313,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204861758947332266/1208881662251901051/EXEPoN-022-FireManV4.zip?ex=65e4e5c8&is=65d270c8&hm=1c2762d760930a5976b78cf72ada58cf3640ac575a638f52f317f28e25e2b0a0&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-022-FireManV4.zip",
+      "attachment_id": "1208881662251901051",
+      "thread_id": "1204861758947332266",
+      "thread_name": "[OFC] [MOB] [EXEPoN] FireMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_022_FireManV3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-022-FireManV3",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-022-FireMan"
+      ],
+      "subpackages": [],
+      "name": "FireMan V3 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_022_FireManV3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with FireMan V3 from EXEPoN",
+      "speed": 1,
+      "attack": 90,
+      "health": 1000
+    },
+    "attachment_data": {
+      "timestamp": 1708290248313,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204861758947332266/1208881661962354769/EXEPoN-022-FireManV3.zip?ex=65e4e5c8&is=65d270c8&hm=f37920654fd35ebb82b79949e1a621cb724b5492d583870c6ee9ad98653c9af5&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-022-FireManV3.zip",
+      "attachment_id": "1208881661962354769",
+      "thread_id": "1204861758947332266",
+      "thread_name": "[OFC] [MOB] [EXEPoN] FireMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_022_FireManV2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-022-FireManV2",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-022-FireMan"
+      ],
+      "subpackages": [],
+      "name": "FireMan V2 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_022_FireManV2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with FireMan V2 from EXEPoN",
+      "speed": 1,
+      "attack": 50,
+      "health": 700
+    },
+    "attachment_data": {
+      "timestamp": 1708290248313,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204861758947332266/1208881661656178818/EXEPoN-022-FireManV2.zip?ex=65e4e5c8&is=65d270c8&hm=1dbdd6b5c889472a6b644db81cbced957092038540ad029080b35ae64b812778&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-022-FireManV2.zip",
+      "attachment_id": "1208881661656178818",
+      "thread_id": "1204861758947332266",
+      "thread_name": "[OFC] [MOB] [EXEPoN] FireMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_022_FireManV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-022-FireManV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-022-FireMan"
+      ],
+      "name": "FireMan (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_022_FireManV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with FireMan from EXEPoN",
+      "speed": 1,
+      "attack": 30,
+      "health": 400
+    },
+    "attachment_data": {
+      "timestamp": 1709386839856,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204861758947332266/1213481100651921468/EXEPoN-022-FireManV1.zip?ex=65f5a157&is=65e32c57&hm=b0e55e274bbae966725e2f716abb06b23cc04140e5854b466d49fa2bd81a7a58&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-022-FireManV1.zip",
+      "attachment_id": "1213481100651921468",
+      "thread_id": "1204861758947332266",
+      "thread_name": "[OFC] [MOB] [EXEPoN] FireMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_027_RollV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-027-RollV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-027-Roll"
+      ],
+      "name": "Roll (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_027_RollV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with Roll from EXEPoN",
+      "speed": 1,
+      "attack": 30,
+      "health": 500
+    },
+    "attachment_data": {
+      "timestamp": 1709404053153,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204180639478448210/1213553298477547630/EXEPoN-027-RollV1.zip?ex=65f5e495&is=65e36f95&hm=30de680874993b7a44b443921832081276f5a47f8c88ea8f55543740fd36faca&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-027-RollV1.zip",
+      "attachment_id": "1213553298477547630",
+      "thread_id": "1204180639478448210",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Roll boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_026_GutsManV4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-026-GutsManV4",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-026-GutsMan"
+      ],
+      "subpackages": [],
+      "name": "GutsMan SP (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_026_GutsManV4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with GutsMan SP from EXEPoN",
+      "speed": 1,
+      "attack": 120,
+      "health": 1200
+    },
+    "attachment_data": {
+      "timestamp": 1708290307732,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205639575100198983/1208881911490023525/EXEPoN-026-GutsManV4.zip?ex=65e4e603&is=65d27103&hm=c46c3669c9db33e7f7b848e4d66681b259eaac04fbf8031441b15729f26f2633&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-026-GutsManV4.zip",
+      "attachment_id": "1208881911490023525",
+      "thread_id": "1205639575100198983",
+      "thread_name": "[OFC] [MOB] [EXEPoN] GutsMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_026_GutsManV3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-026-GutsManV3",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-026-GutsMan"
+      ],
+      "subpackages": [],
+      "name": "GutsMan V3 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_026_GutsManV3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with GutsMan V3 from EXEPoN",
+      "speed": 1,
+      "attack": 80,
+      "health": 900
+    },
+    "attachment_data": {
+      "timestamp": 1708290307732,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205639575100198983/1208881911095894056/EXEPoN-026-GutsManV3.zip?ex=65e4e603&is=65d27103&hm=0505006638d87125c1e3f4f8b0b3b9c1d4a75ada96894a13ffbd10ea9dcee35c&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-026-GutsManV3.zip",
+      "attachment_id": "1208881911095894056",
+      "thread_id": "1205639575100198983",
+      "thread_name": "[OFC] [MOB] [EXEPoN] GutsMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_026_GutsManV2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-026-GutsManV2",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-026-GutsMan"
+      ],
+      "subpackages": [],
+      "name": "GutsMan V2 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_026_GutsManV2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with GutsMan V2 from EXEPoN",
+      "speed": 1,
+      "attack": 60,
+      "health": 600
+    },
+    "attachment_data": {
+      "timestamp": 1708290307732,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205639575100198983/1208881910797836328/EXEPoN-026-GutsManV2.zip?ex=65e4e603&is=65d27103&hm=a922292805731d09118f3d87b4d55c2e54bf40d6cfe7d67dd10b8d4c3ff6e3d4&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-026-GutsManV2.zip",
+      "attachment_id": "1208881910797836328",
+      "thread_id": "1205639575100198983",
+      "thread_name": "[OFC] [MOB] [EXEPoN] GutsMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_026_GutsManV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-026-GutsManV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-026-GutsMan"
+      ],
+      "name": "GutsMan (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_026_GutsManV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with GutsMan from EXEPoN",
+      "speed": 1,
+      "attack": 30,
+      "health": 300
+    },
+    "attachment_data": {
+      "timestamp": 1709403854743,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205639575100198983/1213552466227101706/EXEPoN-026-GutsManV1.zip?ex=65f5e3ce&is=65e36ece&hm=a04c4a56c9d13b67092e85520cedc3cb45150193e2be9c6825a2678063f47b87&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-026-GutsManV1.zip",
+      "attachment_id": "1213552466227101706",
+      "thread_id": "1205639575100198983",
+      "thread_name": "[OFC] [MOB] [EXEPoN] GutsMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_028_BluesV4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-028-BluesV4",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-028-Blues"
+      ],
+      "subpackages": [],
+      "name": "Blues SP (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_028_BluesV4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with Blues SP from EXEPoN",
+      "speed": 1,
+      "attack": 120,
+      "health": 1600
+    },
+    "attachment_data": {
+      "timestamp": 1708290427948,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204537038288715826/1208882415754412052/EXEPoN-028-BluesV4.zip?ex=65e4e67b&is=65d2717b&hm=3aa2de579773c1b0400a80026ba9cada44048e81ca09b657a4894e9a969f7610&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-028-BluesV4.zip",
+      "attachment_id": "1208882415754412052",
+      "thread_id": "1204537038288715826",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Blues boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_028_BluesV3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-028-BluesV3",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-028-Blues"
+      ],
+      "subpackages": [],
+      "name": "Blues V3 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_028_BluesV3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with Blues V3 from EXEPoN",
+      "speed": 1,
+      "attack": 100,
+      "health": 1400
+    },
+    "attachment_data": {
+      "timestamp": 1708290427948,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204537038288715826/1208882415372599296/EXEPoN-028-BluesV3.zip?ex=65e4e67b&is=65d2717b&hm=827d90971d589f270d3b607af3ac90f29c1ce1c365466b17c54fd3d4b29aa6f7&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-028-BluesV3.zip",
+      "attachment_id": "1208882415372599296",
+      "thread_id": "1204537038288715826",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Blues boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_028_BluesV2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-028-BluesV2",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-028-Blues"
+      ],
+      "subpackages": [],
+      "name": "Blues V2 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_028_BluesV2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with Blues V2 from EXEPoN",
+      "speed": 1,
+      "attack": 80,
+      "health": 1200
+    },
+    "attachment_data": {
+      "timestamp": 1708290427948,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204537038288715826/1208882415045709844/EXEPoN-028-BluesV2.zip?ex=65e4e67b&is=65d2717b&hm=056dc8cc4b1927c24bf6df109ab2c2550c50212ef193b34238b978297c410943&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-028-BluesV2.zip",
+      "attachment_id": "1208882415045709844",
+      "thread_id": "1204537038288715826",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Blues boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_028_BluesV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-028-BluesV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-028-Blues"
+      ],
+      "name": "Blues (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_028_BluesV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with Blues from EXEPoN",
+      "speed": 1,
+      "attack": 60,
+      "health": 900
+    },
+    "attachment_data": {
+      "timestamp": 1709406761467,
+      "discord_url": "https://cdn.discordapp.com/attachments/1204537038288715826/1213564657911209985/EXEPoN-028-BluesV1.zip?ex=65f5ef29&is=65e37a29&hm=bab1c0c5a2f8c68f23d141a4e4a8ad9d6e6bc4053f17b515a65beb136d912e07&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-028-BluesV1.zip",
+      "attachment_id": "1213564657911209985",
+      "thread_id": "1204537038288715826",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Blues boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_003_Swordin": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-003-Swordin",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-003-Swordin",
+        "com.OFC.char.EXEPoN-003-Swordra",
+        "com.OFC.char.EXEPoN-003-Swortar"
+      ],
+      "name": "Swordin (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_003_Swordin_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Swordin family from EXEPoN",
+      "speed": 1,
+      "attack": 30,
+      "health": 70
+    },
+    "attachment_data": {
+      "timestamp": 1708628130788,
+      "discord_url": "https://cdn.discordapp.com/attachments/1210298806076309524/1210298844169113701/EXEPoN-003-Swordin.zip?ex=65ea0da2&is=65d798a2&hm=4c8c8f7a06b39195d9c7b9df4227f3db78c003fd8682920acf8c6a252c257735&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-003-Swordin.zip",
+      "attachment_id": "1210298844169113701",
+      "thread_id": "1210298806076309524",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Swordin family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_005_Ebiron": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-005-Ebiron",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-005-Ebiron",
+        "com.OFC.char.EXEPoN-005-Ebidel",
+        "com.OFC.char.EXEPoN-005-EbiSide"
+      ],
+      "name": "Ebiron (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_005_Ebiron_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Ebiron family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 60
+    },
+    "attachment_data": {
+      "timestamp": 1709400423832,
+      "discord_url": "https://cdn.discordapp.com/attachments/1211362326956081224/1213538075926601768/EXEPoN-005-Ebiron.zip?ex=65f5d667&is=65e36167&hm=cbef4b1a77b8299f7efa419c0541e86154096bc10112bf572a36db1d27fdcf4f&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-005-Ebiron.zip",
+      "attachment_id": "1213538075926601768",
+      "thread_id": "1211362326956081224",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Ebiron family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_HatMan": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.HatMan",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.HatManEnemy"
+      ],
+      "name": "HatMan",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_HatMan_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Hope you have a good hand.",
+      "speed": 1,
+      "attack": 40,
+      "health": 800
+    },
+    "attachment_data": {
+      "timestamp": 1709097513650,
+      "discord_url": "https://cdn.discordapp.com/attachments/1211549136197918760/1212267578580533248/HatMan.zip?ex=65f13729&is=65dec229&hm=748f8b8deba1238459c9bc5e8cd0107f65384211872998f193492901509d466d&",
+      "author_name": "alrysc",
+      "author_id": "362428610444787712",
+      "original_filename": "HatMan.zip",
+      "attachment_id": "1212267578580533248",
+      "thread_id": "1211549136197918760",
+      "thread_name": "[OFC] [MOB] [EXEPoN] HatMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_009_HardBolz": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-009-HardBolz",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-009-HardBolz",
+        "com.OFC.char.EXEPoN-009-ColdBolz",
+        "com.OFC.char.EXEPoN-009-MagraBolz"
+      ],
+      "name": "HardBolz (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_009_HardBolz_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the HardBolz family from EXEPoN",
+      "speed": 1,
+      "attack": 80,
+      "health": 80
+    },
+    "attachment_data": {
+      "timestamp": 1708976001475,
+      "discord_url": "https://cdn.discordapp.com/attachments/1211703615769546752/1211757919603789844/EXEPoN-009-HardBolz.zip?ex=65ef5c81&is=65dce781&hm=a7f876720b784e4e05091048fbafcca5a26d7546d920246dabe08b2704946aeb&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-009-HardBolz.zip",
+      "attachment_id": "1211757919603789844",
+      "thread_id": "1211703615769546752",
+      "thread_name": "[OFC] [MOB] [EXEPoN] HardBolz family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_010_KillPlant": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-010-KillPlant",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-010-KillPlant",
+        "com.OFC.char.EXEPoN-010-KillWeed",
+        "com.OFC.char.EXEPoN-010-KillFlower"
+      ],
+      "name": "KillPlant (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_010_KillPlant_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the KillPlant family from EXEPoN",
+      "speed": 1,
+      "attack": 30,
+      "health": 100
+    },
+    "attachment_data": {
+      "timestamp": 1710188989377,
+      "discord_url": "https://cdn.discordapp.com/attachments/1211780316306350161/1216845559051063347/EXEPoN-010-KillPlant.zip?ex=6601debd&is=65ef69bd&hm=aca3863771b198297c62d244256972c970c719bea9270c81b9f9cbdb6dbdcf15&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-010-KillPlant.zip",
+      "attachment_id": "1216845559051063347",
+      "thread_id": "1211780316306350161",
+      "thread_name": "[OFC] [MOB] [EXEPoN] KillPlant family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_023_IceManV3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-023-IceManV3",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-023-IceMan"
+      ],
+      "subpackages": [],
+      "name": "IceMan V3 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_023_IceManV3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with IceMan V3 from EXEPoN",
+      "speed": 1,
+      "attack": 80,
+      "health": 1100
+    },
+    "attachment_data": {
+      "timestamp": 1709409456596,
+      "discord_url": "https://cdn.discordapp.com/attachments/1213575461121167391/1213575961828659250/EXEPoN-023-IceManV3.zip?ex=65f5f9b0&is=65e384b0&hm=4d227cb36d9ec94ab26a45248c7ec97249da1abce3c6d81da005cf2bf106cca6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-023-IceManV3.zip",
+      "attachment_id": "1213575961828659250",
+      "thread_id": "1213575461121167391",
+      "thread_name": "[OFC] [MOB] [EXEPoN] IceMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_023_IceManV2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-023-IceManV2",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-023-IceMan"
+      ],
+      "subpackages": [],
+      "name": "IceMan V2 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_023_IceManV2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with IceMan V2 from EXEPoN",
+      "speed": 1,
+      "attack": 40,
+      "health": 800
+    },
+    "attachment_data": {
+      "timestamp": 1709409456596,
+      "discord_url": "https://cdn.discordapp.com/attachments/1213575461121167391/1213575961484722238/EXEPoN-023-IceManV2.zip?ex=65f5f9b0&is=65e384b0&hm=10b53bbe74e1926db331a84b39ee4b33fedb27f08b58e6896c8861bb1ea6ef0d&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-023-IceManV2.zip",
+      "attachment_id": "1213575961484722238",
+      "thread_id": "1213575461121167391",
+      "thread_name": "[OFC] [MOB] [EXEPoN] IceMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_023_IceManV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-023-IceManV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-023-IceMan"
+      ],
+      "name": "IceMan (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_023_IceManV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with IceMan from EXEPoN",
+      "speed": 1,
+      "attack": 30,
+      "health": 500
+    },
+    "attachment_data": {
+      "timestamp": 1709409456596,
+      "discord_url": "https://cdn.discordapp.com/attachments/1213575461121167391/1213575961149444096/EXEPoN-023-IceManV1.zip?ex=65f5f9b0&is=65e384b0&hm=f9006a60e7ff25e03bc32937b9719279a2394097a50c2f3e671c2e6e3e5acfba&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-023-IceManV1.zip",
+      "attachment_id": "1213575961149444096",
+      "thread_id": "1213575461121167391",
+      "thread_name": "[OFC] [MOB] [EXEPoN] IceMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_023_IceManV4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-023-IceManV4",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-023-IceMan"
+      ],
+      "subpackages": [],
+      "name": "IceMan SP (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_023_IceManV4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with IceMan SP from EXEPoN",
+      "speed": 1,
+      "attack": 120,
+      "health": 1400
+    },
+    "attachment_data": {
+      "timestamp": 1709409456596,
+      "discord_url": "https://cdn.discordapp.com/attachments/1213575461121167391/1213575962143490139/EXEPoN-023-IceManV4.zip?ex=65f5f9b0&is=65e384b0&hm=59f8afbccd643294d3d09d9d2e8d30b9553785b80ef21dcf36cbc98694f34e01&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-023-IceManV4.zip",
+      "attachment_id": "1213575962143490139",
+      "thread_id": "1213575461121167391",
+      "thread_name": "[OFC] [MOB] [EXEPoN] IceMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_004_Garue": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-004-Garue",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-004-Garue",
+        "com.OFC.char.EXEPoN-004-Garuebar",
+        "com.OFC.char.EXEPoN-004-Garuedan"
+      ],
+      "name": "Garue (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_004_Garue_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Garue family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 60
+    },
+    "attachment_data": {
+      "timestamp": 1709410942861,
+      "discord_url": "https://cdn.discordapp.com/attachments/1211361998919700551/1213582195906711613/EXEPoN-004-Garue.zip?ex=65f5ff7e&is=65e38a7e&hm=0a32ccee5816c748259e04620fd2e3d41cd3a5a91db046a057ccfaa63f48a9f5&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-004-Garue.zip",
+      "attachment_id": "1213582195906711613",
+      "thread_id": "1211361998919700551",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Garue family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_025_ShadowManV3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-025-ShadowManV3",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-025-ShadowMan"
+      ],
+      "subpackages": [],
+      "name": "ShadowMan V3 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_025_ShadowManV3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with ShadowMan V3 from EXEPoN",
+      "speed": 1,
+      "attack": 100,
+      "health": 1500
+    },
+    "attachment_data": {
+      "timestamp": 1710014022019,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216111177202012180/1216111692891816039/EXEPoN-025-ShadowManV3.zip?ex=65ff3345&is=65ecbe45&hm=d269d758e9cf629e493b3d8031c2ca50e5ed82b24f8f952e0341fe07065c5941&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-025-ShadowManV3.zip",
+      "attachment_id": "1216111692891816039",
+      "thread_id": "1216111177202012180",
+      "thread_name": "[OFC] [MOB] [EXEPoN] ShadowMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_025_ShadowManV2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-025-ShadowManV2",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-025-ShadowMan"
+      ],
+      "subpackages": [],
+      "name": "ShadowMan V2 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_025_ShadowManV2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with ShadowMan V2 from EXEPoN",
+      "speed": 1,
+      "attack": 80,
+      "health": 1200
+    },
+    "attachment_data": {
+      "timestamp": 1710014022019,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216111177202012180/1216111692581179503/EXEPoN-025-ShadowManV2.zip?ex=65ff3345&is=65ecbe45&hm=311e7008b497ac327928c6d2ea37185fe316541df30e4499407596e2448b750f&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-025-ShadowManV2.zip",
+      "attachment_id": "1216111692581179503",
+      "thread_id": "1216111177202012180",
+      "thread_name": "[OFC] [MOB] [EXEPoN] ShadowMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_025_ShadowManV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-025-ShadowManV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-025-ShadowMan"
+      ],
+      "name": "ShadowMan (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_025_ShadowManV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with ShadowMan from EXEPoN",
+      "speed": 1,
+      "attack": 60,
+      "health": 1000
+    },
+    "attachment_data": {
+      "timestamp": 1710190192133,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216111177202012180/1216850604228612248/EXEPoN-025-ShadowManV1.zip?ex=6601e370&is=65ef6e70&hm=8faa3f359b3468e781d20ad9cf2b6e3210e01ef627785040a0d7e3a391028825&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-025-ShadowManV1.zip",
+      "attachment_id": "1216850604228612248",
+      "thread_id": "1216111177202012180",
+      "thread_name": "[OFC] [MOB] [EXEPoN] ShadowMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_025_ShadowManV4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-025-ShadowManV4",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-025-ShadowMan"
+      ],
+      "subpackages": [],
+      "name": "ShadowMan SP (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_025_ShadowManV4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with ShadowMan SP from EXEPoN",
+      "speed": 1,
+      "attack": 140,
+      "health": 1700
+    },
+    "attachment_data": {
+      "timestamp": 1710014022019,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216111177202012180/1216111693235617934/EXEPoN-025-ShadowManV4.zip?ex=65ff3345&is=65ecbe45&hm=0ab1aad7533b6a8ea96da7606e7b931316e38a6fe73c4aac715edcbdd8f0cdd4&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-025-ShadowManV4.zip",
+      "attachment_id": "1216111693235617934",
+      "thread_id": "1216111177202012180",
+      "thread_name": "[OFC] [MOB] [EXEPoN] ShadowMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_024_WoodManV4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-024-WoodManV4",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-024-WoodMan"
+      ],
+      "subpackages": [],
+      "name": "WoodMan SP (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_024_WoodManV4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with WoodMan SP from EXEPoN",
+      "speed": 1,
+      "attack": 130,
+      "health": 1400
+    },
+    "attachment_data": {
+      "timestamp": 1710189529836,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216847702969679993/1216847826223497388/EXEPoN-024-WoodManV4.zip?ex=6601e0d9&is=65ef6bd9&hm=9d8007309ddafc3e66f2d377a96c36580620f23a4e4111646162ec78b4b060ca&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-024-WoodManV4.zip",
+      "attachment_id": "1216847826223497388",
+      "thread_id": "1216847702969679993",
+      "thread_name": "[OFC] [MOB] [EXEPoN] WoodMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_024_WoodManV3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-024-WoodManV3",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-024-WoodMan"
+      ],
+      "subpackages": [],
+      "name": "WoodMan V3 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_024_WoodManV3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with WoodMan V3 from EXEPoN",
+      "speed": 1,
+      "attack": 100,
+      "health": 1200
+    },
+    "attachment_data": {
+      "timestamp": 1710189529836,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216847702969679993/1216847825728438312/EXEPoN-024-WoodManV3.zip?ex=6601e0d9&is=65ef6bd9&hm=763ad87020797f923c3993ce72df241e0d22a7229a2998583f54fb0e892a22aa&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-024-WoodManV3.zip",
+      "attachment_id": "1216847825728438312",
+      "thread_id": "1216847702969679993",
+      "thread_name": "[OFC] [MOB] [EXEPoN] WoodMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_024_WoodManV2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-024-WoodManV2",
+      "dependencies": [
+        "com.OFC.char.EXEPoN-024-WoodMan"
+      ],
+      "subpackages": [],
+      "name": "WoodMan V2 (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_024_WoodManV2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with WoodMan V2 from EXEPoN",
+      "speed": 1,
+      "attack": 80,
+      "health": 1000
+    },
+    "attachment_data": {
+      "timestamp": 1710189529836,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216847702969679993/1216847825216864376/EXEPoN-024-WoodManV2.zip?ex=6601e0d9&is=65ef6bd9&hm=80929325bb1623ea8022140231d3bdf0e3b7b43ba9cd7ab32cb31876b02300c0&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-024-WoodManV2.zip",
+      "attachment_id": "1216847825216864376",
+      "thread_id": "1216847702969679993",
+      "thread_name": "[OFC] [MOB] [EXEPoN] WoodMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_024_WoodManV1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-024-WoodManV1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-024-WoodMan"
+      ],
+      "name": "WoodMan (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_024_WoodManV1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with WoodMan from EXEPoN",
+      "speed": 1,
+      "attack": 50,
+      "health": 800
+    },
+    "attachment_data": {
+      "timestamp": 1710190135969,
+      "discord_url": "https://cdn.discordapp.com/attachments/1216847702969679993/1216850368718176440/EXEPoN-024-WoodManV1.zip?ex=6601e337&is=65ef6e37&hm=d7f40ab5ff7dabe34fa367794cb7b35890599901bee7f7c4fc460b49bd85d6ed&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-024-WoodManV1.zip",
+      "attachment_id": "1216850368718176440",
+      "thread_id": "1216847702969679993",
+      "thread_name": "[OFC] [MOB] [EXEPoN] WoodMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_011_Dharma": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-011-Dharma",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-011-Dharma",
+        "com.OFC.char.EXEPoN-011-Dharga",
+        "com.OFC.char.EXEPoN-011-Dhardara"
+      ],
+      "name": "Dharma (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_011_Dharma_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Dharma family from EXEPoN",
+      "speed": 1,
+      "attack": 30,
+      "health": 80
+    },
+    "attachment_data": {
+      "timestamp": 1710601309165,
+      "discord_url": "https://cdn.discordapp.com/attachments/1218574852462743592/1218574953633288234/EXEPoN-011-Dharma.zip?ex=6608295c&is=65f5b45c&hm=0745ad00401fa5a5fb435434f09343510fd5a4232dc0296c9b4fbc9a0c49ac73&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-011-Dharma.zip",
+      "attachment_id": "1218574953633288234",
+      "thread_id": "1218574852462743592",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Dharma family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_016_Curze": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-016-Curze",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-016-Curze",
+        "com.OFC.char.EXEPoN-016-Curzena",
+        "com.OFC.char.EXEPoN-016-Curzed"
+      ],
+      "name": "Curze (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_016_Curze_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Curze family from EXEPoN",
+      "speed": 1,
+      "attack": 60,
+      "health": 80
+    },
+    "attachment_data": {
+      "timestamp": 1711272912435,
+      "discord_url": "https://cdn.discordapp.com/attachments/1221391772077391892/1221391862397538324/EXEPoN-016-Curze.zip?ex=661268d0&is=65fff3d0&hm=c19637db9c2baf484e71076c1ae55cc007a212dc8210f13990e5ea0a1c86bdfa&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-016-Curze.zip",
+      "attachment_id": "1221391862397538324",
+      "thread_id": "1221391772077391892",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Curze family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "hoov_package_bosstemplate": {
+    "data": {
+      "type": "enemies",
+      "id": "hoov.package.bosstemplate",
+      "dependencies": [],
+      "subpackages": [
+        "hoov.enemy.bosstemplate"
+      ],
+      "name": "Test boss",
+      "detail": {
+        "preview": "images\\hoov_package_bosstemplate_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Use as a template for making bossfights!",
+      "speed": 50,
+      "attack": 50,
+      "health": 1000
+    },
+    "attachment_data": {
+      "timestamp": 1716774328716,
+      "discord_url": "https://cdn.discordapp.com/attachments/1244466319160512592/1244466474731438101/Boss_Template.zip?ex=66553738&is=6653e5b8&hm=e1665fbfb233122cfd286a582054b7f6db83af01d585cd4a0d506b361abb8da5&",
+      "author_name": "hooviey",
+      "author_id": "736271336376107068",
+      "original_filename": "Boss_Template.zip",
+      "attachment_id": "1244466474731438101",
+      "thread_id": "1244466319160512592",
+      "thread_name": "[CUS][MOB] Boss template",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_014_Yura": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-014-Yura",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-014-Yura",
+        "com.OFC.char.EXEPoN-014-Yurayura",
+        "com.OFC.char.EXEPoN-014-Yurarion"
+      ],
+      "name": "Yura (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_014_Yura_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Yura family from EXEPoN",
+      "speed": 1,
+      "attack": 60,
+      "health": 40
+    },
+    "attachment_data": {
+      "timestamp": 1747345930002,
+      "discord_url": "https://cdn.discordapp.com/attachments/1261288805994987541/1372693064086192250/EXEPoN-014-Yura.zip?ex=6827b389&is=68266209&hm=046652f2114a2ee67fc8c53ad3c61ce5dd19341557e1852200991644251b376e&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-014-Yura.zip",
+      "attachment_id": "1372693064086192250",
+      "thread_id": "1261288805994987541",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Yura family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXEPoN_006_Chuuton": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXEPoN-006-Chuuton",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXEPoN-006-Chuuton"
+      ],
+      "name": "Chuuton (EXEPoN)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXEPoN_006_Chuuton_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with the Chuuton family from EXEPoN",
+      "speed": 1,
+      "attack": 20,
+      "health": 40
+    },
+    "attachment_data": {
+      "timestamp": 1720805454269,
+      "discord_url": "https://cdn.discordapp.com/attachments/1261374235683586101/1261374240733528185/EXEPoN-006-Chuuton.zip?ex=6692b9ce&is=6691684e&hm=372f269f9e409fbdf6766863718dfc30c1de395a6f1e0dd34ba1c80cfb0a5d40&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXEPoN-006-Chuuton.zip",
+      "attachment_id": "1261374240733528185",
+      "thread_id": "1261374235683586101",
+      "thread_name": "[OFC] [MOB] [EXEPoN] Chuuton family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_alrysc_enemy_ChefVirus": {
+    "data": {
+      "type": "enemies",
+      "id": "com.alrysc.enemy.ChefVirus",
+      "dependencies": [],
+      "subpackages": [
+        "com.alrysc.enemy.ChefVirusEnemy"
+      ],
+      "name": "Chef",
+      "detail": {
+        "preview": "images\\com_alrysc_enemy_ChefVirus_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Cooking",
+      "speed": 1,
+      "attack": 40,
+      "health": 100
+    },
+    "attachment_data": {
+      "timestamp": 1722894186963,
+      "discord_url": "https://cdn.discordapp.com/attachments/1270135015929413726/1270135020727828480/ChefVirus.zip?ex=66b298ea&is=66b1476a&hm=c91914461b4d4941429e0a93621ca38e6a387f4fbc83398ff434caed143cebfc&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "ChefVirus.zip",
+      "attachment_id": "1270135020727828480",
+      "thread_id": "1270135015929413726",
+      "thread_name": "[CUS][MOB] 100% orange juice Chef virus",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "enemypackage_realms_rey_000_targetdummy": {
+    "data": {
+      "type": "enemies",
+      "id": "enemypackage.realms.rey.000.targetdummy",
+      "dependencies": [],
+      "subpackages": [
+        "enemy.realms.rey.000.targetdummy",
+        "enemy.realms.rey.000.targetdummy.fire",
+        "enemy.realms.rey.000.targetdummy.water",
+        "enemy.realms.rey.000.targetdummy.electric",
+        "enemy.realms.rey.000.targetdummy.wood",
+        "enemy.realms.rey.000.targetdummy.sword",
+        "enemy.realms.rey.000.targetdummy.wind",
+        "enemy.realms.rey.000.targetdummy.cursor",
+        "enemy.realms.rey.000.targetdummy.break",
+        "enemy.realms.rey.000.targetdummy.summon",
+        "enemy.realms.rey.000.targetdummy.plus",
+        "enemy.realms.rey.000.targetdummy.normal"
+      ],
+      "name": "Target dummies(package)",
+      "detail": {
+        "preview": "images\\enemypackage_realms_rey_000_targetdummy_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Use to test battlechips\nEdit package's entry.lua for options."
+    },
+    "attachment_data": {
+      "timestamp": 1736032535531,
+      "discord_url": "https://cdn.discordapp.com/attachments/1325174220996612157/1325241248864276480/enemypackage.realms.rey.000.targetdummy.zip?ex=677b1297&is=6779c117&hm=780361cfacad6c2e2d808f262d32acae6a15584e4fab911ec77d41c32cd0dd7c&",
+      "author_name": "realmscrossmyths",
+      "author_id": "171547591752810498",
+      "original_filename": "enemypackage.realms.rey.000.targetdummy.zip",
+      "attachment_id": "1325241248864276480",
+      "thread_id": "1325174220996612157",
+      "thread_name": "[CUS][MOB][PACK] Elemental Target Dummies",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE3_061_Proto": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE3-061-Proto",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE3-061-Proto"
+      ],
+      "name": "Proto (EXE3)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE3_061_Proto_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nProto\nfrom Rockman EXE3",
+      "speed": 1,
+      "attack": 100,
+      "health": 2000
+    },
+    "attachment_data": {
+      "timestamp": 1748354064440,
+      "discord_url": "https://cdn.discordapp.com/attachments/971906580549361744/1376921481711452390/EXE3-061-Proto.zip?ex=6837158f&is=6835c40f&hm=099d48be3f184a9c49189bc4ad53d913351f55648a0384e0206dd1d7a080b08c&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE3-061-Proto.zip",
+      "attachment_id": "1376921481711452390",
+      "thread_id": "971906580549361744",
+      "thread_name": "[OFC][MOB][EXE3/BN3] Proto (Alpha)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE3_061_ProtoSP": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE3-061-ProtoSP",
+      "dependencies": [
+        "com.OFC.char.EXE3-061-Proto"
+      ],
+      "subpackages": [],
+      "name": "Proto SP (EXE3)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE3_061_ProtoSP_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nProto SP\nfrom Rockman EXE3",
+      "speed": 2,
+      "attack": 200,
+      "health": 3000
+    },
+    "attachment_data": {
+      "timestamp": 1748354064440,
+      "discord_url": "https://cdn.discordapp.com/attachments/971906580549361744/1376921482042675201/EXE3-061-ProtoSP.zip?ex=6837158f&is=6835c40f&hm=a797be6d96ef6afe47f217c03d662bf89e30bf13d26f3b974c2e9c3f839ada83&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE3-061-ProtoSP.zip",
+      "attachment_id": "1376921482042675201",
+      "thread_id": "971906580549361744",
+      "thread_name": "[OFC][MOB][EXE3/BN3] Proto (Alpha)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE45_036_StarMan4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE45-036-StarMan4",
+      "dependencies": [
+        "com.OFC.char.EXE45-036-StarMan1"
+      ],
+      "subpackages": [],
+      "name": "StarMan SP (EXE4.5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE45_036_StarMan4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nStarMan SP\nfrom Rockman EXE4.5",
+      "speed": 1,
+      "attack": 100,
+      "health": 1500
+    },
+    "attachment_data": {
+      "timestamp": 1748354139998,
+      "discord_url": "https://cdn.discordapp.com/attachments/1348417049495605330/1376921803485876287/EXE45-036-StarMan4.zip?ex=683715db&is=6835c45b&hm=dba0b25ab98e1135556b0e8e08e8fbac52962af5e8d8c90a19a8db45d6b46eeb&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE45-036-StarMan4.zip",
+      "attachment_id": "1376921803485876287",
+      "thread_id": "1348417049495605330",
+      "thread_name": "[OFC][MOB][EXE4.5] StarMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE45_036_StarMan3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE45-036-StarMan3",
+      "dependencies": [
+        "com.OFC.char.EXE45-036-StarMan1"
+      ],
+      "subpackages": [],
+      "name": "StarMan V3 (EXE4.5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE45_036_StarMan3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nStarMan V3\nfrom Rockman EXE4.5",
+      "speed": 1,
+      "attack": 80,
+      "health": 1200
+    },
+    "attachment_data": {
+      "timestamp": 1748354139998,
+      "discord_url": "https://cdn.discordapp.com/attachments/1348417049495605330/1376921803179561011/EXE45-036-StarMan3.zip?ex=683715db&is=6835c45b&hm=0903af8a196b5b81b57486642affbbfdc6d19e3060e89e913a62ac887dc11b0f&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE45-036-StarMan3.zip",
+      "attachment_id": "1376921803179561011",
+      "thread_id": "1348417049495605330",
+      "thread_name": "[OFC][MOB][EXE4.5] StarMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE45_036_StarMan2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE45-036-StarMan2",
+      "dependencies": [
+        "com.OFC.char.EXE45-036-StarMan1"
+      ],
+      "subpackages": [],
+      "name": "StarMan V2 (EXE4.5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE45_036_StarMan2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nStarMan V2\nfrom Rockman EXE4.5",
+      "speed": 1,
+      "attack": 40,
+      "health": 900
+    },
+    "attachment_data": {
+      "timestamp": 1748354139998,
+      "discord_url": "https://cdn.discordapp.com/attachments/1348417049495605330/1376921802755932220/EXE45-036-StarMan2.zip?ex=683715db&is=6835c45b&hm=c639beed52851ff0d9d4df54af6cb5cb217a9e6e432900f245c6137bfedcc785&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE45-036-StarMan2.zip",
+      "attachment_id": "1376921802755932220",
+      "thread_id": "1348417049495605330",
+      "thread_name": "[OFC][MOB][EXE4.5] StarMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE45_036_StarMan1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE45-036-StarMan1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE45-036-StarMan1"
+      ],
+      "name": "StarMan (EXE4.5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE45_036_StarMan1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nStarMan\nfrom Rockman EXE4.5",
+      "speed": 1,
+      "attack": 20,
+      "health": 600
+    },
+    "attachment_data": {
+      "timestamp": 1748354139998,
+      "discord_url": "https://cdn.discordapp.com/attachments/1348417049495605330/1376921802445688985/EXE45-036-StarMan1.zip?ex=683715db&is=6835c45b&hm=5a9d095a3b4cfd1c6f5f56058b6b9f968ceb4a8d69432877f7ebe447a2d6def3&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE45-036-StarMan1.zip",
+      "attachment_id": "1376921802445688985",
+      "thread_id": "1348417049495605330",
+      "thread_name": "[OFC][MOB][EXE4.5] StarMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "encounter_realms_rey_navi_000_gobby": {
+    "data": {
+      "type": "enemies",
+      "id": "encounter.realms.rey.navi.000.gobby",
+      "dependencies": [],
+      "subpackages": [
+        "mob.realms.rey.navi.000.gobby"
+      ],
+      "name": "Gobby (Enemy Package)",
+      "detail": {
+        "preview": "images\\encounter_realms_rey_navi_000_gobby_preview.png",
+        "preview_zip": "./package/screen.png"
+      },
+      "description": "Gobby as a boss!\nSupports ranks!\nR1=DS, R2=BX, NM=DB",
+      "health": 1000,
+      "attack": 1,
+      "speed": 1
+    },
+    "attachment_data": {
+      "timestamp": 1742247804820,
+      "discord_url": "https://cdn.discordapp.com/attachments/1346188042561519688/1351309977477845103/encounter.realms.rey.n002.gobby.zip?ex=67d9e8fc&is=67d8977c&hm=aec2053d3dbf666d265b54330b5ade77493f81ad9d9be37a3288c3239c8bde4e&",
+      "author_name": "realmscrossmyths",
+      "author_id": "171547591752810498",
+      "original_filename": "encounter.realms.rey.n002.gobby.zip",
+      "attachment_id": "1351309977477845103",
+      "thread_id": "1346188042561519688",
+      "thread_name": "[CUS][MOB][PACK][NAVI] Gobby",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "encounter_realms_rey_virus_009_swordy": {
+    "data": {
+      "type": "enemies",
+      "id": "encounter.realms.rey.virus.009.swordy",
+      "dependencies": [],
+      "subpackages": [
+        "mob.realms.rey.virus.009.swordy"
+      ],
+      "name": "Swordy",
+      "detail": {
+        "preview": "images\\encounter_realms_rey_virus_009_swordy_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Rey Realms' version.\nSupports ranks! Rank determines element.",
+      "speed": 1,
+      "attack": 50,
+      "health": 80
+    },
+    "attachment_data": {
+      "timestamp": 1742247865167,
+      "discord_url": "https://cdn.discordapp.com/attachments/1349594904287903895/1351310230541041725/encounter.realms.rey.v009.swordy.zip?ex=67d9e939&is=67d897b9&hm=42ca6033f1a012d03bcfa9be3f0e8f0cde4c63a95532467a9ce976b6b61fcffc&",
+      "author_name": "realmscrossmyths",
+      "author_id": "171547591752810498",
+      "original_filename": "encounter.realms.rey.v009.swordy.zip",
+      "attachment_id": "1351310230541041725",
+      "thread_id": "1349594904287903895",
+      "thread_name": "[ALT][MOB][PACK][VIRUS] Swordies",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "encounter_realms_rey_virus_039_yort": {
+    "data": {
+      "type": "enemies",
+      "id": "encounter.realms.rey.virus.039.yort",
+      "dependencies": [],
+      "subpackages": [
+        "mob.realms.rey.virus.039.yort"
+      ],
+      "name": "Yort",
+      "detail": {
+        "preview": "images\\encounter_realms_rey_virus_039_yort_preview.png",
+        "preview_zip": "./package/preview.png"
+      },
+      "description": "Rey Realms' version.\nSupports ranks!\nEleven ranks of Yeet!!",
+      "speed": 1,
+      "attack": 30,
+      "health": 120
+    },
+    "attachment_data": {
+      "timestamp": 1742423249737,
+      "discord_url": "https://cdn.discordapp.com/attachments/1352045809021223032/1352045846631551148/encounter.realms.rey.v039.yort.zip?ex=67dc9651&is=67db44d1&hm=e26193a1f889cee59b0ad3bceb0ffb4835350ef674f7eee94710b0aec62016b3&",
+      "author_name": "realmscrossmyths",
+      "author_id": "171547591752810498",
+      "original_filename": "encounter.realms.rey.v039.yort.zip",
+      "attachment_id": "1352045846631551148",
+      "thread_id": "1352045809021223032",
+      "thread_name": "[ALT][MOB][PACK][VIRUS] Yort Family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_047_Forte2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-047-Forte2",
+      "dependencies": [
+        "com.OFC.char.EXE4-047-Forte1"
+      ],
+      "subpackages": [],
+      "name": "Forte SP (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_047_Forte2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nForte SP\nfrom Rockman EXE4",
+      "speed": 2,
+      "attack": 200,
+      "health": 3000
+    },
+    "attachment_data": {
+      "timestamp": 1748894780113,
+      "discord_url": "https://cdn.discordapp.com/attachments/1352380357881892976/1379189412117745714/EXE4-047-Forte2.zip?ex=683f55bb&is=683e043b&hm=2548e4a5abfed04d5e9c03ac32e1799c331c2d8055ddb55a8113c2c8fe5dd383&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-047-Forte2.zip",
+      "attachment_id": "1379189412117745714",
+      "thread_id": "1352380357881892976",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Forte (Bass)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_047_Forte1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-047-Forte1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE4-047-Forte1"
+      ],
+      "name": "Forte (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_047_Forte1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nForte\nfrom Rockman EXE4",
+      "speed": 1,
+      "attack": 300,
+      "health": 4000
+    },
+    "attachment_data": {
+      "timestamp": 1748894780113,
+      "discord_url": "https://cdn.discordapp.com/attachments/1352380357881892976/1379189411736191078/EXE4-047-Forte1.zip?ex=683f55bb&is=683e043b&hm=8da7b3a767d1a63bdb0046b290f1763578c1612608e955b2a7a7ea0197c55bd0&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-047-Forte1.zip",
+      "attachment_id": "1379189411736191078",
+      "thread_id": "1352380357881892976",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Forte (Bass)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_047_Forte3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-047-Forte3",
+      "dependencies": [
+        "com.OFC.char.EXE4-047-Forte1"
+      ],
+      "subpackages": [],
+      "name": "Forte XX (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_047_Forte3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nForte XX\nfrom Rockman EXE4",
+      "speed": 3,
+      "attack": 300,
+      "health": 4000
+    },
+    "attachment_data": {
+      "timestamp": 1748894780113,
+      "discord_url": "https://cdn.discordapp.com/attachments/1352380357881892976/1379189412419604620/EXE4-047-Forte3.zip?ex=683f55bc&is=683e043c&hm=08d8848b79d38275a173590104e7512a9fa654edd195a93537ce66ad5b3f09a6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-047-Forte3.zip",
+      "attachment_id": "1379189412419604620",
+      "thread_id": "1352380357881892976",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Forte (Bass)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE1_049_Forte": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE1-049-Forte",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE1-049-Forte"
+      ],
+      "name": "Forte (EXE1)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE1_049_Forte_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nForte\nfrom Rockman EXE1/OSS",
+      "speed": 1,
+      "attack": 200,
+      "health": 1500
+    },
+    "attachment_data": {
+      "timestamp": 1748354037586,
+      "discord_url": "https://cdn.discordapp.com/attachments/1352932906015657984/1376921373959651438/EXE1-049-Forte.zip?ex=68371575&is=6835c3f5&hm=3d2620542619ea4fd3afc4cb5e76099fdbd6781292d057b9e2bc2e2a6f5ef85e&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE1-049-Forte.zip",
+      "attachment_id": "1376921373959651438",
+      "thread_id": "1352932906015657984",
+      "thread_name": "[OFC][MOB][EXE1/BN1/OSS] Forte (Bass)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_045_ElementMan4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-045-ElementMan4",
+      "dependencies": [
+        "com.OFC.char.EXE6-045-ElementMan1"
+      ],
+      "subpackages": [],
+      "name": "ElementMan RV (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_045_ElementMan4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nElementMan RV\nfrom Rockman EXE6",
+      "speed": 4,
+      "attack": 120,
+      "health": 2000
+    },
+    "attachment_data": {
+      "timestamp": 1748354194366,
+      "discord_url": "https://cdn.discordapp.com/attachments/1370142355180748891/1376922031521661050/EXE6-045-ElementMan4.zip?ex=68371612&is=6835c492&hm=ff801627b73ef92648eda6b3e4f3a6249d444b6cb5dcc2d01feb63fcc4433fe1&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-045-ElementMan4.zip",
+      "attachment_id": "1376922031521661050",
+      "thread_id": "1370142355180748891",
+      "thread_name": "[OFC][MOB][EXE6/BN6] ElementMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_045_ElementMan3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-045-ElementMan3",
+      "dependencies": [
+        "com.OFC.char.EXE6-045-ElementMan1"
+      ],
+      "subpackages": [],
+      "name": "ElementMan SP (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_045_ElementMan3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nElementMan SP\nfrom Rockman EXE6",
+      "speed": 3,
+      "attack": 70,
+      "health": 1700
+    },
+    "attachment_data": {
+      "timestamp": 1748354194366,
+      "discord_url": "https://cdn.discordapp.com/attachments/1370142355180748891/1376922031198834739/EXE6-045-ElementMan3.zip?ex=68371612&is=6835c492&hm=0d37b989f343b4916096116aede82ef172e53d40a7e2529397afaf5ff3bc9b64&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-045-ElementMan3.zip",
+      "attachment_id": "1376922031198834739",
+      "thread_id": "1370142355180748891",
+      "thread_name": "[OFC][MOB][EXE6/BN6] ElementMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_045_ElementMan2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-045-ElementMan2",
+      "dependencies": [
+        "com.OFC.char.EXE6-045-ElementMan1"
+      ],
+      "subpackages": [],
+      "name": "ElementMan EX (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_045_ElementMan2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nElementMan EX\nfrom Rockman EXE6",
+      "speed": 2,
+      "attack": 50,
+      "health": 1300
+    },
+    "attachment_data": {
+      "timestamp": 1748354194366,
+      "discord_url": "https://cdn.discordapp.com/attachments/1370142355180748891/1376922030900776991/EXE6-045-ElementMan2.zip?ex=68371612&is=6835c492&hm=e6b75a499a823f53fbf8d64b44ad1ed0f95fb715c855635c370364ae0734a8e1&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-045-ElementMan2.zip",
+      "attachment_id": "1376922030900776991",
+      "thread_id": "1370142355180748891",
+      "thread_name": "[OFC][MOB][EXE6/BN6] ElementMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_045_ElementMan1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-045-ElementMan1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE6-045-ElementMan1"
+      ],
+      "name": "ElementMan (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_045_ElementMan1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nElementMan\nfrom Rockman EXE6",
+      "speed": 1,
+      "attack": 30,
+      "health": 900
+    },
+    "attachment_data": {
+      "timestamp": 1748354194366,
+      "discord_url": "https://cdn.discordapp.com/attachments/1370142355180748891/1376922030598914129/EXE6-045-ElementMan1.zip?ex=68371612&is=6835c492&hm=ed9888cdfbc49685088330a68da7c1310a8c44b3e2e539901811edaea84d6de2&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-045-ElementMan1.zip",
+      "attachment_id": "1376922030598914129",
+      "thread_id": "1370142355180748891",
+      "thread_name": "[OFC][MOB][EXE6/BN6] ElementMan",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_051_GregarBeast2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-051-GregarBeast2",
+      "dependencies": [
+        "com.OFC.char.EXE6-051-GregarBeast1"
+      ],
+      "subpackages": [],
+      "name": "Gregar Beast SP (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_051_GregarBeast2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nGregar Beast SP\nfrom Rockman EXE6",
+      "speed": 3,
+      "attack": 120,
+      "health": 1800
+    },
+    "attachment_data": {
+      "timestamp": 1748354209682,
+      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1376922095518355508/EXE6-051-GregarBeast2.zip?ex=68371621&is=6835c4a1&hm=21af6187fd92a302c01d5e3fe8943e7a449ee73d5a2063be04f9f3b2ab6e395c&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-051-GregarBeast2.zip",
+      "attachment_id": "1376922095518355508",
+      "thread_id": "1371979769935171696",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Gregar Beast Rockman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_051_GregarBeast1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-051-GregarBeast1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE6-051-GregarBeast1"
+      ],
+      "name": "Gregar Beast (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_051_GregarBeast1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nGregar Beast\nfrom Rockman EXE6",
+      "speed": 1,
+      "attack": 30,
+      "health": 900
+    },
+    "attachment_data": {
+      "timestamp": 1748354209682,
+      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1376922095157772458/EXE6-051-GregarBeast1.zip?ex=68371621&is=6835c4a1&hm=0f3a99dffb6f3ec332e0b4e675c5ba45a810aab71cfe8b870ab50a8af8d62571&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-051-GregarBeast1.zip",
+      "attachment_id": "1376922095157772458",
+      "thread_id": "1371979769935171696",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Gregar Beast Rockman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_001_Metall": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-001-Metall",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE6-001-Metall"
+      ],
+      "name": "Metall (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_001_Metall_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nthe Metall family\nfrom EXE6"
+    },
+    "attachment_data": {
+      "timestamp": 1747767114851,
+      "discord_url": "https://cdn.discordapp.com/attachments/1372339239940915323/1374459641462784060/EXE6-001-Metall.zip?ex=682e20ca&is=682ccf4a&hm=83aa576f19b3adc4a54fc3a236765dc5f4fc5e59c4403d86dce0bcb7d2cde0e6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-001-Metall.zip",
+      "attachment_id": "1374459641462784060",
+      "thread_id": "1372339239940915323",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Metall (Mettaur) family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE1_023_Fancar": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE1-023-Fancar",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE1-023-Fancar"
+      ],
+      "name": "Fancar (EXE1)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE1_023_Fancar_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nthe Fancar family\nfrom Rockman EXE1/OSS",
+      "speed": 1,
+      "attack": 80,
+      "health": 100
+    },
+    "attachment_data": {
+      "timestamp": 1748542055832,
+      "discord_url": "https://cdn.discordapp.com/attachments/1377709929556742274/1377709979527811102/EXE1-023-Fancar.zip?ex=6839f3e7&is=6838a267&hm=2880b2906c54b997629ce13f983dc46f2369711bd221cdc0760ff5232913cde5&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE1-023-Fancar.zip",
+      "attachment_id": "1377709979527811102",
+      "thread_id": "1377709929556742274",
+      "thread_name": "[OFC][MOB][EXE1/BN1/OSS] Fancar family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan4",
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan1"
+      ],
+      "subpackages": [],
+      "name": "BurnerMan SP (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan SP\nfrom Rockman EXE4",
+      "speed": 4,
+      "attack": 200,
+      "health": 1900
+    },
+    "attachment_data": {
+      "timestamp": 1760352470386,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1427246448411410503/EXE4-038-BurnerMan4.zip?ex=68ee2a56&is=68ecd8d6&hm=be1b815095e183918a13af84881ef0abcaeb2eb80060d459bd78a17ae2e58096&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan4.zip",
+      "attachment_id": "1427246448411410503",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan3",
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan1"
+      ],
+      "subpackages": [],
+      "name": "BurnerMan V3 (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan V3\nfrom Rockman EXE4",
+      "speed": 3,
+      "attack": 120,
+      "health": 1500
+    },
+    "attachment_data": {
+      "timestamp": 1760352470386,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1427246447933390969/EXE4-038-BurnerMan3.zip?ex=68ee2a56&is=68ecd8d6&hm=6e05bd401ec6757888b9486f9e45c3216846e60b7e662d790c64d666218d0bd4&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan3.zip",
+      "attachment_id": "1427246447933390969",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan2",
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan1"
+      ],
+      "subpackages": [],
+      "name": "BurnerMan V2 (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan V2\nfrom Rockman EXE4",
+      "speed": 2,
+      "attack": 80,
+      "health": 1100
+    },
+    "attachment_data": {
+      "timestamp": 1760352470386,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1427246447434137694/EXE4-038-BurnerMan2.zip?ex=68ee2a56&is=68ecd8d6&hm=b14e31ba2bc867717bee7332657ba8228a7e74146ba0acd27294c5010820c0d6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan2.zip",
+      "attachment_id": "1427246447434137694",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan1",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE4-038-BurnerMan1"
+      ],
+      "name": "BurnerMan (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan\nfrom Rockman EXE4",
+      "speed": 1,
+      "attack": 40,
+      "health": 700
+    },
+    "attachment_data": {
+      "timestamp": 1761257408485,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1431042034181083317/EXE4-038-BurnerMan1.zip?ex=68fbf940&is=68faa7c0&hm=1d8227d6e07a419d99c472112faeb6a221a43a11e8e0bbc5414718cf06b1dd13&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan1.zip",
+      "attachment_id": "1431042034181083317",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE5_037_Colonel5": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE5-037-Colonel5",
+      "dependencies": [
+        "com.OFC.char.EXE5-037-Colonel0"
+      ],
+      "subpackages": [],
+      "name": "Colonel DS (EXE5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE5_037_Colonel5_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nColonel DS\nfrom Rockman EXE5",
+      "speed": 3,
+      "attack": 0,
+      "health": 0
+    },
+    "attachment_data": {
+      "timestamp": 1761558919183,
+      "discord_url": "https://cdn.discordapp.com/attachments/1431041963347542117/1432306661661347911/EXE5-037-Colonel5.zip?ex=69009307&is=68ff4187&hm=8179fc6da482f7d24c98e9cae112c123c10e46d7fa907dae11d69c2ebe21e28a&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE5-037-Colonel5.zip",
+      "attachment_id": "1432306661661347911",
+      "thread_id": "1431041963347542117",
+      "thread_name": "[OFC][MOB][EXE5/BN5] Colonel boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE5_037_Colonel4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE5-037-Colonel4",
+      "dependencies": [
+        "com.OFC.char.EXE5-037-Colonel0"
+      ],
+      "subpackages": [],
+      "name": "Colonel SP (EXE5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE5_037_Colonel4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nColonel SP\nfrom Rockman EXE5",
+      "speed": 4,
+      "attack": 200,
+      "health": 2000
+    },
+    "attachment_data": {
+      "timestamp": 1761558919183,
+      "discord_url": "https://cdn.discordapp.com/attachments/1431041963347542117/1432306661376131104/EXE5-037-Colonel4.zip?ex=69009307&is=68ff4187&hm=b8f0e14bfe84594c981977a69b38391001e31c159ecc9664963b7547c559bdae&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE5-037-Colonel4.zip",
+      "attachment_id": "1432306661376131104",
+      "thread_id": "1431041963347542117",
+      "thread_name": "[OFC][MOB][EXE5/BN5] Colonel boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE5_037_Colonel3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE5-037-Colonel3",
+      "dependencies": [
+        "com.OFC.char.EXE5-037-Colonel0"
+      ],
+      "subpackages": [],
+      "name": "Colonel V3 (EXE5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE5_037_Colonel3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nColonel V3\nfrom Rockman EXE5",
+      "speed": 3,
+      "attack": 140,
+      "health": 1800
+    },
+    "attachment_data": {
+      "timestamp": 1761558919183,
+      "discord_url": "https://cdn.discordapp.com/attachments/1431041963347542117/1432306661120413808/EXE5-037-Colonel3.zip?ex=69009306&is=68ff4186&hm=a19d76ae9893360ef2a9667b2f923a921f5a686b68d1db39288032f839269bad&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE5-037-Colonel3.zip",
+      "attachment_id": "1432306661120413808",
+      "thread_id": "1431041963347542117",
+      "thread_name": "[OFC][MOB][EXE5/BN5] Colonel boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE5_037_Colonel2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE5-037-Colonel2",
+      "dependencies": [
+        "com.OFC.char.EXE5-037-Colonel0"
+      ],
+      "subpackages": [],
+      "name": "Dark Colonel (EXE5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE5_037_Colonel2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nDark Colonel\nfrom Rockman EXE5",
+      "speed": 2,
+      "attack": 120,
+      "health": 1200
+    },
+    "attachment_data": {
+      "timestamp": 1761558919183,
+      "discord_url": "https://cdn.discordapp.com/attachments/1431041963347542117/1432306660751446036/EXE5-037-Colonel2.zip?ex=69009306&is=68ff4186&hm=49e20dfc3a3f73d45e0920df4e88be089addd0c28bca3f0a6390df65fe2ff278&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE5-037-Colonel2.zip",
+      "attachment_id": "1432306660751446036",
+      "thread_id": "1431041963347542117",
+      "thread_name": "[OFC][MOB][EXE5/BN5] Colonel boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE5_037_Colonel1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE5-037-Colonel1",
+      "dependencies": [
+        "com.OFC.char.EXE5-037-Colonel0"
+      ],
+      "subpackages": [],
+      "name": "Colonel (EXE5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE5_037_Colonel1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nColonel\nfrom Rockman EXE5",
+      "speed": 1,
+      "attack": 20,
+      "health": 400
+    },
+    "attachment_data": {
+      "timestamp": 1761558919183,
+      "discord_url": "https://cdn.discordapp.com/attachments/1431041963347542117/1432306660411703489/EXE5-037-Colonel1.zip?ex=69009306&is=68ff4186&hm=15408d437f894d350366328419d333c0dbe9befb5ab7ff4cd811f06fb32455e8&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE5-037-Colonel1.zip",
+      "attachment_id": "1432306660411703489",
+      "thread_id": "1431041963347542117",
+      "thread_name": "[OFC][MOB][EXE5/BN5] Colonel boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE5_037_Colonel0": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE5-037-Colonel0",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE5-037-Colonel0"
+      ],
+      "name": "Colonel (EXE5)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE5_037_Colonel0_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "MAIN MOB PACKAGE"
+    },
+    "attachment_data": {
+      "timestamp": 1761559349710,
+      "discord_url": "https://cdn.discordapp.com/attachments/1431041963347542117/1432308467342901339/EXE5-037-Colonel0.zip?ex=690094b5&is=68ff4335&hm=7ce1b742cea2ac3f246f94c2f9dd2a3c3ceb4fd274d149af947559a74fed16b0&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE5-037-Colonel0.zip",
+      "attachment_id": "1432308467342901339",
+      "thread_id": "1431041963347542117",
+      "thread_name": "[OFC][MOB][EXE5/BN5] Colonel boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  }
+}

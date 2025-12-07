@@ -63,7 +63,7 @@ def main():
             continue
 
         # Initialize buckets if new type found
-        singular_type = get_singular_name(mod_type)
+        singular_type = mod_type
         if singular_type not in type_buckets:
             type_buckets[singular_type] = {}
             hash_buckets[singular_type] = []
