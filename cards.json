@@ -18792,16 +18792,18 @@
           "element": "Fire",
           "description": "Thrw shel 3sqr fwd. Fire attk",
           "limit": 3
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1681774649538,
-      "discord_url": "https://cdn.discordapp.com/attachments/1034954909491154944/1097667180310560818/Blackbomb.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1765430114000,
+      "discord_url": "https://cdn.discordapp.com/attachments/1034954909491154944/1448543629558943809/hoov_cards_blackbomb.zip?ex=693ba4e1&is=693a5361&hm=e09d10c5fb096dffb9fe2e0879e9120688c4c666da6b336eb3b438e157cbf1a7&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "Blackbomb.zip",
-      "attachment_id": "1097667180310560818",
+      "original_filename": "hoov_cards_blackbomb.zip",
+      "attachment_id": "1448543629558943809",
       "thread_id": "1034954909491154944",
       "thread_name": "[EXE6][CHIP]Blackbomb",
       "channel_id": "865079018704994355",

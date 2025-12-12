@@ -470,7 +470,7 @@ ab6c26eda645411c1c2cf8d06ecb1e99 hoov.card.twinfang3
 1f836178eee3d64e82daedb3a0a2127e hoov.cards.MagBomb3
 3315bc5a028189ced3f5162f6eb507a7 hoov.cards.MagBomb2
 d5f6c95f54f5ff823b792fd994b02b45 hoov.cards.MagBomb1
-67f64a84ed26403e9ed954a5e55aab12 hoov.cards.blackbomb
+c2d143bd7b15a83f323efe5ca2daf554 hoov.cards.blackbomb
 95c16b6dbc13f0de5ff5f169061ca921 hoov.card.coldairX
 a5a8233c51e089c82921e3e1f17eea90 hoov.card.coldair3
 464c26d6a8a5292fe142aeced74408fd hoov.card.coldair2
