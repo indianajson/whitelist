@@ -302,7 +302,7 @@ a790dda1e9ed704b3d0dc75656bd45d0 com.d3str0y3d255.navi.planetmanpvp
 b8c9b63079a1d2339a489e284ea63aa3 com.D3stroy3d.player.Hatmanpvp
 33e3804a900e0ac04fea900019e750ea com.D3stroy3d&darkware.player.Hatman
 863ff1aa0bc0952b27a4305196ffec2c com.d3str0y3d255&caseofthematts.navi.mistmanpvp
-acc84151fec23e31481404dace7c9268 com.d3str0y3d255&guava&darkware.navi.Elementalman
+2f2132ea9959aea7f431ba607628404c com.d3str0y3d255&guava&darkware.navi.Elementalman
 87e3a94b2509771454ddb5caea95b76c com.guava&drawcie&darkware.navi.diveman
 417b3a8f762e6b0f233053066b4e03cf com.d3str0y3d255&caseofthematts.navi.mistman
 745ec53a1f921f5a45a7cbb28102a628 gmod mega
