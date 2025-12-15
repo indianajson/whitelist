@@ -1367,10 +1367,10 @@ defd73a98464d5328da2ecfd1e27a30a com.OFC.card.EXE3-246-DesertMan
 df139aac269229ea21ad00d6e4e7c903 com.OFC.card.EXE3-293-Serenade
 d1b55134ff45505dfb9a0c24e7b79ea8 com.OFC.card.EXE3-289-Forte
 94e3c880c5f59ab4bd07083c767960f7 com.OFC.card.EXE3-290-ForteAnother
-356389b600812e070875f5fabc541716 com.OFC.card.EXE3-257-FlameManV4
-1fda06a729638756a776b89258c01ddc com.OFC.card.EXE3-256-FlameManV3
-20b75db0b3b8aa1301665e276cf6b1ce com.OFC.card.EXE3-255-FlameManV2
-688f7dda07f52b4eaa16135dc007a164 com.OFC.card.EXE3-254-FlameMan
+6b1a03d87e4612bae52467b98fbc2e37 com.OFC.card.EXE3-257-FlameManV4
+df7ae27a2935d29929722f503b2fc3de com.OFC.card.EXE3-256-FlameManV3
+0e4313b68bd99139b276da411977cc18 com.OFC.card.EXE3-255-FlameManV2
+462b19f61c64ea2e6c9b5ced15fb650e com.OFC.card.EXE3-254-FlameMan
 6a005a9f5ec644b2c1c38f0077648e5d com.OFC.card.EXE5-233-NapalmManSP
 17b63fccee063b33dcb7c2c344e335a5 com.OFC.card.EXE5-232-NapalmMan
 66e76331924e6a12d3a6beb9357823f4 com.OFC.card.EXE5-234-NapalmManDS
@@ -1440,7 +1440,7 @@ ed74500a25297f520a3e9bb63c207c0f com.darkware.card.PKMN-M-004
 e71afdcace6b78d20d8ea0050a37137d com.darkware.card.PKMN-M-003
 da7fc1b48aafd59e8be4ecabda752892 com.darkware.card.PKMN-M-006
 a4263b6c51102b2c6aca5f6c7d6256fe com.darkware.card.PKMN018
-4dad706ecda3a63ce468465b1adfcbb4 com.OFC.card.EXE3-305-FlameManV5
+cff4d50611df3188bc41c90436d0e9ee com.OFC.card.EXE3-305-FlameManV5
 d5bbc37bf569d046dde4eb81a1fa5a84 com.OFC.card.EXE5-279-DjangoDS
 08e0c3e813a63f5888d4759ea8324f6f com.OFC.card.EXE5-278-DjangoSP
 d59a73f4ee5b5312f9f044172bb5b63a com.OFC.card.EXE5-277-Django
