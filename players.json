@@ -22953,5 +22953,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_beaned_navi_megamanbn6_beast": {
+    "data": {
+      "type": "players",
+      "id": "com.beaned.navi.megamanbn6_beast",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "MegaMan(Beast Out)",
+      "detail": {
+        "icon": "images\\com_beaned_navi_megamanbn6_beast_icon.png",
+        "preview": "images\\com_beaned_navi_megamanbn6_beast_preview.png",
+        "animation": "./megaman.out.anim",
+        "texture": "./navi_megaman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "Modified Megaman with beast out",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 1,
+        "y": -14
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1765839579821,
+      "discord_url": "https://cdn.discordapp.com/attachments/1450260672280789104/1450261053744091187/com_beaned_navi_megamanbn6.zip?ex=6941e45b&is=694092db&hm=16f5ada125b7f9eac9f49060632b48566b074c484f9b5b6726be47118c5f28c4&",
+      "author_name": "headdm",
+      "author_id": "483363513910165504",
+      "original_filename": "com_beaned_navi_megamanbn6.zip",
+      "attachment_id": "1450261053744091187",
+      "thread_id": "1450260672280789104",
+      "thread_name": "[NAVI] [OFC] [BN6] Gregar Beast Out Megaman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
