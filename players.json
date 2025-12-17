@@ -22999,5 +22999,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_guava_drawcie_navi_JammingManPVP": {
+    "data": {
+      "type": "players",
+      "id": "com.guava&drawcie.navi.JammingManPVP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "JammingMan",
+      "detail": {
+        "icon": "images\\com_guava_drawcie_navi_JammingManPVP_icon.png",
+        "preview": "images\\com_guava_drawcie_navi_JammingManPVP_preview.png",
+        "animation": "./jammingman.animation",
+        "texture": "./navi_jammingman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "My radio waves will destroy you",
+      "health": 1000,
+      "element": "Elec",
+      "height": 58,
+      "charge_position": {
+        "x": 1,
+        "y": -24
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1765865139509,
+      "discord_url": "https://cdn.discordapp.com/attachments/1450368087600795701/1450368259047030864/JammingMan.zip?ex=69424833&is=6940f6b3&hm=ba414057f45ead2d779b2ad32a6ba3550aa5c7a332c8390e285f0c3d92c68122&",
+      "author_name": "d3str0y3d255",
+      "author_id": "414013449585033216",
+      "original_filename": "JammingMan.zip",
+      "attachment_id": "1450368259047030864",
+      "thread_id": "1450368087600795701",
+      "thread_name": "[OFC] [PON] [PVP] Jammingman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
