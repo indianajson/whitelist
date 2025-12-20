@@ -23458,16 +23458,18 @@
           "description": "Damages enemies w/ corn",
           "long_description": "Goes /CLAP!/ when you miss",
           "limit": 3
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1673979022203,
-      "discord_url": "https://cdn.discordapp.com/attachments/959455919400435732/1064969949023588422/bn6_corn3.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1766112384087,
+      "discord_url": "https://cdn.discordapp.com/attachments/959455919400435732/1451405277684437072/com_ipc_card_corn3.zip?ex=69460e00&is=6944bc80&hm=621ce266e6f4824cbd5b4993112e4329fef62dfbb9e465325162467c95c6ef63&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "bn6_corn3.zip",
-      "attachment_id": "1064969949023588422",
+      "original_filename": "com_ipc_card_corn3.zip",
+      "attachment_id": "1451405277684437072",
       "thread_id": "959455919400435732",
       "thread_name": "[WIP] [OFC] [CHIP] [EXE6] Corn Shot series",
       "channel_id": "865079018704994355",
@@ -23498,16 +23500,18 @@
           "description": "Damages enemies w/ corn",
           "long_description": "Goes /CLAP!/ when you miss",
           "limit": 4
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1673979022203,
-      "discord_url": "https://cdn.discordapp.com/attachments/959455919400435732/1064969948658667640/bn6_corn2.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1766112384087,
+      "discord_url": "https://cdn.discordapp.com/attachments/959455919400435732/1451405277239709788/com_ipc_card_corn2.zip?ex=69460dff&is=6944bc7f&hm=680893a1185a8c83dded8e65482536417065b58716b6973796b9d891f22678d4&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "bn6_corn2.zip",
-      "attachment_id": "1064969948658667640",
+      "original_filename": "com_ipc_card_corn2.zip",
+      "attachment_id": "1451405277239709788",
       "thread_id": "959455919400435732",
       "thread_name": "[WIP] [OFC] [CHIP] [EXE6] Corn Shot series",
       "channel_id": "865079018704994355",
@@ -23538,16 +23542,18 @@
           "description": "Damages enemies w/ corn",
           "long_description": "Goes /CLAP!/ when you miss",
           "limit": 5
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1673979022203,
-      "discord_url": "https://cdn.discordapp.com/attachments/959455919400435732/1064969948268613683/bn6_corn.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1766112384087,
+      "discord_url": "https://cdn.discordapp.com/attachments/959455919400435732/1451405276900098302/com_ipc_card_corn1.zip?ex=69460dff&is=6944bc7f&hm=357e160e8e210ba2b718cd14c541292d05170ab9514439f35a3bf780e2c9fce6&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "bn6_corn.zip",
-      "attachment_id": "1064969948268613683",
+      "original_filename": "com_ipc_card_corn1.zip",
+      "attachment_id": "1451405276900098302",
       "thread_id": "959455919400435732",
       "thread_name": "[WIP] [OFC] [CHIP] [EXE6] Corn Shot series",
       "channel_id": "865079018704994355",

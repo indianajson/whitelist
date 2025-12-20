@@ -278,7 +278,7 @@ a96672cdcb8489489e3e5a2ec2550e12 com.d3str0y3d255&guava.navi.Elementalmanpvp
 71ffe508c8e129ca1ab11e52b0fc8698 com.discord.AngelCWarrior.navi.omegaxis
 3431319d8bac6004fa906e674f626b9d com.dagran.player.GhostHeelNavi
 0dd65732ab5ba37f533d39df2af67523 com.beaned.player.crossfusion
-0e3dc8bf51dc54bb312b0c20344ed706 com.discord.Kimonia-Rules#1667.player.Sil
+35dadd823e7ce98becb85ca93b151499 com.discord.Kimonia-Rules#1667.player.Sil
 ca26bb3d74c8287d660da1d5fd68b9d0 com.guava&drawcie.navi.divemanpvp
 c5d5ecded9af011a2d5f2077ab759f77 com.guava&darkwarepx.navi.countpvp
 c5fc5e074eb8a0a142c79f609622ac32 com.dawn.rescued.reworked.player.Iceman
