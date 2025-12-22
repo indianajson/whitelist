@@ -11218,5 +11218,25 @@
     "timestamp": 1766188080513,
     "md5": "35dadd823e7ce98becb85ca93b151499",
     "id": "com.discord.Kimonia-Rules#1667.player.Sil"
+  },
+  "1452462068614824117": {
+    "timestamp": 1766364342854,
+    "md5": "83d46cd083b36a0460f29e7f0832a5eb",
+    "id": "com.alrysc.card.elchainX"
+  },
+  "1452462069453688914": {
+    "timestamp": 1766364342854,
+    "md5": "93027051e29a1a563c6391223e9fa85c",
+    "id": "com.alrysc.card.elchain3"
+  },
+  "1452462069235453973": {
+    "timestamp": 1766364342854,
+    "md5": "8978eda991dbcdb651ea77db7937748c",
+    "id": "com.alrysc.card.elchain2"
+  },
+  "1452462068899774545": {
+    "timestamp": 1766364342854,
+    "md5": "7e65ed7ae21e0ace15d063db4ed1ad99",
+    "id": "com.alrysc.card.elchain1"
   }
 }

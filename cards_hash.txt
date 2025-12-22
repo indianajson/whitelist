@@ -398,10 +398,10 @@ f639e7adc0b346c9d0a3faf1523bf4fb com.alrysc.card.MarisaX
 3fa04d55d35545abc0860d45a549382e com.alrysc.card.Dustbomb1
 c585309f952e6a94a2b0f256917963a3 com.mars.card.Thunder2_BN4
 73b459522ad82112492c2b9f5f300546 com.mars.card.Thunder3_BN4
-964993fd23e94b66c54d2154e73569f3 com.alrysc.card.elchainX
-5eef6e4b65429c0cf90ca0eed5af18f3 com.alrysc.card.elchain3
-1eb9bce9ca20846c911d2214b260f563 com.alrysc.card.elchain2
-31cfdfb8f19b56585e1fe12cfb242a21 com.alrysc.card.elchain1
+83d46cd083b36a0460f29e7f0832a5eb com.alrysc.card.elchainX
+93027051e29a1a563c6391223e9fa85c com.alrysc.card.elchain3
+8978eda991dbcdb651ea77db7937748c com.alrysc.card.elchain2
+7e65ed7ae21e0ace15d063db4ed1ad99 com.alrysc.card.elchain1
 844ea32c48411d3088363ef4cf3ef2d9 com.alrysc.card.TankManX
 d92a9ec3f1a2c5c355e7c3e5b58cf646 com.alrysc.card.TankManV3
 1148587f945d4f105e641c132f297c58 com.alrysc.card.TankManV2

@@ -15920,18 +15920,20 @@
           "element": "Elec",
           "description": "Stun and pull foe w/ chain!",
           "limit": 1
-        }
+        },
+        "icon_zip": "./iconX.png",
+        "preview_zip": "./previewX.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1641106844685,
-      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/927094044000124978/ElChainX.zip",
-      "author_name": "Alrysc",
+      "timestamp": 1766364342854,
+      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/1452462068614824117/com_alrysc_card_elchainX.zip?ex=6949e636&is=694894b6&hm=9b94ba5cf3ff939e6a6ae30b8b84fb1fafb912b769a547ad6a10edbd15d9314d&",
+      "author_name": "alrysc",
       "author_id": "362428610444787712",
-      "original_filename": "ElChainX.zip",
-      "attachment_id": "927094044000124978",
+      "original_filename": "com_alrysc_card_elchainX.zip",
+      "attachment_id": "1452462068614824117",
       "thread_id": "925859784442392586",
-      "thread_name": "[CUS][GENSO] Elec Chain",
+      "thread_name": "[CUS][GENSO][CHIP] Elec Chain",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -15960,18 +15962,20 @@
           "element": "Elec",
           "description": "Stun and pull foe w/ chain!",
           "limit": 2
-        }
+        },
+        "icon_zip": "./icon3.png",
+        "preview_zip": "./preview3.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1641106844685,
-      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/927094043807219752/ElChain3.zip",
-      "author_name": "Alrysc",
+      "timestamp": 1766364342854,
+      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/1452462069453688914/com_alrysc_card_elchain3.zip?ex=6949e636&is=694894b6&hm=3d1f25191c1e7f0c0e9a53a86f4e34a33a5c230f9df2e374458d2304850de0b7&",
+      "author_name": "alrysc",
       "author_id": "362428610444787712",
-      "original_filename": "ElChain3.zip",
-      "attachment_id": "927094043807219752",
+      "original_filename": "com_alrysc_card_elchain3.zip",
+      "attachment_id": "1452462069453688914",
       "thread_id": "925859784442392586",
-      "thread_name": "[CUS][GENSO] Elec Chain",
+      "thread_name": "[CUS][GENSO][CHIP] Elec Chain",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -16000,18 +16004,20 @@
           "element": "Elec",
           "description": "Stun and pull foe w/ chain!",
           "limit": 4
-        }
+        },
+        "icon_zip": "./icon2.png",
+        "preview_zip": "./preview2.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1641106844685,
-      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/927094043199041586/ElChain2.zip",
-      "author_name": "Alrysc",
+      "timestamp": 1766364342854,
+      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/1452462069235453973/com_alrysc_card_elchain2.zip?ex=6949e636&is=694894b6&hm=5d1b1e2c4870d7bcafdd8def6c109b3f8ae6d5ccbb557614f8b32d10b520fbe8&",
+      "author_name": "alrysc",
       "author_id": "362428610444787712",
-      "original_filename": "ElChain2.zip",
-      "attachment_id": "927094043199041586",
+      "original_filename": "com_alrysc_card_elchain2.zip",
+      "attachment_id": "1452462069235453973",
       "thread_id": "925859784442392586",
-      "thread_name": "[CUS][GENSO] Elec Chain",
+      "thread_name": "[CUS][GENSO][CHIP] Elec Chain",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -16040,18 +16046,20 @@
           "element": "Elec",
           "description": "Stun and pull foe w/ chain!",
           "limit": 5
-        }
+        },
+        "icon_zip": "./icon1.png",
+        "preview_zip": "./preview1.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1641106844685,
-      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/927094042842509332/ElChain1.zip",
-      "author_name": "Alrysc",
+      "timestamp": 1766364342854,
+      "discord_url": "https://cdn.discordapp.com/attachments/925859784442392586/1452462068899774545/com_alrysc_card_elchain1.zip?ex=6949e636&is=694894b6&hm=f83d66b716f00ee3a5f24e0d2134245b55576ad1e33f2387ae3cad8e344abf45&",
+      "author_name": "alrysc",
       "author_id": "362428610444787712",
-      "original_filename": "ElChain1.zip",
-      "attachment_id": "927094042842509332",
+      "original_filename": "com_alrysc_card_elchain1.zip",
+      "attachment_id": "1452462068899774545",
       "thread_id": "925859784442392586",
-      "thread_name": "[CUS][GENSO] Elec Chain",
+      "thread_name": "[CUS][GENSO][CHIP] Elec Chain",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
