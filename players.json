@@ -21298,6 +21298,144 @@
       "guild_id": "455429604455219211"
     }
   },
+  "com_darkware_d3str0y3d255_navi_cachePVP": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware&d3str0y3d255.navi.cachePVP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Cache",
+      "detail": {
+        "icon": "images\\com_darkware_d3str0y3d255_navi_cachePVP_icon.png",
+        "preview": "images\\com_darkware_d3str0y3d255_navi_cachePVP_preview.png",
+        "animation": "./cache.animation",
+        "texture": "./navi_cache_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "Trying to clear the cache?",
+      "health": 1000,
+      "element": "None",
+      "height": 58,
+      "charge_position": {
+        "x": -1,
+        "y": -25
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1765070679012,
+      "discord_url": "https://cdn.discordapp.com/attachments/1446997886431924224/1447036050277929091/Cache.zip?ex=693628d7&is=6934d757&hm=86fd400ea84e8c45e27c6fddd5be851b050b8a9e143efc040e50ad08d43d67fc&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Cache.zip",
+      "attachment_id": "1447036050277929091",
+      "thread_id": "1446997886431924224",
+      "thread_name": "[NAVI] [OFC] [PVP] [PON] Cache",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_beaned_navi_megamanbn6_beast": {
+    "data": {
+      "type": "players",
+      "id": "com.beaned.navi.megamanbn6_beast",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "MegaMan(Beast Out)",
+      "detail": {
+        "icon": "images\\com_beaned_navi_megamanbn6_beast_icon.png",
+        "preview": "images\\com_beaned_navi_megamanbn6_beast_preview.png",
+        "animation": "./megaman.out.anim",
+        "texture": "./navi_megaman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "Modified Megaman with beast out",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 1,
+        "y": -14
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1765839579821,
+      "discord_url": "https://cdn.discordapp.com/attachments/1450260672280789104/1450261053744091187/com_beaned_navi_megamanbn6.zip?ex=6941e45b&is=694092db&hm=16f5ada125b7f9eac9f49060632b48566b074c484f9b5b6726be47118c5f28c4&",
+      "author_name": "headdm",
+      "author_id": "483363513910165504",
+      "original_filename": "com_beaned_navi_megamanbn6.zip",
+      "attachment_id": "1450261053744091187",
+      "thread_id": "1450260672280789104",
+      "thread_name": "[NAVI] [OFC] [BN6] Gregar Beast Out Megaman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_guava_drawcie_navi_JammingManPVP": {
+    "data": {
+      "type": "players",
+      "id": "com.guava&drawcie.navi.JammingManPVP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "JammingMan",
+      "detail": {
+        "icon": "images\\com_guava_drawcie_navi_JammingManPVP_icon.png",
+        "preview": "images\\com_guava_drawcie_navi_JammingManPVP_preview.png",
+        "animation": "./jammingman.animation",
+        "texture": "./navi_jammingman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "My radio waves will destroy you",
+      "health": 1000,
+      "element": "Elec",
+      "height": 58,
+      "charge_position": {
+        "x": 1,
+        "y": -24
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1765865139509,
+      "discord_url": "https://cdn.discordapp.com/attachments/1450368087600795701/1450368259047030864/JammingMan.zip?ex=69424833&is=6940f6b3&hm=ba414057f45ead2d779b2ad32a6ba3550aa5c7a332c8390e285f0c3d92c68122&",
+      "author_name": "d3str0y3d255",
+      "author_id": "414013449585033216",
+      "original_filename": "JammingMan.zip",
+      "attachment_id": "1450368259047030864",
+      "thread_id": "1450368087600795701",
+      "thread_name": "[OFC] [PON] [PVP] Jammingman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
   "sniper_joe_exe": {
     "data": {
       "type": "players",
@@ -22896,152 +23034,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1764728990354,
-      "discord_url": "https://cdn.discordapp.com/attachments/1445602723839082527/1445602904017862716/Sniper_Joe_Exe.zip?ex=6930f21e&is=692fa09e&hm=736de6d52296963d303cfb3b7801e7d0191dfd6fe1769eb25ea473372ea3accf&",
+      "timestamp": 1766372886402,
+      "discord_url": "https://cdn.discordapp.com/attachments/1445602723839082527/1452497903972122725/Sniper_Joe_Exe.zip?ex=694a0796&is=6948b616&hm=84343244d34d1c8c2ea72dcc53a656f8c603ef2a381aff02548bb66c8687f406&",
       "author_name": "youraveragejoe0973",
       "author_id": "1231080709024907368",
       "original_filename": "Sniper_Joe_Exe.zip",
-      "attachment_id": "1445602904017862716",
+      "attachment_id": "1452497903972122725",
       "thread_id": "1445602723839082527",
       "thread_name": "sniper joe_exe",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_darkware_d3str0y3d255_navi_cachePVP": {
-    "data": {
-      "type": "players",
-      "id": "com.darkware&d3str0y3d255.navi.cachePVP",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "Cache",
-      "detail": {
-        "icon": "images\\com_darkware_d3str0y3d255_navi_cachePVP_icon.png",
-        "preview": "images\\com_darkware_d3str0y3d255_navi_cachePVP_preview.png",
-        "animation": "./cache.animation",
-        "texture": "./navi_cache_atlas.og.png",
-        "icon_zip": "./pet.png",
-        "preview_zip": "./preview.png"
-      },
-      "speed": 1,
-      "attack": 1,
-      "charge_buster_damage": 10,
-      "description": "Trying to clear the cache?",
-      "health": 1000,
-      "element": "None",
-      "height": 58,
-      "charge_position": {
-        "x": -1,
-        "y": -25
-      },
-      "charge_shot_color": {
-        "r": 243,
-        "g": 57,
-        "b": 198,
-        "a": 255
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1765070679012,
-      "discord_url": "https://cdn.discordapp.com/attachments/1446997886431924224/1447036050277929091/Cache.zip?ex=693628d7&is=6934d757&hm=86fd400ea84e8c45e27c6fddd5be851b050b8a9e143efc040e50ad08d43d67fc&",
-      "author_name": "darkwarepx",
-      "author_id": "462755111811285024",
-      "original_filename": "Cache.zip",
-      "attachment_id": "1447036050277929091",
-      "thread_id": "1446997886431924224",
-      "thread_name": "[NAVI] [OFC] [PVP] [PON] Cache",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_beaned_navi_megamanbn6_beast": {
-    "data": {
-      "type": "players",
-      "id": "com.beaned.navi.megamanbn6_beast",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "MegaMan(Beast Out)",
-      "detail": {
-        "icon": "images\\com_beaned_navi_megamanbn6_beast_icon.png",
-        "preview": "images\\com_beaned_navi_megamanbn6_beast_preview.png",
-        "animation": "./megaman.out.anim",
-        "texture": "./navi_megaman_atlas.og.png",
-        "icon_zip": "./pet.png",
-        "preview_zip": "./preview.png"
-      },
-      "speed": 1,
-      "attack": 1,
-      "charge_buster_damage": 10,
-      "description": "Modified Megaman with beast out",
-      "health": 1000,
-      "element": "None",
-      "height": 48,
-      "charge_position": {
-        "x": 1,
-        "y": -14
-      },
-      "charge_shot_color": {
-        "r": 243,
-        "g": 57,
-        "b": 198,
-        "a": 255
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1765839579821,
-      "discord_url": "https://cdn.discordapp.com/attachments/1450260672280789104/1450261053744091187/com_beaned_navi_megamanbn6.zip?ex=6941e45b&is=694092db&hm=16f5ada125b7f9eac9f49060632b48566b074c484f9b5b6726be47118c5f28c4&",
-      "author_name": "headdm",
-      "author_id": "483363513910165504",
-      "original_filename": "com_beaned_navi_megamanbn6.zip",
-      "attachment_id": "1450261053744091187",
-      "thread_id": "1450260672280789104",
-      "thread_name": "[NAVI] [OFC] [BN6] Gregar Beast Out Megaman",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_guava_drawcie_navi_JammingManPVP": {
-    "data": {
-      "type": "players",
-      "id": "com.guava&drawcie.navi.JammingManPVP",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "JammingMan",
-      "detail": {
-        "icon": "images\\com_guava_drawcie_navi_JammingManPVP_icon.png",
-        "preview": "images\\com_guava_drawcie_navi_JammingManPVP_preview.png",
-        "animation": "./jammingman.animation",
-        "texture": "./navi_jammingman_atlas.og.png",
-        "icon_zip": "./pet.png",
-        "preview_zip": "./preview.png"
-      },
-      "speed": 1,
-      "attack": 1,
-      "charge_buster_damage": 10,
-      "description": "My radio waves will destroy you",
-      "health": 1000,
-      "element": "Elec",
-      "height": 58,
-      "charge_position": {
-        "x": 1,
-        "y": -24
-      },
-      "charge_shot_color": {
-        "r": 243,
-        "g": 57,
-        "b": 198,
-        "a": 255
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1765865139509,
-      "discord_url": "https://cdn.discordapp.com/attachments/1450368087600795701/1450368259047030864/JammingMan.zip?ex=69424833&is=6940f6b3&hm=ba414057f45ead2d779b2ad32a6ba3550aa5c7a332c8390e285f0c3d92c68122&",
-      "author_name": "d3str0y3d255",
-      "author_id": "414013449585033216",
-      "original_filename": "JammingMan.zip",
-      "attachment_id": "1450368259047030864",
-      "thread_id": "1450368087600795701",
-      "thread_name": "[OFC] [PON] [PVP] Jammingman",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
