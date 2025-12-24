@@ -744,9 +744,6 @@ cbb5ac0d0a4e38ed16738b1370d10715 com.alrysc.card.ShotGunX
 c09f95ea01696a6cead06091e6699fa4 com.alrysc.card.ShotGun3
 6e81ead84e05a89fd3ee9c4b94424d5a com.alrysc.card.ShotGun2
 26651e5d330c6806be0d997f3f5bf53b com.alrysc.card.ShotGun1
-70c59837f08067f5ecafdf6112309a67 com.alrysc_Konstinople.card.MachGun3
-d8e1b37723aac7167f22587b28bdf0bc com.alrysc_Konstinople.card.MachGun2
-3799cfe73cd865b29df3df7bcb132961 com.alrysc_Konstinople.card.MachGun1
 4db754361e5a60ffae0198c2ac3f11ed com.DJ.Wilting.Bomb
 79420004055da5bc761e2dccc2099339 com.DJ.ElecFalcon
 166d33579a1b8d44714a2a2c3c2768ac com.DJ.AquaTyphoon
