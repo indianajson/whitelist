@@ -6571,12 +6571,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1749081166677,
-      "discord_url": "https://cdn.discordapp.com/attachments/1205282806180085840/1379971174267879434/Sabata.zip?ex=68422dce&is=6840dc4e&hm=218a4971eef6e342608dc024c8f42697914f64e10cb96301db031f5f6750c160&",
+      "timestamp": 1766697850593,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205282806180085840/1453860902691668183/Sabata.zip?ex=694efcfa&is=694dab7a&hm=4b658220e13da488f7b03036eb287f2f7cde3c37cba1d77385990d0abfeaf8fd&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Sabata.zip",
-      "attachment_id": "1379971174267879434",
+      "attachment_id": "1453860902691668183",
       "thread_id": "1205282806180085840",
       "thread_name": "[CUS][NAVI][BOKTAI]Sabata Dark boy",
       "channel_id": "865079018704994355",
@@ -6617,12 +6617,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1749081183240,
-      "discord_url": "https://cdn.discordapp.com/attachments/1205281778407841812/1379971243545202748/Django.zip?ex=68422ddf&is=6840dc5f&hm=886d9b836b3cbec90bb6304688a1158dec5f5310da732b8a01644518679af954&",
+      "timestamp": 1766697679583,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205281778407841812/1453860184613978182/Django.zip?ex=694efc4f&is=694daacf&hm=34b5eed7f8b45cb0c905da3a0ffe65837219fb4f3994ea9f15f3d881cc19c2db&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Django.zip",
-      "attachment_id": "1379971243545202748",
+      "attachment_id": "1453860184613978182",
       "thread_id": "1205281778407841812",
       "thread_name": "[CUS][NAVI][BOKTAI] Django Solar Boy",
       "channel_id": "865079018704994355",
@@ -23042,6 +23042,98 @@
       "attachment_id": "1452497903972122725",
       "thread_id": "1445602723839082527",
       "thread_name": "sniper joe_exe",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_navi_djangopvp": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware.navi.djangopvp",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Django",
+      "detail": {
+        "icon": "images\\com_darkware_navi_djangopvp_icon.png",
+        "preview": "images\\com_darkware_navi_djangopvp_preview.png",
+        "animation": "./django.animation",
+        "texture": "./navi_django_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "The power of the sun is in my hand",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 0,
+        "y": -17
+      },
+      "charge_shot_color": {
+        "r": 255,
+        "g": 204,
+        "b": 0,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1766699025861,
+      "discord_url": "https://cdn.discordapp.com/attachments/1453865826074759360/1453865831716094083/Django_PVP.zip?ex=694f0191&is=694db011&hm=6b2f58345652f2040c2293dfbfa64160ac626ba57c476ff39ccb4eee20bcfc87&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Django_PVP.zip",
+      "attachment_id": "1453865831716094083",
+      "thread_id": "1453865826074759360",
+      "thread_name": "[CUS][NAVI][BOKTAI][PVP] Django solar boy",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_navi_sabatapvp": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware.navi.sabatapvp",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Sabata",
+      "detail": {
+        "icon": "images\\com_darkware_navi_sabatapvp_icon.png",
+        "preview": "images\\com_darkware_navi_sabatapvp_preview.png",
+        "animation": "./sabata.animation",
+        "texture": "./navi_sabata_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "I will do my best for Carmilla",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 0,
+        "y": -17
+      },
+      "charge_shot_color": {
+        "r": 222,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1766699106456,
+      "discord_url": "https://cdn.discordapp.com/attachments/1453866163309379685/1453866169680400394/Sabata_PVP.zip?ex=694f01e2&is=694db062&hm=47a984517b44821ea42f5bda410d759a8046021a30e4478821964daa7c369dc8&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Sabata_PVP.zip",
+      "attachment_id": "1453866169680400394",
+      "thread_id": "1453866163309379685",
+      "thread_name": "[CUS][NAVI][BOKTAI][PVP] Sabata dark boy",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
