@@ -748,17 +748,19 @@
       ],
       "name": "Targetdummies",
       "detail": {
-        "preview": "images\\hoov_package_targetdummy_preview.png"
+        "preview": "images\\hoov_package_targetdummy_preview.png",
+        "preview_zip": "./preview.png"
       },
-      "description": "Use to test battlechips"
+      "description": "Use to test battlechips",
+      "health": 1000
     },
     "attachment_data": {
-      "timestamp": 1663691854831,
-      "discord_url": "https://cdn.discordapp.com/attachments/1021574608052310068/1021822442441814126/targetdummy.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1766795724953,
+      "discord_url": "https://cdn.discordapp.com/attachments/1021574608052310068/1454271417079173160/targetdummy.zip?ex=69507b4c&is=694f29cc&hm=5b968d37d7bb9116e0582e962e879df8725b723f2b859a5d37596da1dda0dfec&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
       "original_filename": "targetdummy.zip",
-      "attachment_id": "1021822442441814126",
+      "attachment_id": "1454271417079173160",
       "thread_id": "1021574608052310068",
       "thread_name": "[CUS][MOB] TargetDummy",
       "channel_id": "865079018704994355",
