@@ -4994,5 +4994,95 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_OFC_mob_EXE6_048_Gregar1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-048-Gregar1",
+      "dependencies": [
+        "com.OFC.char.EXE6-048-Gregar0"
+      ],
+      "subpackages": [],
+      "name": "Gregar (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_048_Gregar1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nGregar\nfrom Rockman EXE6",
+      "speed": 1,
+      "attack": 50,
+      "health": 2500
+    },
+    "attachment_data": {
+      "timestamp": 1767131314979,
+      "discord_url": "https://cdn.discordapp.com/attachments/1455678220291805235/1455678983411732652/EXE6-048-Gregar1.zip?ex=69559a32&is=695448b2&hm=d929de1101ae3a3d406cfea092a399bcbf5f21dff6e3b065c64b8ea74b924aac&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-048-Gregar1.zip",
+      "attachment_id": "1455678983411732652",
+      "thread_id": "1455678220291805235",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Gregar boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_048_Gregar0": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-048-Gregar0",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE6-048-Gregar0"
+      ],
+      "name": "Gregar (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_048_Gregar0_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "MAIN MOB PACKAGE"
+    },
+    "attachment_data": {
+      "timestamp": 1767131314979,
+      "discord_url": "https://cdn.discordapp.com/attachments/1455678220291805235/1455678983126384834/EXE6-048-Gregar0.zip?ex=69559a32&is=695448b2&hm=56ececd42ec7b71cc051e2ed34aabb0596fe1b28b6497b7e42b3a2ef7d291949&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-048-Gregar0.zip",
+      "attachment_id": "1455678983126384834",
+      "thread_id": "1455678220291805235",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Gregar boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_048_Gregar2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-048-Gregar2",
+      "dependencies": [
+        "com.OFC.char.EXE6-048-Gregar0"
+      ],
+      "subpackages": [],
+      "name": "Gregar SP (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_048_Gregar2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nGregar SP\nfrom Rockman EXE6",
+      "speed": 3,
+      "attack": 150,
+      "health": 4000
+    },
+    "attachment_data": {
+      "timestamp": 1767131314979,
+      "discord_url": "https://cdn.discordapp.com/attachments/1455678220291805235/1455678983701266610/EXE6-048-Gregar2.zip?ex=69559a32&is=695448b2&hm=ef51cdfbde965f9df51e2f080f756be39c10e75b2bef35ab76a3e78e80d1730b&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-048-Gregar2.zip",
+      "attachment_id": "1455678983701266610",
+      "thread_id": "1455678220291805235",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Gregar boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
