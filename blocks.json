@@ -11600,5 +11600,111 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_darkware_ncp_overclockpower": {
+    "data": {
+      "type": "blocks",
+      "id": "com.darkware.ncp.overclockpower",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "PwrOvrclk",
+      "detail": {
+        "is_program": true,
+        "color": "Red",
+        "shape": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "description": "Overclock system,2x cs atk"
+    },
+    "attachment_data": {
+      "timestamp": 1767208814745,
+      "discord_url": "https://cdn.discordapp.com/attachments/1456003663222014004/1456004040965095434/PowerOverclock.zip?ex=6956c8ee&is=6955776e&hm=ebb2cc1977e36d1233761b9fc5097ad594e2ef035182f9e7df9bb9eb830efe86&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "PowerOverclock.zip",
+      "attachment_id": "1456004040965095434",
+      "thread_id": "1456003663222014004",
+      "thread_name": "[CUS][NCP] Overclock System (Double gear)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_ncp_overclockcharge": {
+    "data": {
+      "type": "blocks",
+      "id": "com.darkware.ncp.overclockcharge",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "ChgOvrclk",
+      "detail": {
+        "is_program": true,
+        "color": "Blue",
+        "shape": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "description": "Overclock system,+5 charge"
+    },
+    "attachment_data": {
+      "timestamp": 1767208814745,
+      "discord_url": "https://cdn.discordapp.com/attachments/1456003663222014004/1456004041241792584/ChargeOverclock.zip?ex=6956c8ee&is=6955776e&hm=58cfb8bb0c6260c134bf867c9b104369cee34a7772aff193fb63b8a52a56b1f5&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "ChargeOverclock.zip",
+      "attachment_id": "1456004041241792584",
+      "thread_id": "1456003663222014004",
+      "thread_name": "[CUS][NCP] Overclock System (Double gear)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }

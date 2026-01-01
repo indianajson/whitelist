@@ -6571,12 +6571,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1766697850593,
-      "discord_url": "https://cdn.discordapp.com/attachments/1205282806180085840/1453860902691668183/Sabata.zip?ex=694efcfa&is=694dab7a&hm=4b658220e13da488f7b03036eb287f2f7cde3c37cba1d77385990d0abfeaf8fd&",
+      "timestamp": 1767143899106,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205282806180085840/1455731765669789748/Sabata.zip?ex=6955cb5b&is=695479db&hm=61f551e5316be9936ad82ee65812a392e9fc00fad3e59c067dc2980f086bcfe2&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Sabata.zip",
-      "attachment_id": "1453860902691668183",
+      "attachment_id": "1455731765669789748",
       "thread_id": "1205282806180085840",
       "thread_name": "[CUS][NAVI][BOKTAI]Sabata Dark boy",
       "channel_id": "865079018704994355",
@@ -6617,12 +6617,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1766697679583,
-      "discord_url": "https://cdn.discordapp.com/attachments/1205281778407841812/1453860184613978182/Django.zip?ex=694efc4f&is=694daacf&hm=34b5eed7f8b45cb0c905da3a0ffe65837219fb4f3994ea9f15f3d881cc19c2db&",
+      "timestamp": 1767143864955,
+      "discord_url": "https://cdn.discordapp.com/attachments/1205281778407841812/1455731622287638723/Django.zip?ex=6955cb38&is=695479b8&hm=1533ce0a43dc388abf2417d23b77b16169f0adf38e6f13f5fd9d7e3bf22e1578&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Django.zip",
-      "attachment_id": "1453860184613978182",
+      "attachment_id": "1455731622287638723",
       "thread_id": "1205281778407841812",
       "thread_name": "[CUS][NAVI][BOKTAI] Django Solar Boy",
       "channel_id": "865079018704994355",
@@ -7312,53 +7312,6 @@
       "attachment_id": "1254197901081706507",
       "thread_id": "1254197177664933990",
       "thread_name": "[CUS] [NAVI] BstrdMan",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_darkware_navi_cloudman": {
-    "data": {
-      "type": "players",
-      "id": "com.darkware.navi.cloudman",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "CloudMan",
-      "detail": {
-        "icon": "images\\com_darkware_navi_cloudman_icon.png",
-        "preview": "images\\com_darkware_navi_cloudman_preview.png",
-        "animation": "./cloudman.animation",
-        "texture": "./navi_cloudman_atlas.og.png",
-        "icon_zip": "./pet.png",
-        "preview_zip": "./preview.png"
-      },
-      "speed": 1,
-      "attack": 1,
-      "charge_buster_damage": 10,
-      "description": "I hate when people try to hug my cloud",
-      "health": 1000,
-      "element": "Elec",
-      "height": 78,
-      "charge_position": {
-        "x": 3,
-        "y": -35
-      },
-      "charge_shot_color": {
-        "r": 243,
-        "g": 57,
-        "b": 198,
-        "a": 255
-      },
-      "air_shoe": true
-    },
-    "attachment_data": {
-      "timestamp": 1749081350852,
-      "discord_url": "https://cdn.discordapp.com/attachments/1254633647005372456/1379971946778726440/Cloundman.zip?ex=68422e86&is=6840dd06&hm=efc213345c4cde983051c56b0877c80d59152de45e48426921e4457716fe9ad8&",
-      "author_name": "darkwarepx",
-      "author_id": "462755111811285024",
-      "original_filename": "Cloundman.zip",
-      "attachment_id": "1379971946778726440",
-      "thread_id": "1254633647005372456",
-      "thread_name": "[NAVI][CUS] CloudMan",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -10372,12 +10325,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1749657490834,
-      "discord_url": "https://cdn.discordapp.com/attachments/1379890312071217163/1382388453156716594/Iceman.zip?ex=684af912&is=6849a792&hm=03e7e8a749a7ca10adfd50bccbb1494c80ddc6ceeef8c39bf5f79b6db456b81d&",
+      "timestamp": 1767155284374,
+      "discord_url": "https://cdn.discordapp.com/attachments/1379890312071217163/1455779518592848024/Iceman.zip?ex=6955f7d4&is=6954a654&hm=9ad2d8b68e74bb8e19defc50bea610992d5b1aeb98f356ae0b9304a313a63bcc&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Iceman.zip",
-      "attachment_id": "1382388453156716594",
+      "attachment_id": "1455779518592848024",
       "thread_id": "1379890312071217163",
       "thread_name": "[OFC][NAVI] Ice Man (Reworked)",
       "channel_id": "865079018704994355",
@@ -11604,12 +11557,12 @@
       "float_shoe": true
     },
     "attachment_data": {
-      "timestamp": 1752531745494,
-      "discord_url": "https://cdn.discordapp.com/attachments/1394443613940744302/1394443950882029690/VideoMan.zip?ex=6876d4a1&is=68758321&hm=b5d52fd90ad31a1621035692ebb74db5e1c190dd639e00c979f5bdab3bb3e084&",
+      "timestamp": 1767150121728,
+      "discord_url": "https://cdn.discordapp.com/attachments/1394443613940744302/1455757864739016836/VideoMan.zip?ex=6955e3a9&is=69549229&hm=0d63a2cee129f36400fddae801a86a596004f8d260b6cbba419085773afff0cc&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "VideoMan.zip",
-      "attachment_id": "1394443950882029690",
+      "attachment_id": "1455757864739016836",
       "thread_id": "1394443613940744302",
       "thread_name": "[OFC][NAVI][MMBN4] Videoman",
       "channel_id": "865079018704994355",
@@ -12065,12 +12018,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1765649600464,
-      "discord_url": "https://cdn.discordapp.com/attachments/1374984521929199679/1449464222667772064/Elementalman.zip?ex=693efe40&is=693dacc0&hm=e1b1f95b8632f33b333c67b064d611f13e641fc2e451984773683ded9122290e&",
+      "timestamp": 1767151435217,
+      "discord_url": "https://cdn.discordapp.com/attachments/1374984521929199679/1455763374175551578/Elementalman.zip?ex=6955e8cb&is=6954974b&hm=43b0a5991cae56fe05e5c91e976541148da862032fff9a143209caf85544e0ab&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Elementalman.zip",
-      "attachment_id": "1449464222667772064",
+      "attachment_id": "1455763374175551578",
       "thread_id": "1374984521929199679",
       "thread_name": "[NAVI][OFC][EXE6/BN6] ElementMan",
       "channel_id": "865079018704994355",
@@ -23134,6 +23087,53 @@
       "attachment_id": "1453866169680400394",
       "thread_id": "1453866163309379685",
       "thread_name": "[CUS][NAVI][BOKTAI][PVP] Sabata dark boy",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_navi_cloudman": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware.navi.cloudman",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "CloudMan",
+      "detail": {
+        "icon": "images\\com_darkware_navi_cloudman_icon.png",
+        "preview": "images\\com_darkware_navi_cloudman_preview.png",
+        "animation": "./cloudman.animation",
+        "texture": "./navi_cloudman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "I hate when people try to hug my cloud",
+      "health": 1000,
+      "element": "Elec",
+      "height": 78,
+      "charge_position": {
+        "x": 3,
+        "y": -35
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      },
+      "air_shoe": true
+    },
+    "attachment_data": {
+      "timestamp": 1767144565484,
+      "discord_url": "https://cdn.discordapp.com/attachments/1254633647005372456/1455734560309514372/Cloundman.zip?ex=6955cdf5&is=69547c75&hm=b958faad9d8603468be58f95dff6e622ff2b211b529c060830be1eec55e0404c&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Cloundman.zip",
+      "attachment_id": "1455734560309514372",
+      "thread_id": "1254633647005372456",
+      "thread_name": "[NAVI][CUS] CloudMan",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

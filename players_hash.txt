@@ -197,8 +197,8 @@ bdf58cca0b0bafff5588d96f9110e5c2 com.OFC.player.EXEPoN-003-Rockman-Elec
 5a0c2cb93c1968062e30747a65d685f2 com.HeadDM.Errorman
 ce7bf5978b5d57dcd63811fba71c44c4 com.darkware.player.GyroMan
 4d273a6f145610435b06bfd5d407ae87 com.dagran.player.BN3FNavi
-4044c81553d92e3e4dabfd3b699bba28 com.darkware.navi.sabata
-9981ff22e78af22b9a08bfc1140363c2 com.darkware.navi.django
+ae5a8ab5bf28ab5564fad843f1c00784 com.darkware.navi.sabata
+06e375289743b4cf27f7901848f2cea4 com.darkware.navi.django
 ab4f46e1f7db0952ca777092991326f9 com.Loui.player.Elecman
 330eec9aaae8ca679e9d9c8d69ede94e com.darkware.navi.TrainerRed
 fbf4fddee5f98737527849a7043c2821 com.player.D3str0y3d255&DarkWarePX.Sharkman
@@ -214,7 +214,6 @@ e1928e07fa03a33785122dd95e185516 navi.D3str0y3d255&Tressa
 fa4d2dd7cf4440e4742360ec082071b8 P0W3RK1D.player.Class_Teacher.ONB_2.0 
 8c2909e253a01e02d4f3be6f33576777 com.d3str0y3d255&tressa.navi.skullman
 d86f7e350c77c11a767734c4af18e6ec FlopTart.player.BstrdMan
-68014fa7b108ab08238c241227da6b48 com.darkware.navi.cloudman
 9f81004d4b122ef06aa78019f9685904 com.dagran.player.Pulseman
 cc1da1bab3d6e49c74062b461d7a80d7 com.D3str0y3d255.navi.cookman
 f545299d59ce5a934bfd94b965a09d80 Mighty Morphin Power Rangers White Ranger
@@ -281,7 +280,7 @@ a96672cdcb8489489e3e5a2ec2550e12 com.d3str0y3d255&guava.navi.Elementalmanpvp
 35dadd823e7ce98becb85ca93b151499 com.discord.Kimonia-Rules#1667.player.Sil
 ca26bb3d74c8287d660da1d5fd68b9d0 com.guava&drawcie.navi.divemanpvp
 c5d5ecded9af011a2d5f2077ab759f77 com.guava&darkwarepx.navi.countpvp
-c5fc5e074eb8a0a142c79f609622ac32 com.dawn.rescued.reworked.player.Iceman
+e49ed87791dfd17e937bf4ec211f626f com.dawn.rescued.reworked.player.Iceman
 9caefe715542dc2969f82e65dea7b8f3 52.Kunoichi.Unified.Library
 3997e418ac4bca67aea7ee8832763e85 com.guava&darkwarepx.navi.count
 d49e4876e900a1e559b44cb984a623c5 com.HeadDM.Yoona.TronBone
@@ -292,7 +291,7 @@ b6b21d987113ee99d466b19ee8491416 com.guava&darkware.navi.clockman
 174d0c795ce99dbe3c19c27efaf7f717 com.discord.Kimonia-Rules#1667.player.Ampere
 55bfd6db6b1932ca6fbb1dda21167130 com.discord.Xceed.player.Voltinel
 27d8ab139949a8d3f665505a4c9f9aeb com.tressa&darkware&d3str0y3d255.navi.cosmomanpvp
-b914e77f0df4cccf2b6ba29ea895405c com.discord.KorokoMystia&darkware.player.VideoMan
+eb215bd6df537886033f5101ab8d041d com.discord.KorokoMystia&darkware.player.VideoMan
 d4df76e1e08e4dcb4c59aa15af40289b com.tressa&darkware&d3str0y3d255.navi.cosmoman
 b0ca73cbd191faf9361028483389b1ad com.d3str0y3d255.navi.darkmanpvp
 7deba12a30572fc04ff855feb22dbc8b com.d3str0y3d255&darkware.navi.darkman
@@ -302,7 +301,7 @@ a790dda1e9ed704b3d0dc75656bd45d0 com.d3str0y3d255.navi.planetmanpvp
 b8c9b63079a1d2339a489e284ea63aa3 com.D3stroy3d.player.Hatmanpvp
 33e3804a900e0ac04fea900019e750ea com.D3stroy3d&darkware.player.Hatman
 863ff1aa0bc0952b27a4305196ffec2c com.d3str0y3d255&caseofthematts.navi.mistmanpvp
-2f2132ea9959aea7f431ba607628404c com.d3str0y3d255&guava&darkware.navi.Elementalman
+6cc7d5c0fc28819f8f53954968378c99 com.d3str0y3d255&guava&darkware.navi.Elementalman
 87e3a94b2509771454ddb5caea95b76c com.guava&drawcie&darkware.navi.diveman
 417b3a8f762e6b0f233053066b4e03cf com.d3str0y3d255&caseofthematts.navi.mistman
 745ec53a1f921f5a45a7cbb28102a628 gmod mega
@@ -314,3 +313,4 @@ a626bb94cf9b62b5efeabb9020fba9c4 com.beaned.navi.megamanbn6_beast
 fa8b637dfa34ccca648e4fe013aaeed1 sniper joe.exe
 d705c9815fb1f27b5b39ed65cb252dc7 com.darkware.navi.djangopvp
 23c87aad099bcfdca0e518c082888343 com.darkware.navi.sabatapvp
+6f14b70adf0fd237ba2d5b0949548506 com.darkware.navi.cloudman
