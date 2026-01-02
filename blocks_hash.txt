@@ -136,7 +136,7 @@ c3c9a3369bfa06ebf320b2ace5ede8e2 com.darkware.ncp.AquaShield
 9b1ea09b2a3594b9e6e751f83fad9671 com.darkware.ncp.IWoodShield
 043d191769dbc3693fdd3aa96e9986df com.darkware.ncp.HeatShield
 ce125bfb3d77caea5ca09f95a1b4cd0e com.OFC.block.EXE6-001-SuperArmor
-9aaf2accef70b92ca75fdd61419200e7 com.OFC.block.EXE6-010-KawarimiMagic
+3d9ca55da2d4e50c664340ad2fa2cdcb com.OFC.block.EXE6-010-KawarimiMagic
 fc7b162ccacaed7f7d1994c57e134993 com.OFC.block.EXE3-006-SetMagma
 45d0d23809e45ffddc8af71d491437fa com.OFC.block.EXE3-005-SetIce
 4d8f55d3c201d76a8d790df23dba06ff com.OFC.block.EXE3-004-SetGreen
@@ -217,7 +217,7 @@ c2a8cd339fdad8410320a31e065f8f1b Gym.LeaderRBY
 820e31e3b9460101cfa9c54173ff752b hoov.block.elemscan
 463abff76cc8839aac0fc5d36a849860 com.darkware.ncp.Stylelvl3(white)
 8f0ef642008b730547997de7f1727d48 com.darkware.ncp.Stylelvl3(pink)
-edfd4fa554a6907b190b3ecd6a3dfa23 com.OFC.block.EXE6-008-Shield
-61665f8d6f120febe039c8d8a3adfe88 com.OFC.block.EXE6-009-Reflect
+2ecc56c487e9aaf888c43689eb772186 com.OFC.block.EXE6-008-Shield
 c6c68a6f4b7affc6884b5137058712e5 com.darkware.ncp.overclockpower
 56e8d6b49691db8f7df0a595ef4f073f com.darkware.ncp.overclockcharge
+c3b046bae4de97f98a9c7c7359d4d85c com.OFC.block.EXE6-009-Reflect
