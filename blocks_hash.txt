@@ -103,7 +103,6 @@ c9f2affabea7c9fa36b0daf1217197ed com.darkware.ncp.AquaBody
 96fc84c933f015e4b0571a48bbe879e2 com.darkware.ncp.HeatGuts
 fbf45d98f627b7c6dabde8f39c470174 com.darkware.ncp.HeatBody
 47a4e78e212fe82dfafa6607d93760cb com.darkware.ncp.ElecGuts
-b96d41dbbfb4e4c97756235615e9d047 com.alrysc.block.antidamageBN6
 5b07abdb3fa9beedcdbc6c4317113bb5 com.darkware.ncp.AquaShadow
 8121b1cd90480b9a3a198b5f6138a554 com.darkware.ncp.ElecShadow
 8643532de9566c1c03ca0ff7bfcb1792 com.darkware.ncp.IWoodShadow

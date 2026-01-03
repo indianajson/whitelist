@@ -5527,59 +5527,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_alrysc_block_antidamageBN6": {
-    "data": {
-      "type": "blocks",
-      "id": "com.alrysc.block.antidamageBN6",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "AntiDmg",
-      "detail": {
-        "color": "Green",
-        "is_program": true,
-        "shape": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          1,
-          0,
-          0,
-          1,
-          1,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0
-        ]
-      },
-      "description": "Special to throw a Star"
-    },
-    "attachment_data": {
-      "timestamp": 1716698017432,
-      "discord_url": "https://cdn.discordapp.com/attachments/1234286217613410415/1244146401978482698/AntiDamageBN6.zip?ex=66540d21&is=6652bba1&hm=69568738f973709410a5f94f1faae57813061fc4ef1f0151ce1680e5abdd8aae&",
-      "author_name": "alrysc",
-      "author_id": "362428610444787712",
-      "original_filename": "AntiDamageBN6.zip",
-      "attachment_id": "1244146401978482698",
-      "thread_id": "1234286217613410415",
-      "thread_name": "[OFC] [NCP] [BN6] AntiDamage",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_darkware_ncp_AquaShadow": {
     "data": {
       "type": "blocks",
