@@ -23137,5 +23137,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_discord_totally_a_bot_player_Tab": {
+    "data": {
+      "type": "players",
+      "id": "com.discord.totally_a_bot.player.Tab",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Tab",
+      "detail": {
+        "icon": "images\\com_discord_totally_a_bot_player_Tab_icon.png",
+        "preview": "images\\com_discord_totally_a_bot_player_Tab_preview.png",
+        "animation": "./battle.animation",
+        "texture": "./battle.png",
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "No cheat code can save you now.",
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "health": 1000,
+      "element": "Elec",
+      "height": 40,
+      "charge_shot_color": {
+        "r": 57,
+        "g": 198,
+        "b": 243,
+        "a": 255
+      },
+      "charge_position": {
+        "x": 0,
+        "y": -20
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1767892987274,
+      "discord_url": "https://cdn.discordapp.com/attachments/1458870777121210469/1458873669135892532/Tab.zip?ex=6961397b&is=695fe7fb&hm=87a3788d8af4f222e66431e98e4f507ea0e5bfd2e809b6e1393843813a9f4c7f&",
+      "author_name": "totally_a_bot.",
+      "author_id": "761945007971500042",
+      "original_filename": "Tab.zip",
+      "attachment_id": "1458873669135892532",
+      "thread_id": "1458870777121210469",
+      "thread_name": "[NAVI][PVP][CUS]Tab",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
