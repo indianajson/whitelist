@@ -420,9 +420,9 @@ acd4c8b40651cb199b1b930293245939 com.claris.card.AttackPlusWind
 a6f9722d7a62c6caa6962dcfae960c16 com.claris.card.AttackPlusCursor
 84cb90b821f9469679d7e45bf7986fe6 com.claris.card.AttackPlusBreak
 cc0785c1fe6c608b3a118068a265fdcb com.claris.card.AttackPlus1
-995234b80b91ba468944fcbf0d9932d2 hoov.card.spice3
-407110a231d30ca58a2628fb73f7744b hoov.card.spice2
-6eed64ed1d98907e1a877a6ebedf60a0 hoov.card.spice1
+154c50181b736c3647412793a2dec23f hoov.card.spice3
+6898c42f042f7bc4673f6af58efb788b hoov.card.spice2
+f2e2d40e0e5c99689feb1a628c2df215 hoov.card.spice1
 188125302cf79c8413d5634490028817 DJ.AuraCannon
 6a477dd63160ad73673b95b736a8bd72 com.k1rbyat1na.card.EXE5-269-CosmoManSP
 8722adb72d267199307a8bcee69d291e com.k1rbyat1na.card.EXE5-268-CosmoMan

@@ -16857,22 +16857,24 @@
         "props": {
           "can_boost": true,
           "shortname": "Spice3",
-          "damage": 150,
+          "damage": 140,
           "time_freeze": false,
           "element": "Wood",
           "secondary_element": "None",
           "description": "Powder atk on all grass",
           "limit": 4
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1663808691808,
-      "discord_url": "https://cdn.discordapp.com/attachments/938290029548175400/1022312491948195861/Spice3.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1768515980242,
+      "discord_url": "https://cdn.discordapp.com/attachments/938290029548175400/1461486690701938698/hoov_card_spice3.zip?ex=696abb0c&is=6969698c&hm=049754a27c53ce94a5b40f0d946f3820f292ae88b9f9fac419208311f7b6f118&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "Spice3.zip",
-      "attachment_id": "1022312491948195861",
+      "original_filename": "hoov_card_spice3.zip",
+      "attachment_id": "1461486690701938698",
       "thread_id": "938290029548175400",
       "thread_name": "[OFC][CHIP] Spice Series",
       "channel_id": "865079018704994355",
@@ -16898,22 +16900,24 @@
         "props": {
           "can_boost": true,
           "shortname": "Spice2",
-          "damage": 120,
+          "damage": 110,
           "time_freeze": false,
           "element": "Wood",
           "secondary_element": "None",
           "description": "Powder atk on all grass",
           "limit": 4
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1663808691808,
-      "discord_url": "https://cdn.discordapp.com/attachments/938290029548175400/1022312491612643420/Spice2.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1768515980242,
+      "discord_url": "https://cdn.discordapp.com/attachments/938290029548175400/1461486690446348440/hoov_card_spice2.zip?ex=696abb0c&is=6969698c&hm=8fa73967b5dda671e47384e0be907b73b3a9d9549cfea20ffc495b835d893217&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "Spice2.zip",
-      "attachment_id": "1022312491612643420",
+      "original_filename": "hoov_card_spice2.zip",
+      "attachment_id": "1461486690446348440",
       "thread_id": "938290029548175400",
       "thread_name": "[OFC][CHIP] Spice Series",
       "channel_id": "865079018704994355",
@@ -16940,22 +16944,24 @@
         "props": {
           "can_boost": true,
           "shortname": "Spice1",
-          "damage": 90,
+          "damage": 80,
           "time_freeze": false,
           "element": "Wood",
           "secondary_element": "None",
           "description": "Powder atk on all grass",
           "limit": 5
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1663808691808,
-      "discord_url": "https://cdn.discordapp.com/attachments/938290029548175400/1022312491138695280/Spice1.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1768515980242,
+      "discord_url": "https://cdn.discordapp.com/attachments/938290029548175400/1461486690119188713/hoov_card_spice1.zip?ex=696abb0c&is=6969698c&hm=8d50b3e8e02f5f041103a07ca0482dc8b05d977f44c61bc3736f024e72ba1296&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "Spice1.zip",
-      "attachment_id": "1022312491138695280",
+      "original_filename": "hoov_card_spice1.zip",
+      "attachment_id": "1461486690119188713",
       "thread_id": "938290029548175400",
       "thread_name": "[OFC][CHIP] Spice Series",
       "channel_id": "865079018704994355",
