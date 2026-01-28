@@ -286,7 +286,7 @@ e49ed87791dfd17e937bf4ec211f626f com.dawn.rescued.reworked.player.Iceman
 d49e4876e900a1e559b44cb984a623c5 com.HeadDM.Yoona.TronBone
 2ca3feaa786b25b3ab620f37b72bca96 com.guava.navi.clockmanpvp
 b6b21d987113ee99d466b19ee8491416 com.guava&darkware.navi.clockman
-013a9fb496dd81e479d3cde8a45f7290 com.shadis.navi.Luigi
+f8272fdc7a8a54274e8634c5c4c709a7 com.shadis.navi.Luigi
 3bca5ee1471eb1d55721d32df8b4965d com.discord.KorokoMystia&darkware.player.VideoManpvp
 174d0c795ce99dbe3c19c27efaf7f717 com.discord.Kimonia-Rules#1667.player.Ampere
 55bfd6db6b1932ca6fbb1dda21167130 com.discord.Xceed.player.Voltinel

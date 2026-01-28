@@ -50068,12 +50068,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1766448979172,
-      "discord_url": "https://cdn.discordapp.com/attachments/1118066220093153340/1452817059548237855/com_OFC_card_EXE6_056_MachineGun2.zip?ex=694b30d3&is=6949df53&hm=b82d532548ef2360cf89a4a5965530bd007393a7214851ef2cc1474338fedde5&",
+      "timestamp": 1769551253194,
+      "discord_url": "https://cdn.discordapp.com/attachments/1118066220093153340/1465828939896193064/com_OFC_card_EXE6_056_MachineGun2.zip?ex=697a8715&is=69793595&hm=e5c9837d74ad615f27f40c930ce678aefb05bb6d53317701738dcbee818b89b3&",
       "author_name": "alrysc",
       "author_id": "362428610444787712",
       "original_filename": "com_OFC_card_EXE6_056_MachineGun2.zip",
-      "attachment_id": "1452817059548237855",
+      "attachment_id": "1465828939896193064",
       "thread_id": "1118066220093153340",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Machine Gun series",
       "channel_id": "865079018704994355",
@@ -50112,12 +50112,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1766448979172,
-      "discord_url": "https://cdn.discordapp.com/attachments/1118066220093153340/1452817059280060498/com_OFC_card_EXE6_055_MachineGun1.zip?ex=694b30d2&is=6949df52&hm=23c4bd530c5674e21febc0b4c6582cc836fae6ff44c11cbacf5752bbedba7d69&",
+      "timestamp": 1769551253194,
+      "discord_url": "https://cdn.discordapp.com/attachments/1118066220093153340/1465828939586080778/com_OFC_card_EXE6_055_MachineGun1.zip?ex=697a8714&is=69793594&hm=1b08a7d14f2377b461ff3bcdfdc751adfeaa8ca4fc81ae0b8ab4479e67430fb7&",
       "author_name": "alrysc",
       "author_id": "362428610444787712",
       "original_filename": "com_OFC_card_EXE6_055_MachineGun1.zip",
-      "attachment_id": "1452817059280060498",
+      "attachment_id": "1465828939586080778",
       "thread_id": "1118066220093153340",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Machine Gun series",
       "channel_id": "865079018704994355",
@@ -50155,12 +50155,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1766448979172,
-      "discord_url": "https://cdn.discordapp.com/attachments/1118066220093153340/1452817059854549012/com_OFC_card_EXE6_057_MachineGun3.zip?ex=694b30d3&is=6949df53&hm=847914b70c24bd10fd5455916c6c1bd9c6bb183b9283423c5e56cc3ac03fd511&",
+      "timestamp": 1769551253194,
+      "discord_url": "https://cdn.discordapp.com/attachments/1118066220093153340/1465828940122689730/com_OFC_card_EXE6_057_MachineGun3.zip?ex=697a8715&is=69793595&hm=61bb6a90e0456ccc299ebe1cb8265e1f9bf0c847406c116abf7ed6c1c5f025d7&",
       "author_name": "alrysc",
       "author_id": "362428610444787712",
       "original_filename": "com_OFC_card_EXE6_057_MachineGun3.zip",
-      "attachment_id": "1452817059854549012",
+      "attachment_id": "1465828940122689730",
       "thread_id": "1118066220093153340",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Machine Gun series",
       "channel_id": "865079018704994355",
@@ -61904,6 +61904,50 @@
       "attachment_id": "1446766383324069938",
       "thread_id": "1446749654552412302",
       "thread_name": "[OFC][CHIP][SF] SwordFighter Series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE4_134_Yukashita": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE4-134-Yukashita",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE4_134_Yukashita_icon.png",
+        "preview": "images\\com_OFC_card_EXE4_134_Yukashita_preview.png",
+        "codes": [
+          "J",
+          "P",
+          "Y",
+          "*"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "Underflr",
+          "damage": 0,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Attacks\nfrm under\nground",
+          "long_description": "Mole only appears when attacking from under ground",
+          "card_class": "Standard",
+          "limit": 4
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1769549927653,
+      "discord_url": "https://cdn.discordapp.com/attachments/1465821526967451841/1465823380451098686/EXE4-134-Yukashita.zip?ex=697a81e7&is=69793067&hm=b26283255e02461a93c6b3bcf8d02c281bf5aefb92d5d529a2f52396a816a7ae&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-134-Yukashita.zip",
+      "attachment_id": "1465823380451098686",
+      "thread_id": "1465821526967451841",
+      "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] Yukashita/Yukashita Mogura (Pop Up/Mole)",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

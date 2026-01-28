@@ -1220,9 +1220,9 @@ c52b3f6ecc572d949c4cd219bf91b6f8 com.OFC.card.EXE6-022-WideShot
 3a52e4aee20545f2b4c26c10099f23ab com.OFC.card.EXE6-017-GunDelSol3
 f230e14f980257380284060543a85633 com.OFC.card.EXE6-201-GunDelSolEX
 1f3a2cd869891e0cee2c4eec58af27a6 com.OFC.card.EXE6-016-GunDelSol2
-f902aeed474b6bb672a33d5222d1bac5 com.OFC.card.EXE6-056-MachineGun2
-80eb487f52c0e4e501a7e8654ea74cf1 com.OFC.card.EXE6-055-MachineGun1
-b82eb6dbbad1aab8ac7ac2e57721e743 com.OFC.card.EXE6-057-MachineGun3
+2cd140a6d9a19a88ebfce17bd7f691dd com.OFC.card.EXE6-056-MachineGun2
+8958e7c43700cb6dc270c0bc94fbd41f com.OFC.card.EXE6-055-MachineGun1
+143d1c481291885812ee1f5a0cbdd3d0 com.OFC.card.EXE6-057-MachineGun3
 2bad565c7a5434c18f471aa2dc42a54a com.OFC.card.EXE6-086-MachineSword
 ee8944d83b41d4d0f010316c3acd0faf com.OFC.card.EXE6-018-YoYo
 2573fc112a939d7c7fb5c9f091dfb8b4 com.OFC.card.EXE6-104-NumberBall
@@ -1503,3 +1503,4 @@ d7d79f2178f8ac9ea37bcbae8ae1c69e com.OFC.card.EXE5-089-CustomBolt1
 933a7da5d2a892f4084228174eb2a0b2 com.alrysc.card.SwordFighter2
 50240950da54e981d0701109d25afc0c com.alrysc.card.SwordFighter1
 a5ba18e8a17482d9414e238beabb35fc com.alrysc.card.SwordFighterX
+788a3947dbfef654c4926857078eddcc com.OFC.card.EXE4-134-Yukashita

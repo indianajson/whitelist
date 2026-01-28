@@ -12218,5 +12218,30 @@
     "timestamp": 1769351685470,
     "md5": "83d37d3a84779e53b7fc95cd4ab6e8ec",
     "id": "com.OFC.mob.EXE6-048-Gregar2"
+  },
+  "1465828939896193064": {
+    "timestamp": 1769551253194,
+    "md5": "2cd140a6d9a19a88ebfce17bd7f691dd",
+    "id": "com.OFC.card.EXE6-056-MachineGun2"
+  },
+  "1465828939586080778": {
+    "timestamp": 1769551253194,
+    "md5": "8958e7c43700cb6dc270c0bc94fbd41f",
+    "id": "com.OFC.card.EXE6-055-MachineGun1"
+  },
+  "1465828940122689730": {
+    "timestamp": 1769551253194,
+    "md5": "143d1c481291885812ee1f5a0cbdd3d0",
+    "id": "com.OFC.card.EXE6-057-MachineGun3"
+  },
+  "1465876394851569766": {
+    "timestamp": 1769562567278,
+    "md5": "f8272fdc7a8a54274e8634c5c4c709a7",
+    "id": "com.shadis.navi.Luigi"
+  },
+  "1465823380451098686": {
+    "timestamp": 1769549927653,
+    "md5": "788a3947dbfef654c4926857078eddcc",
+    "id": "com.OFC.card.EXE4-134-Yukashita"
   }
 }
