@@ -4572,7 +4572,7 @@
       "type": "enemies",
       "id": "com.OFC.mob.EXE6-051-GregarBeast2",
       "dependencies": [
-        "com.OFC.char.EXE6-051-GregarBeast1"
+        "com.OFC.char.EXE6-051-GregarBeast0"
       ],
       "subpackages": [],
       "name": "Gregar Beast SP (EXE6)",
@@ -4582,16 +4582,16 @@
       },
       "description": "Test fight with\nGregar Beast SP\nfrom Rockman EXE6",
       "speed": 3,
-      "attack": 120,
+      "attack": 160,
       "health": 1800
     },
     "attachment_data": {
-      "timestamp": 1748354209682,
-      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1376922095518355508/EXE6-051-GregarBeast2.zip?ex=68371621&is=6835c4a1&hm=21af6187fd92a302c01d5e3fe8943e7a449ee73d5a2063be04f9f3b2ab6e395c&",
+      "timestamp": 1770057530257,
+      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1467952420092117156/EXE6-051-GregarBeast2.zip?ex=698240ba&is=6980ef3a&hm=a788b93ce67c67f165199b4f088997dd270b347f9bedc7e38234a7eab61ae70c&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "EXE6-051-GregarBeast2.zip",
-      "attachment_id": "1376922095518355508",
+      "attachment_id": "1467952420092117156",
       "thread_id": "1371979769935171696",
       "thread_name": "[OFC][MOB][EXE6/BN6] Gregar Beast Rockman",
       "channel_id": "865079018704994355",
@@ -4602,10 +4602,10 @@
     "data": {
       "type": "enemies",
       "id": "com.OFC.mob.EXE6-051-GregarBeast1",
-      "dependencies": [],
-      "subpackages": [
-        "com.OFC.char.EXE6-051-GregarBeast1"
+      "dependencies": [
+        "com.OFC.char.EXE6-051-GregarBeast0"
       ],
+      "subpackages": [],
       "name": "Gregar Beast (EXE6)",
       "detail": {
         "preview": "images\\com_OFC_mob_EXE6_051_GregarBeast1_preview.png",
@@ -4617,12 +4617,12 @@
       "health": 900
     },
     "attachment_data": {
-      "timestamp": 1748354209682,
-      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1376922095157772458/EXE6-051-GregarBeast1.zip?ex=68371621&is=6835c4a1&hm=0f3a99dffb6f3ec332e0b4e675c5ba45a810aab71cfe8b870ab50a8af8d62571&",
+      "timestamp": 1770057530257,
+      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1467952419819356200/EXE6-051-GregarBeast1.zip?ex=698240ba&is=6980ef3a&hm=c23d249b2bc52448b0d43691758d01f00e15901123743ea5a6cfd4137c62d2bc&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "EXE6-051-GregarBeast1.zip",
-      "attachment_id": "1376922095157772458",
+      "attachment_id": "1467952419819356200",
       "thread_id": "1371979769935171696",
       "thread_name": "[OFC][MOB][EXE6/BN6] Gregar Beast Rockman",
       "channel_id": "865079018704994355",
@@ -4693,7 +4693,7 @@
       "type": "enemies",
       "id": "com.OFC.mob.EXE4-038-BurnerMan4",
       "dependencies": [
-        "com.OFC.char.EXE4-038-BurnerMan1"
+        "com.OFC.char.EXE4-038-BurnerMan0"
       ],
       "subpackages": [],
       "name": "BurnerMan SP (EXE4)",
@@ -4707,12 +4707,12 @@
       "health": 1900
     },
     "attachment_data": {
-      "timestamp": 1760352470386,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1427246448411410503/EXE4-038-BurnerMan4.zip?ex=68ee2a56&is=68ecd8d6&hm=be1b815095e183918a13af84881ef0abcaeb2eb80060d459bd78a17ae2e58096&",
+      "timestamp": 1770057625392,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952818865311966/EXE4-038-BurnerMan4.zip?ex=69824119&is=6980ef99&hm=987a5257be1d8250846979139b2decdb2594b3e7ddf64f5c250019573a9d7400&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "EXE4-038-BurnerMan4.zip",
-      "attachment_id": "1427246448411410503",
+      "attachment_id": "1467952818865311966",
       "thread_id": "1427246279909703730",
       "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
       "channel_id": "865079018704994355",
@@ -4724,7 +4724,7 @@
       "type": "enemies",
       "id": "com.OFC.mob.EXE4-038-BurnerMan3",
       "dependencies": [
-        "com.OFC.char.EXE4-038-BurnerMan1"
+        "com.OFC.char.EXE4-038-BurnerMan0"
       ],
       "subpackages": [],
       "name": "BurnerMan V3 (EXE4)",
@@ -4738,12 +4738,12 @@
       "health": 1500
     },
     "attachment_data": {
-      "timestamp": 1760352470386,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1427246447933390969/EXE4-038-BurnerMan3.zip?ex=68ee2a56&is=68ecd8d6&hm=6e05bd401ec6757888b9486f9e45c3216846e60b7e662d790c64d666218d0bd4&",
+      "timestamp": 1770057625392,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952818605396038/EXE4-038-BurnerMan3.zip?ex=69824119&is=6980ef99&hm=5b9e258c71075e347f6476b663bad7165a00d7ed38442922e7e6411c5d00fcfe&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "EXE4-038-BurnerMan3.zip",
-      "attachment_id": "1427246447933390969",
+      "attachment_id": "1467952818605396038",
       "thread_id": "1427246279909703730",
       "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
       "channel_id": "865079018704994355",
@@ -4755,7 +4755,7 @@
       "type": "enemies",
       "id": "com.OFC.mob.EXE4-038-BurnerMan2",
       "dependencies": [
-        "com.OFC.char.EXE4-038-BurnerMan1"
+        "com.OFC.char.EXE4-038-BurnerMan0"
       ],
       "subpackages": [],
       "name": "BurnerMan V2 (EXE4)",
@@ -4769,12 +4769,12 @@
       "health": 1100
     },
     "attachment_data": {
-      "timestamp": 1760352470386,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1427246447434137694/EXE4-038-BurnerMan2.zip?ex=68ee2a56&is=68ecd8d6&hm=b14e31ba2bc867717bee7332657ba8228a7e74146ba0acd27294c5010820c0d6&",
+      "timestamp": 1770057625392,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952818093555832/EXE4-038-BurnerMan2.zip?ex=69824119&is=6980ef99&hm=4710e22097ac01cc38915316d0cb91c52e7bfde5ed6a0d6cfcacc525799588ca&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "EXE4-038-BurnerMan2.zip",
-      "attachment_id": "1427246447434137694",
+      "attachment_id": "1467952818093555832",
       "thread_id": "1427246279909703730",
       "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
       "channel_id": "865079018704994355",
@@ -4785,10 +4785,10 @@
     "data": {
       "type": "enemies",
       "id": "com.OFC.mob.EXE4-038-BurnerMan1",
-      "dependencies": [],
-      "subpackages": [
-        "com.OFC.char.EXE4-038-BurnerMan1"
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan0"
       ],
+      "subpackages": [],
       "name": "BurnerMan (EXE4)",
       "detail": {
         "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan1_preview.png",
@@ -4800,12 +4800,12 @@
       "health": 700
     },
     "attachment_data": {
-      "timestamp": 1761257408485,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1431042034181083317/EXE4-038-BurnerMan1.zip?ex=68fbf940&is=68faa7c0&hm=1d8227d6e07a419d99c472112faeb6a221a43a11e8e0bbc5414718cf06b1dd13&",
+      "timestamp": 1770057625392,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952817666002954/EXE4-038-BurnerMan1.zip?ex=69824118&is=6980ef98&hm=74f158ec1f246f7121362ea115b9bec634f7fab3bb88ef967db0dc2be43ca18a&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "EXE4-038-BurnerMan1.zip",
-      "attachment_id": "1431042034181083317",
+      "attachment_id": "1467952817666002954",
       "thread_id": "1427246279909703730",
       "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
       "channel_id": "865079018704994355",
@@ -5081,6 +5081,62 @@
       "attachment_id": "1467172061205102662",
       "thread_id": "1455678220291805235",
       "thread_name": "[OFC][MOB][EXE6/BN6] Gregar boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan0": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan0",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE4-038-BurnerMan0"
+      ],
+      "name": "BurnerMan (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan0_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "MAIN MOB PACKAGE"
+    },
+    "attachment_data": {
+      "timestamp": 1770057625392,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952817334648964/EXE4-038-BurnerMan0.zip?ex=69824118&is=6980ef98&hm=ec722c9c649c3bf7cabe6726d3829e3b491352a699e5328c61ff001b16c4ca91&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan0.zip",
+      "attachment_id": "1467952817334648964",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_051_GregarBeast0": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-051-GregarBeast0",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE6-051-GregarBeast0"
+      ],
+      "name": "Gregar Beast (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_051_GregarBeast0_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "MAIN MOB PACKAGE"
+    },
+    "attachment_data": {
+      "timestamp": 1770063934210,
+      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1467979280226058545/EXE6-051-GregarBeast0.zip?ex=698259be&is=6981083e&hm=591171e2d150f4f256b10a2e734bfabfe31c56ff9c88b6fbb58e9aaf6bb35a85&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE6-051-GregarBeast0.zip",
+      "attachment_id": "1467979280226058545",
+      "thread_id": "1371979769935171696",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Gregar Beast Rockman",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

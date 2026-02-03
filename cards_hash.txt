@@ -500,9 +500,6 @@ dd64c564d5ab72bae3c4ea62e32dbd60 com.alrysc.card.CirnoV2
 9cfead97843b0e7f099cb92931d4e7c5 com.alrysc.card.UtsuhoV3
 74211fa83f7cba7e1626c6ebf2075220 com.alrysc.card.UtsuhoV2
 3b2f5f4c48392f66f8d0611bd7758076 com.alrysc.card.UtsuhoV1
-6654b6c8c347392d82b855122e14b6ce com.k1rbyat1na.card.EXE6-093-ReflecMet3
-207e5c203992c31649e711fcebe0f4c2 com.k1rbyat1na.card.EXE6-092-ReflecMet2
-be4a2a950e5f28a33352e479e91cae15 com.k1rbyat1na.card.EXE6-091-ReflecMet1
 e6090e7cb01919b0985afb8f2a43a1dd DJ.Dark.AirFuryDRKAIRFY
 c90be5b98e7cee5909f263f0198c44fb DJ.AirFury3AirFury3
 d346ee8c0332408d7d46983a6ff942c6 DJ.AirFury2AirFury2
@@ -1504,3 +1501,6 @@ b2ad9d4b99bd159d1e5350c346c9a22b com.OFC.card.EXE6-253-GroundManEX
 81dc5ee969e44d0d41c834af1a34f263 com.OFC.card.EXE6-110-BurnSquare3
 260b81f3d9e286a821b48e5125591b26 com.OFC.card.EXE6-109-BurnSquare2
 d6800a4e9f8ed9c892c960a95a07b553 com.OFC.card.EXE6-108-BurnSquare1
+85099061753f2c0315ba626fd69db83b com.OFC.card.EXE6-093-ReflecMet3
+68bea7918ba9e89175fac2704cf7ad8d com.OFC.card.EXE6-092-ReflecMet2
+fb020e71785276713a855725ea7ec221 com.OFC.card.EXE6-091-ReflecMet1
