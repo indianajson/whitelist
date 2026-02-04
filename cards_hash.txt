@@ -300,9 +300,6 @@ ef8ce1faafec340c341356ebc61cab04 com.k1rbyat1na.card.EXE4-120-StealJelly
 a177dd20dbbfdfe1a90f4b147195477a com.k1rbyat1na.card.EXE3-122-StealJelly2
 88704fa7ea02dcf1af36934868d76a15 com.k1rbyat1na.card.EXE3-121-StealJelly1
 e0f595598b9777d0ad6c2af77c62de2b com.keristero.card.DripShwr
-45c373b70b10853fecaa0d8fb4021a7d com.k1rbyat1na.card.EXE4-250-BurnerManDS
-a6cc1e59370af57fe6e83b861940423d com.k1rbyat1na.card.EXE4-249-BurnerManSP
-ce4861a7bc0257877242bc55410c71de com.k1rbyat1na.card.EXE4-248-BurnerMan
 0f8c35a2e84bc238f6b7cf4d23afdeda com.Dawn.ReworkCard.OilBomb
 ddd926724b3e3dc48fad3cba3c8ca342 com.k1rbyat1na.card.EXE4-283-BlueMoonRay
 2c564476a91a04ff150237cdf0cd12a9 com.k1rbyat1na.card.EXE4-277-MeteorRedSun
@@ -1504,3 +1501,6 @@ d6800a4e9f8ed9c892c960a95a07b553 com.OFC.card.EXE6-108-BurnSquare1
 85099061753f2c0315ba626fd69db83b com.OFC.card.EXE6-093-ReflecMet3
 68bea7918ba9e89175fac2704cf7ad8d com.OFC.card.EXE6-092-ReflecMet2
 fb020e71785276713a855725ea7ec221 com.OFC.card.EXE6-091-ReflecMet1
+522c25d1025fc1b08a46b2f69ef4a70b com.OFC.card.EXE4-250-BurnerManDS
+b2a3e301f26f165febef12750e6bb4df com.OFC.card.EXE4-249-BurnerManSP
+59d9258271aae5b4f7955944fccc3a7c com.OFC.card.EXE4-248-BurnerMan

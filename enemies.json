@@ -4688,130 +4688,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_OFC_mob_EXE4_038_BurnerMan4": {
-    "data": {
-      "type": "enemies",
-      "id": "com.OFC.mob.EXE4-038-BurnerMan4",
-      "dependencies": [
-        "com.OFC.char.EXE4-038-BurnerMan0"
-      ],
-      "subpackages": [],
-      "name": "BurnerMan SP (EXE4)",
-      "detail": {
-        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan4_preview.png",
-        "preview_zip": "./preview.png"
-      },
-      "description": "Test fight with\nBurnerMan SP\nfrom Rockman EXE4",
-      "speed": 4,
-      "attack": 200,
-      "health": 1900
-    },
-    "attachment_data": {
-      "timestamp": 1770057625392,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952818865311966/EXE4-038-BurnerMan4.zip?ex=69824119&is=6980ef99&hm=987a5257be1d8250846979139b2decdb2594b3e7ddf64f5c250019573a9d7400&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-038-BurnerMan4.zip",
-      "attachment_id": "1467952818865311966",
-      "thread_id": "1427246279909703730",
-      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_OFC_mob_EXE4_038_BurnerMan3": {
-    "data": {
-      "type": "enemies",
-      "id": "com.OFC.mob.EXE4-038-BurnerMan3",
-      "dependencies": [
-        "com.OFC.char.EXE4-038-BurnerMan0"
-      ],
-      "subpackages": [],
-      "name": "BurnerMan V3 (EXE4)",
-      "detail": {
-        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan3_preview.png",
-        "preview_zip": "./preview.png"
-      },
-      "description": "Test fight with\nBurnerMan V3\nfrom Rockman EXE4",
-      "speed": 3,
-      "attack": 120,
-      "health": 1500
-    },
-    "attachment_data": {
-      "timestamp": 1770057625392,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952818605396038/EXE4-038-BurnerMan3.zip?ex=69824119&is=6980ef99&hm=5b9e258c71075e347f6476b663bad7165a00d7ed38442922e7e6411c5d00fcfe&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-038-BurnerMan3.zip",
-      "attachment_id": "1467952818605396038",
-      "thread_id": "1427246279909703730",
-      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_OFC_mob_EXE4_038_BurnerMan2": {
-    "data": {
-      "type": "enemies",
-      "id": "com.OFC.mob.EXE4-038-BurnerMan2",
-      "dependencies": [
-        "com.OFC.char.EXE4-038-BurnerMan0"
-      ],
-      "subpackages": [],
-      "name": "BurnerMan V2 (EXE4)",
-      "detail": {
-        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan2_preview.png",
-        "preview_zip": "./preview.png"
-      },
-      "description": "Test fight with\nBurnerMan V2\nfrom Rockman EXE4",
-      "speed": 2,
-      "attack": 80,
-      "health": 1100
-    },
-    "attachment_data": {
-      "timestamp": 1770057625392,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952818093555832/EXE4-038-BurnerMan2.zip?ex=69824119&is=6980ef99&hm=4710e22097ac01cc38915316d0cb91c52e7bfde5ed6a0d6cfcacc525799588ca&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-038-BurnerMan2.zip",
-      "attachment_id": "1467952818093555832",
-      "thread_id": "1427246279909703730",
-      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_OFC_mob_EXE4_038_BurnerMan1": {
-    "data": {
-      "type": "enemies",
-      "id": "com.OFC.mob.EXE4-038-BurnerMan1",
-      "dependencies": [
-        "com.OFC.char.EXE4-038-BurnerMan0"
-      ],
-      "subpackages": [],
-      "name": "BurnerMan (EXE4)",
-      "detail": {
-        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan1_preview.png",
-        "preview_zip": "./preview.png"
-      },
-      "description": "Test fight with\nBurnerMan\nfrom Rockman EXE4",
-      "speed": 1,
-      "attack": 40,
-      "health": 700
-    },
-    "attachment_data": {
-      "timestamp": 1770057625392,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952817666002954/EXE4-038-BurnerMan1.zip?ex=69824118&is=6980ef98&hm=74f158ec1f246f7121362ea115b9bec634f7fab3bb88ef967db0dc2be43ca18a&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-038-BurnerMan1.zip",
-      "attachment_id": "1467952817666002954",
-      "thread_id": "1427246279909703730",
-      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_OFC_mob_EXE5_037_Colonel5": {
     "data": {
       "type": "enemies",
@@ -5085,34 +4961,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_OFC_mob_EXE4_038_BurnerMan0": {
-    "data": {
-      "type": "enemies",
-      "id": "com.OFC.mob.EXE4-038-BurnerMan0",
-      "dependencies": [],
-      "subpackages": [
-        "com.OFC.char.EXE4-038-BurnerMan0"
-      ],
-      "name": "BurnerMan (EXE4)",
-      "detail": {
-        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan0_preview.png",
-        "preview_zip": "./preview.png"
-      },
-      "description": "MAIN MOB PACKAGE"
-    },
-    "attachment_data": {
-      "timestamp": 1770057625392,
-      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1467952817334648964/EXE4-038-BurnerMan0.zip?ex=69824118&is=6980ef98&hm=ec722c9c649c3bf7cabe6726d3829e3b491352a699e5328c61ff001b16c4ca91&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-038-BurnerMan0.zip",
-      "attachment_id": "1467952817334648964",
-      "thread_id": "1427246279909703730",
-      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_OFC_mob_EXE6_051_GregarBeast0": {
     "data": {
       "type": "enemies",
@@ -5129,14 +4977,166 @@
       "description": "MAIN MOB PACKAGE"
     },
     "attachment_data": {
-      "timestamp": 1770063934210,
-      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1467979280226058545/EXE6-051-GregarBeast0.zip?ex=698259be&is=6981083e&hm=591171e2d150f4f256b10a2e734bfabfe31c56ff9c88b6fbb58e9aaf6bb35a85&",
+      "timestamp": 1770148318698,
+      "discord_url": "https://cdn.discordapp.com/attachments/1371979769935171696/1468333214572613847/EXE6-051-GregarBeast0.zip?ex=6983a35e&is=698251de&hm=a923b750d7907cfe9f36958bc34a200c78e333c0f6b0c9c6c67dd629ac445eb7&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "EXE6-051-GregarBeast0.zip",
-      "attachment_id": "1467979280226058545",
+      "attachment_id": "1468333214572613847",
       "thread_id": "1371979769935171696",
       "thread_name": "[OFC][MOB][EXE6/BN6] Gregar Beast Rockman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan4",
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan0"
+      ],
+      "subpackages": [],
+      "name": "BurnerMan SP (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan SP\nfrom Rockman EXE4",
+      "speed": 4,
+      "attack": 200,
+      "health": 1900
+    },
+    "attachment_data": {
+      "timestamp": 1770149513153,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1468338224375271569/EXE4-038-BurnerMan4.zip?ex=6983a809&is=69825689&hm=b25f8a1e7b9af8cb237ae9bbc98a74a5615388f778bedc21884782ef66ae22e4&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan4.zip",
+      "attachment_id": "1468338224375271569",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan3",
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan0"
+      ],
+      "subpackages": [],
+      "name": "BurnerMan V3 (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan V3\nfrom Rockman EXE4",
+      "speed": 3,
+      "attack": 120,
+      "health": 1500
+    },
+    "attachment_data": {
+      "timestamp": 1770149513153,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1468338224123351091/EXE4-038-BurnerMan3.zip?ex=6983a809&is=69825689&hm=940dbdb0b02cca8c2fa7171d4e86989dd4de59eef84c105068ce62d6d131fe02&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan3.zip",
+      "attachment_id": "1468338224123351091",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan2",
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan0"
+      ],
+      "subpackages": [],
+      "name": "BurnerMan V2 (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan V2\nfrom Rockman EXE4",
+      "speed": 2,
+      "attack": 80,
+      "health": 1100
+    },
+    "attachment_data": {
+      "timestamp": 1770149513153,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1468338223859105812/EXE4-038-BurnerMan2.zip?ex=6983a808&is=69825688&hm=5c145893e6e7d2285977c69b184b19dad3197a7fc0d2eca44d760549481fa051&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan2.zip",
+      "attachment_id": "1468338223859105812",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan1",
+      "dependencies": [
+        "com.OFC.char.EXE4-038-BurnerMan0"
+      ],
+      "subpackages": [],
+      "name": "BurnerMan (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nBurnerMan\nfrom Rockman EXE4",
+      "speed": 1,
+      "attack": 40,
+      "health": 700
+    },
+    "attachment_data": {
+      "timestamp": 1770149513153,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1468338223595131003/EXE4-038-BurnerMan1.zip?ex=6983a808&is=69825688&hm=701164f4a493061bc9e270fa058734aceea0660a107a8de3d5d7d94b698ed395&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan1.zip",
+      "attachment_id": "1468338223595131003",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_038_BurnerMan0": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-038-BurnerMan0",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE4-038-BurnerMan0"
+      ],
+      "name": "BurnerMan (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_038_BurnerMan0_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "MAIN MOB PACKAGE"
+    },
+    "attachment_data": {
+      "timestamp": 1770149513153,
+      "discord_url": "https://cdn.discordapp.com/attachments/1427246279909703730/1468338223347536098/EXE4-038-BurnerMan0.zip?ex=6983a808&is=69825688&hm=df83d7c9f490d2d6d4279e62ab0c1ebcfd83eda5b87637d2f2041d2dbe1a7501&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-038-BurnerMan0.zip",
+      "attachment_id": "1468338223347536098",
+      "thread_id": "1427246279909703730",
+      "thread_name": "[OFC][MOB][EXE4/BN4] BurnerMan boss fight",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

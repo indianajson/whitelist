@@ -23183,5 +23183,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_darkware_navi_gridman": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware.navi.gridman",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Gridman",
+      "detail": {
+        "icon": "images\\com_darkware_navi_gridman_icon.png",
+        "preview": "images\\com_darkware_navi_gridman_preview.png",
+        "animation": "./gridman.animation",
+        "texture": "./navi_gridman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "imagine an epic phrase here",
+      "health": 1000,
+      "element": "None",
+      "height": 55,
+      "charge_position": {
+        "x": 4,
+        "y": -24
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770156777475,
+      "discord_url": "https://cdn.discordapp.com/attachments/1468368685444890636/1468368693024129265/Gridman.zip?ex=6983c469&is=698272e9&hm=dc6b28d6562c6147fa0cb6fad83cba650e5d831888a4a8657e8e8ab352eb2fd2&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Gridman.zip",
+      "attachment_id": "1468368693024129265",
+      "thread_id": "1468368685444890636",
+      "thread_name": "[OFC][NAVI][PVP] Gridman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }

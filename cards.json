@@ -11996,123 +11996,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_k1rbyat1na_card_EXE4_250_BurnerManDS": {
-    "data": {
-      "type": "cards",
-      "id": "com.k1rbyat1na.card.EXE4-250-BurnerManDS",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_k1rbyat1na_card_EXE4_250_BurnerManDS_icon.png",
-        "preview": "images\\com_k1rbyat1na_card_EXE4_250_BurnerManDS_preview.png",
-        "codes": [
-          "B"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "BurnMnDS",
-          "damage": 70,
-          "time_freeze": true,
-          "element": "Fire",
-          "description": "3-direct burnr fry 2 ahead!",
-          "long_description": "Concentrated attack with burners from 3 sides, 2 squares forward",
-          "card_class": "Mega",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1657122736496,
-      "discord_url": "https://cdn.discordapp.com/attachments/994269549979521174/994269562910560386/EXE4-250-BurnerManDS.zip",
-      "author_name": "K1rbYat1Na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-250-BurnerManDS.zip",
-      "attachment_id": "994269562910560386",
-      "thread_id": "994269549979521174",
-      "thread_name": "[OFC] [EXE4] [EXE4.5] [CHIP] BurnerMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_k1rbyat1na_card_EXE4_249_BurnerManSP": {
-    "data": {
-      "type": "cards",
-      "id": "com.k1rbyat1na.card.EXE4-249-BurnerManSP",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_k1rbyat1na_card_EXE4_249_BurnerManSP_icon.png",
-        "preview": "images\\com_k1rbyat1na_card_EXE4_249_BurnerManSP_preview.png",
-        "codes": [
-          "B"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "BurnMnSP",
-          "damage": 95,
-          "time_freeze": true,
-          "element": "Fire",
-          "description": "3-direct burnr fry 2 ahead!",
-          "long_description": "Concentrated attack with burners from 3 sides, 2 squares forward",
-          "card_class": "Mega",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1657122736496,
-      "discord_url": "https://cdn.discordapp.com/attachments/994269549979521174/994269562457563136/EXE4-249-BurnerManSP.zip",
-      "author_name": "K1rbYat1Na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-249-BurnerManSP.zip",
-      "attachment_id": "994269562457563136",
-      "thread_id": "994269549979521174",
-      "thread_name": "[OFC] [EXE4] [EXE4.5] [CHIP] BurnerMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_k1rbyat1na_card_EXE4_248_BurnerMan": {
-    "data": {
-      "type": "cards",
-      "id": "com.k1rbyat1na.card.EXE4-248-BurnerMan",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_k1rbyat1na_card_EXE4_248_BurnerMan_icon.png",
-        "preview": "images\\com_k1rbyat1na_card_EXE4_248_BurnerMan_preview.png",
-        "codes": [
-          "B"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "BurnrMan",
-          "damage": 60,
-          "time_freeze": true,
-          "element": "Fire",
-          "description": "3-direct burnr fry 2 ahead!",
-          "long_description": "Concentrated attack with burners from 3 sides, 2 squares forward",
-          "card_class": "Mega",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1657122736496,
-      "discord_url": "https://cdn.discordapp.com/attachments/994269549979521174/994269562231083059/EXE4-248-BurnerMan.zip",
-      "author_name": "K1rbYat1Na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE4-248-BurnerMan.zip",
-      "attachment_id": "994269562231083059",
-      "thread_id": "994269549979521174",
-      "thread_name": "[OFC] [EXE4] [EXE4.5] [CHIP] BurnerMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_Dawn_ReworkCard_OilBomb": {
     "data": {
       "type": "cards",
@@ -61957,6 +61840,129 @@
       "attachment_id": "1467983449070501962",
       "thread_id": "1467983221663858831",
       "thread_name": "[OFC][CHIP][EXE6/BN6] ReflecMet (Reflector) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE4_250_BurnerManDS": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE4-250-BurnerManDS",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE4_250_BurnerManDS_icon.png",
+        "preview": "images\\com_OFC_card_EXE4_250_BurnerManDS_preview.png",
+        "codes": [
+          "B"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "BurnrMnDS",
+          "damage": 777,
+          "time_freeze": true,
+          "element": "Fire",
+          "description": "Burnr atk\nfrom 3sds\n2sq ahead",
+          "long_description": "Concentrated burner attack from 3 sides, aiming 2 squares ahead",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770149926155,
+      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1468339956371030171/com_OFC_card_EXE4_250_BurnerManDS.zip?ex=6983a9a6&is=69825826&hm=1a7c7687865331e3652617e55996786b8be759e102610bbee1474a62acf7d5f7&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE4_250_BurnerManDS.zip",
+      "attachment_id": "1468339956371030171",
+      "thread_id": "1468339526039507194",
+      "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] BurnerMan (BurnMan) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE4_249_BurnerManSP": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE4-249-BurnerManSP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE4_249_BurnerManSP_icon.png",
+        "preview": "images\\com_OFC_card_EXE4_249_BurnerManSP_preview.png",
+        "codes": [
+          "B"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "BurnrMnSP",
+          "damage": 777,
+          "time_freeze": true,
+          "element": "Fire",
+          "description": "Burnr atk\nfrom 3sds\n2sq ahead",
+          "long_description": "Concentrated burner attack from 3 sides, aiming 2 squares ahead",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770149926155,
+      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1468339956027232266/com_OFC_card_EXE4_249_BurnerManSP.zip?ex=6983a9a5&is=69825825&hm=13a3fa8c79a751ee4c7a9d559317d7f0f68459cf192aed3b8afff5b2f7683b3a&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE4_249_BurnerManSP.zip",
+      "attachment_id": "1468339956027232266",
+      "thread_id": "1468339526039507194",
+      "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] BurnerMan (BurnMan) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE4_248_BurnerMan": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE4-248-BurnerMan",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE4_248_BurnerMan_icon.png",
+        "preview": "images\\com_OFC_card_EXE4_248_BurnerMan_preview.png",
+        "codes": [
+          "B"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "BurnrMan",
+          "damage": 60,
+          "time_freeze": true,
+          "element": "Fire",
+          "description": "Burnr atk\nfrom 3sds\n2sq ahead",
+          "long_description": "Concentrated burner attack from 3 sides, aiming 2 squares ahead",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770149926155,
+      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1468339955209338922/com_OFC_card_EXE4_248_BurnerMan.zip?ex=6983a9a5&is=69825825&hm=eaec6480bf889ee80718e65c7953d79c819fc5770db3ab470eba1080c0c39f54&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE4_248_BurnerMan.zip",
+      "attachment_id": "1468339955209338922",
+      "thread_id": "1468339526039507194",
+      "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] BurnerMan (BurnMan) series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
