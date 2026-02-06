@@ -21344,85 +21344,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_louise_card_shademansp": {
-    "data": {
-      "type": "cards",
-      "id": "com.louise.card.shademansp",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_louise_card_shademansp_icon.png",
-        "preview": "images\\com_louise_card_shademansp_preview.png",
-        "codes": [
-          "S"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "ShadeMnSP",
-          "damage": 190,
-          "time_freeze": true,
-          "element": "None",
-          "description": "CrshNoise attck all direction",
-          "long_description": "CrshNoise pulse attack ahead.",
-          "card_class": "Mega",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1673223205688,
-      "discord_url": "https://cdn.discordapp.com/attachments/995708452120826017/1061799825219256390/bn5_shademansp.zip",
-      "author_name": "Hooviey",
-      "author_id": "736271336376107068",
-      "original_filename": "bn5_shademansp.zip",
-      "attachment_id": "1061799825219256390",
-      "thread_id": "995708452120826017",
-      "thread_name": "[EXE5] [CHIP] Shademan.",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_louise_card_shademan": {
-    "data": {
-      "type": "cards",
-      "id": "com.louise.card.shademan",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_louise_card_shademan_icon.png",
-        "preview": "images\\com_louise_card_shademan_preview.png",
-        "codes": [
-          "S",
-          "*"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "ShadeMan",
-          "damage": 120,
-          "time_freeze": true,
-          "element": "None",
-          "description": "CrshNoise attck all direction",
-          "long_description": "CrshNoise pulse attack ahead.",
-          "card_class": "Mega",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1673223205688,
-      "discord_url": "https://cdn.discordapp.com/attachments/995708452120826017/1061799824866938970/bn5_shademan.zip",
-      "author_name": "Hooviey",
-      "author_id": "736271336376107068",
-      "original_filename": "bn5_shademan.zip",
-      "attachment_id": "1061799824866938970",
-      "thread_id": "995708452120826017",
-      "thread_name": "[EXE5] [CHIP] Shademan.",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_louise_card_BassBn4_6": {
     "data": {
       "type": "cards",
@@ -56800,14 +56721,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1769945329745,
-      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1467481816834375833/com_OFC_card_EXE5_245_ShadowManSP.zip?ex=69808a71&is=697f38f1&hm=f329a17f28df124d829dab993d8d3089330c1502059ee531bd5bfc4f1e390b4d&",
+      "timestamp": 1770328567179,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469089232009298183/com_OFC_card_EXE5_245_ShadowManSP.zip?ex=69866377&is=698511f7&hm=df3d64a8f0508561bbb88064bc9b07530488638617335202194235794bd7494c&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_245_ShadowManSP.zip",
-      "attachment_id": "1467481816834375833",
-      "thread_id": "1394647022405025892",
-      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
+      "attachment_id": "1469089232009298183",
+      "thread_id": "1469070695593148512",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -56841,14 +56762,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1769945329745,
-      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1467481816117280778/com_OFC_card_EXE5_244_ShadowMan.zip?ex=69808a71&is=697f38f1&hm=fafbaf538cd3295ecb764aa4ada6c940f02e3c6782757b983a5b6092b7f30f63&",
+      "timestamp": 1770328567179,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469089231669301322/com_OFC_card_EXE5_244_ShadowMan.zip?ex=69866377&is=698511f7&hm=bdc54a214e9e98bfbd06ec68a530425bf26274ce30bb27532a4872831cf8179c&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_244_ShadowMan.zip",
-      "attachment_id": "1467481816117280778",
-      "thread_id": "1394647022405025892",
-      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
+      "attachment_id": "1469089231669301322",
+      "thread_id": "1469070695593148512",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -56882,14 +56803,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1769945329745,
-      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1467481817216192666/com_OFC_card_EXE5_246_ShadowManDS.zip?ex=69808a71&is=697f38f1&hm=e9d7882ee634efd6bba7be1e54797ddac35c655970071da153e1c848fc803a8d&",
+      "timestamp": 1770328567179,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469089232378400778/com_OFC_card_EXE5_246_ShadowManDS.zip?ex=69866377&is=698511f7&hm=a3520c59a0485eb0e03fba698483114bb6848774ab97cd4e46d3bd78db138fd2&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_246_ShadowManDS.zip",
-      "attachment_id": "1467481817216192666",
-      "thread_id": "1394647022405025892",
-      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
+      "attachment_id": "1469089232378400778",
+      "thread_id": "1469070695593148512",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

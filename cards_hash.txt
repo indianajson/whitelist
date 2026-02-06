@@ -531,8 +531,6 @@ cdd8d80f55931d286f81ab6016d8f22e com.louise.card.GolmHit1
 c17ecfa89603359c1edd0853acc6eca8 com.louise.card.icewave
 8250f6a99aba87c4f757b8b18d1e206a com.louise.card.magbolt
 51ae908a02668370628e92a2f3d96988 com.isabelle.card.re.hubbatch
-bf1aeb0449b7390de26560e5f2c811f9 com.louise.card.shademansp
-ffc73fab460f8abc08881cd1156a2195 com.louise.card.shademan
 73bb936a15b777223a6924dafe57199f com.louise.card.BassBn4-6
 eb5614cb23a4bcf2fcf718b1eac9ee8c com.alrysc.card.HakutakuManX
 7cec376f98ef5329eaef130bb0fcd6cd com.alrysc.card.HakutakuManV3
