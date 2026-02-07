@@ -56721,14 +56721,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770328567179,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469089232009298183/com_OFC_card_EXE5_245_ShadowManSP.zip?ex=69866377&is=698511f7&hm=df3d64a8f0508561bbb88064bc9b07530488638617335202194235794bd7494c&",
+      "timestamp": 1770354678629,
+      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1469198751443714197/com_OFC_card_EXE5_245_ShadowManSP.zip?ex=6986c976&is=698577f6&hm=753b7962df6bb30ddd6f04369a91f9332ebca1588917c731983bee83286b00d7&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_245_ShadowManSP.zip",
-      "attachment_id": "1469089232009298183",
-      "thread_id": "1469070695593148512",
-      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
+      "attachment_id": "1469198751443714197",
+      "thread_id": "1394647022405025892",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -56762,14 +56762,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770328567179,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469089231669301322/com_OFC_card_EXE5_244_ShadowMan.zip?ex=69866377&is=698511f7&hm=bdc54a214e9e98bfbd06ec68a530425bf26274ce30bb27532a4872831cf8179c&",
+      "timestamp": 1770354678629,
+      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1469198751796170782/com_OFC_card_EXE5_244_ShadowMan.zip?ex=6986c976&is=698577f6&hm=de183b5f471c1a3c5dce762ec55d6edd78a3dd13f87830ff541cc045580fde1f&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_244_ShadowMan.zip",
-      "attachment_id": "1469089231669301322",
-      "thread_id": "1469070695593148512",
-      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
+      "attachment_id": "1469198751796170782",
+      "thread_id": "1394647022405025892",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -56803,14 +56803,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770328567179,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469089232378400778/com_OFC_card_EXE5_246_ShadowManDS.zip?ex=69866377&is=698511f7&hm=a3520c59a0485eb0e03fba698483114bb6848774ab97cd4e46d3bd78db138fd2&",
+      "timestamp": 1770354678629,
+      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1469198751007772733/com_OFC_card_EXE5_246_ShadowManDS.zip?ex=6986c976&is=698577f6&hm=7782d11f8f6b43cd60e3348670ea4f8b93116594bf3b606713fe33a9c85abfca&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_246_ShadowManDS.zip",
-      "attachment_id": "1469089232378400778",
-      "thread_id": "1469070695593148512",
-      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
+      "attachment_id": "1469198751007772733",
+      "thread_id": "1394647022405025892",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -61884,6 +61884,129 @@
       "attachment_id": "1468339955209338922",
       "thread_id": "1468339526039507194",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] BurnerMan (BurnMan) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE5_264_ShadeManDS": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE5-264-ShadeManDS",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE5_264_ShadeManDS_icon.png",
+        "preview": "images\\com_OFC_card_EXE5_264_ShadeManDS_preview.png",
+        "codes": [
+          "S"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "ShadeMnDS",
+          "damage": 777,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Rdial spr\nsonic atk\nCrshNoise",
+          "long_description": "Radial supersonic attack CrushNoise!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770385973674,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469330012573532170/com_OFC_card_EXE5_264_ShadeManDS.zip?ex=698743b5&is=6985f235&hm=13ec258cfe184762c2124498b4f5eefd03910e4ec02f20a570ac99e99c834624&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE5_264_ShadeManDS.zip",
+      "attachment_id": "1469330012573532170",
+      "thread_id": "1469070695593148512",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE5_263_ShadeManSP": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE5-263-ShadeManSP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE5_263_ShadeManSP_icon.png",
+        "preview": "images\\com_OFC_card_EXE5_263_ShadeManSP_preview.png",
+        "codes": [
+          "S"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "ShadeMnSP",
+          "damage": 777,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Rdial spr\nsonic atk\nCrshNoise",
+          "long_description": "Radial supersonic attack CrushNoise!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770385973674,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469330012292382892/com_OFC_card_EXE5_263_ShadeManSP.zip?ex=698743b5&is=6985f235&hm=0f96da3866b961143493d43db9fe92f64f1edb0f26f7556053058a4c24dabb47&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE5_263_ShadeManSP.zip",
+      "attachment_id": "1469330012292382892",
+      "thread_id": "1469070695593148512",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE5_262_ShadeMan": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE5-262-ShadeMan",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE5_262_ShadeMan_icon.png",
+        "preview": "images\\com_OFC_card_EXE5_262_ShadeMan_preview.png",
+        "codes": [
+          "S"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "ShadeMan",
+          "damage": 120,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Rdial spr\nsonic atk\nCrshNoise",
+          "long_description": "Radial supersonic attack CrushNoise!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770385973674,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1469330011948322877/com_OFC_card_EXE5_262_ShadeMan.zip?ex=698743b5&is=6985f235&hm=255443653645e2cde0376df069e2a89f3faa3ee732b766c122b6f02433eb35d9&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE5_262_ShadeMan.zip",
+      "attachment_id": "1469330011948322877",
+      "thread_id": "1469070695593148512",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

@@ -12658,5 +12658,35 @@
     "timestamp": 1770328567179,
     "md5": "515e1584d9211403c9c2c78a981a7dc1",
     "id": "com.OFC.card.EXE5-246-ShadowManDS"
+  },
+  "1469198751443714197": {
+    "timestamp": 1770354678629,
+    "md5": "a9b6f8df380c56981c82f5c389e23283",
+    "id": "com.OFC.card.EXE5-245-ShadowManSP"
+  },
+  "1469198751796170782": {
+    "timestamp": 1770354678629,
+    "md5": "cf8400f5ba7b068d90f767e409a9dca4",
+    "id": "com.OFC.card.EXE5-244-ShadowMan"
+  },
+  "1469198751007772733": {
+    "timestamp": 1770354678629,
+    "md5": "515e1584d9211403c9c2c78a981a7dc1",
+    "id": "com.OFC.card.EXE5-246-ShadowManDS"
+  },
+  "1469330012573532170": {
+    "timestamp": 1770385973674,
+    "md5": "20fc9004d058cbecef85a733d5f1984e",
+    "id": "com.OFC.card.EXE5-264-ShadeManDS"
+  },
+  "1469330012292382892": {
+    "timestamp": 1770385973674,
+    "md5": "89325f6bec6d8fa27790c19cb3327708",
+    "id": "com.OFC.card.EXE5-263-ShadeManSP"
+  },
+  "1469330011948322877": {
+    "timestamp": 1770385973674,
+    "md5": "cdd30ec32b2670000653dfbffd7fd0d7",
+    "id": "com.OFC.card.EXE5-262-ShadeMan"
   }
 }
