@@ -10624,84 +10624,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_k1rbyat1na_card_EXE5_272_SwallowManSP": {
-    "data": {
-      "type": "cards",
-      "id": "com.k1rbyat1na.card.EXE5-272-SwallowManSP",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_k1rbyat1na_card_EXE5_272_SwallowManSP_icon.png",
-        "preview": "images\\com_k1rbyat1na_card_EXE5_272_SwallowManSP_preview.png",
-        "codes": [
-          "S"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "SwalwMnSP",
-          "damage": 220,
-          "time_freeze": true,
-          "element": "None",
-          "description": "Whirl forward and atk!",
-          "long_description": "Take the route 2 squares forward and turn around to attack enemies!",
-          "card_class": "Mega",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1655199830483,
-      "discord_url": "https://cdn.discordapp.com/attachments/972926152253530193/986204310599770112/EXE5-272-SwallowManSP.zip",
-      "author_name": "K1rbYat1Na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE5-272-SwallowManSP.zip",
-      "attachment_id": "986204310599770112",
-      "thread_id": "972926152253530193",
-      "thread_name": "[OFC] [EXE5] [CHIP] SwallowMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_k1rbyat1na_card_EXE5_271_SwallowMan": {
-    "data": {
-      "type": "cards",
-      "id": "com.k1rbyat1na.card.EXE5-271-SwallowMan",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_k1rbyat1na_card_EXE5_271_SwallowMan_icon.png",
-        "preview": "images\\com_k1rbyat1na_card_EXE5_271_SwallowMan_preview.png",
-        "codes": [
-          "S"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "SwalwMan",
-          "damage": 140,
-          "time_freeze": true,
-          "element": "None",
-          "description": "Whirl forward and atk!",
-          "long_description": "Take the route 2 squares forward and turn around to attack enemies!",
-          "card_class": "Mega",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1655199830483,
-      "discord_url": "https://cdn.discordapp.com/attachments/972926152253530193/986204310406856724/EXE5-271-SwallowMan.zip",
-      "author_name": "K1rbYat1Na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE5-271-SwallowMan.zip",
-      "attachment_id": "986204310406856724",
-      "thread_id": "972926152253530193",
-      "thread_name": "[OFC] [EXE5] [CHIP] SwallowMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_k1rbyat1na_card_EXE6_229_TomahawkManSP": {
     "data": {
       "type": "cards",
@@ -62007,6 +61929,129 @@
       "attachment_id": "1469330011948322877",
       "thread_id": "1469070695593148512",
       "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE5_272_SwallowManSP": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE5-272-SwallowManSP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE5_272_SwallowManSP_icon.png",
+        "preview": "images\\com_OFC_card_EXE5_272_SwallowManSP_preview.png",
+        "codes": [
+          "S"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "SwalwMnSP",
+          "damage": 777,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Take rout\n2sq ahead\n& attack!",
+          "long_description": "Attack enemies by turning along a route 2 squares ahead!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770484284400,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1469742357388984455/com_OFC_card_EXE5_272_SwallowManSP.zip?ex=6988c3bc&is=6987723c&hm=49c666d148806a6db26e129c00ca19eba3702bd9ed5b5ce93a1f0101c0d9e4b7&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE5_272_SwallowManSP.zip",
+      "attachment_id": "1469742357388984455",
+      "thread_id": "1469741632093028488",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] SwallowMan (LarkMan) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE5_271_SwallowMan": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE5-271-SwallowMan",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE5_271_SwallowMan_icon.png",
+        "preview": "images\\com_OFC_card_EXE5_271_SwallowMan_preview.png",
+        "codes": [
+          "S"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "SwalwMan",
+          "damage": 140,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Take rout\n2sq ahead\n& attack!",
+          "long_description": "Attack enemies by turning along a route 2 squares ahead!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770484284400,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1469742357002846440/com_OFC_card_EXE5_271_SwallowMan.zip?ex=6988c3bc&is=6987723c&hm=bc4a6bdd5ad410c67806bfec3097e270ffab97e02e2f1aa1798627a05c742bb4&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE5_271_SwallowMan.zip",
+      "attachment_id": "1469742357002846440",
+      "thread_id": "1469741632093028488",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] SwallowMan (LarkMan) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE5_273_SwallowManDS": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE5-273-SwallowManDS",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE5_273_SwallowManDS_icon.png",
+        "preview": "images\\com_OFC_card_EXE5_273_SwallowManDS_preview.png",
+        "codes": [
+          "S"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "SwalwMnDS",
+          "damage": 777,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Take rout\n2sq ahead\n& attack!",
+          "long_description": "Attack enemies by turning along a route 2 squares ahead!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770484284400,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1469742357821001859/com_OFC_card_EXE5_273_SwallowManDS.zip?ex=6988c3bc&is=6987723c&hm=f243c255918ae41274ad6a50d156bc11b8830be4e4dda0e7d7b46b4e7fcc8826&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE5_273_SwallowManDS.zip",
+      "attachment_id": "1469742357821001859",
+      "thread_id": "1469741632093028488",
+      "thread_name": "[OFC][CHIP][EXE5/BN5] SwallowMan (LarkMan) series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

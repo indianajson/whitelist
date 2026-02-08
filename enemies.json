@@ -5140,5 +5140,35 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_discord_Xceed_bumoid": {
+    "data": {
+      "type": "enemies",
+      "id": "com.discord.Xceed.bumoid",
+      "dependencies": [],
+      "subpackages": [
+        "com.discord.Xceed.enemy.bumoid",
+        "com.discord.Xceed.enemy.bumorb",
+        "com.discord.Xceed.enemy.bumosh"
+      ],
+      "name": "Bumoid",
+      "detail": {
+        "preview": "images\\com_discord_Xceed_bumoid_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Devils in the Darkest Network"
+    },
+    "attachment_data": {
+      "timestamp": 1770509994963,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469850190427983957/1469850194974605444/bumoid_xceed.zip?ex=6989282a&is=6987d6aa&hm=7a967e2633caf324034ce1bd25e73d2a9bf8dd2cc0a9dadd063b9f2a7dac67da&",
+      "author_name": "megamanxceed",
+      "author_id": "823032761484967956",
+      "original_filename": "bumoid_xceed.zip",
+      "attachment_id": "1469850194974605444",
+      "thread_id": "1469850190427983957",
+      "thread_name": "[CUS][MOB] Bumoid Virus Series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }

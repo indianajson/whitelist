@@ -12688,5 +12688,25 @@
     "timestamp": 1770385973674,
     "md5": "cdd30ec32b2670000653dfbffd7fd0d7",
     "id": "com.OFC.card.EXE5-262-ShadeMan"
+  },
+  "1469742357388984455": {
+    "timestamp": 1770484284400,
+    "md5": "465ec138423014bd66230e7ae2cd0e3a",
+    "id": "com.OFC.card.EXE5-272-SwallowManSP"
+  },
+  "1469742357002846440": {
+    "timestamp": 1770484284400,
+    "md5": "2e7ad5235a2cd3cdf8a8d4c004a59bd7",
+    "id": "com.OFC.card.EXE5-271-SwallowMan"
+  },
+  "1469742357821001859": {
+    "timestamp": 1770484284400,
+    "md5": "b5c052d379b9fc59c5b6525bba1223c8",
+    "id": "com.OFC.card.EXE5-273-SwallowManDS"
+  },
+  "1469850194974605444": {
+    "timestamp": 1770509994963,
+    "md5": "68d18adef2722815cbfebafc26d71a1b",
+    "id": "com.discord.Xceed.bumoid"
   }
 }

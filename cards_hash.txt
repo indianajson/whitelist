@@ -266,8 +266,6 @@ ce4e760e6f3ccfccc3189bb5171d44bf com.louise.k1rbyat1na.card.EXE6-274-ColonelEX
 3b1a0264df6f3a20a2b3cd46916ab97e com.k1rbyat1na.card.EXE5-243-ColonelDS
 de3a462efab944fb844db8175e0bda02 com.k1rbyat1na.card.EXE5-242-ColonelSP
 152406bcdcb27b37e4b07a9446b25b76 com.k1rbyat1na.card.EXE5-241-Colonel
-69d20f7efcb4144ab663503e72101741 com.k1rbyat1na.card.EXE5-272-SwallowManSP
-663c9d7365da194937e05b4214390c1b com.k1rbyat1na.card.EXE5-271-SwallowMan
 b307270342e407c9cce8fb0d29b79561 com.k1rbyat1na.card.EXE6-229-TomahawkManSP
 7fe782f878c7bc78431776a1a0fb6af6 com.k1rbyat1na.card.EXE6-228-TomahawkManEX
 6eeea7685856b83859d7e5816c102d84 com.k1rbyat1na.card.EXE6-227-TomahawkMan
@@ -1505,3 +1503,6 @@ b2a3e301f26f165febef12750e6bb4df com.OFC.card.EXE4-249-BurnerManSP
 20fc9004d058cbecef85a733d5f1984e com.OFC.card.EXE5-264-ShadeManDS
 89325f6bec6d8fa27790c19cb3327708 com.OFC.card.EXE5-263-ShadeManSP
 cdd30ec32b2670000653dfbffd7fd0d7 com.OFC.card.EXE5-262-ShadeMan
+465ec138423014bd66230e7ae2cd0e3a com.OFC.card.EXE5-272-SwallowManSP
+2e7ad5235a2cd3cdf8a8d4c004a59bd7 com.OFC.card.EXE5-271-SwallowMan
+b5c052d379b9fc59c5b6525bba1223c8 com.OFC.card.EXE5-273-SwallowManDS
