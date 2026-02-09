@@ -166,10 +166,10 @@ ae33754a6936a38299900be01d704f49 com.OFC.mob.EXE5-037-Colonel1
 6b2b782c85893a70a71e7600df0192e7 com.OFC.mob.EXE6-048-Gregar1
 2266650a4ba10b65d06d5e156e95e65b com.OFC.mob.EXE6-048-Gregar0
 9177399d74884f35c94aee5a96b4cc47 com.OFC.mob.EXE6-048-Gregar2
-8ca4e2a6fbf903870b40fff62d2e421c com.OFC.mob.EXE6-051-GregarBeast0
+5a14be7b0820ca4d939b27bc34aa466b com.OFC.mob.EXE6-051-GregarBeast0
 cf1dd777f008134d56c85095f52b3d21 com.OFC.mob.EXE4-038-BurnerMan4
 b8105d0007f736dc30743fe2d63f5fe4 com.OFC.mob.EXE4-038-BurnerMan3
 3475e4b219ae3d21bc9c3f8103b8f555 com.OFC.mob.EXE4-038-BurnerMan2
 925a8ca1f4642ae862ce9b0fccc50fe5 com.OFC.mob.EXE4-038-BurnerMan1
-44b5fbd5f39172b996fc1b877ca39993 com.OFC.mob.EXE4-038-BurnerMan0
+74c5bc85700da159170511ff59d37bca com.OFC.mob.EXE4-038-BurnerMan0
 68d18adef2722815cbfebafc26d71a1b com.discord.Xceed.bumoid
