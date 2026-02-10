@@ -12748,5 +12748,20 @@
     "timestamp": 1770580793945,
     "md5": "74c5bc85700da159170511ff59d37bca",
     "id": "com.OFC.mob.EXE4-038-BurnerMan0"
+  },
+  "1470528097815232655": {
+    "timestamp": 1770671619520,
+    "md5": "58f1f766f5a7fbd354e893e8e8e50556",
+    "id": "com.OFC.card.EXE6-197-Attack+30"
+  },
+  "1470528097504723097": {
+    "timestamp": 1770671619520,
+    "md5": "96d065b6fe553c004c5445233c84fdcf",
+    "id": "com.OFC.card.EXE6-196-Attack+10"
+  },
+  "1470528098310033561": {
+    "timestamp": 1770671619520,
+    "md5": "04d6c14e66a51339ff60f86e8558beaa",
+    "id": "com.OFC.card.EXE6-198-Navi+20"
   }
 }

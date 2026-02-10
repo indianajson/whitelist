@@ -16263,44 +16263,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_claris_card_AttackPlus2": {
-    "data": {
-      "type": "cards",
-      "id": "com.claris.card.AttackPlus2",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_claris_card_AttackPlus2_icon.png",
-        "preview": "images\\com_claris_card_AttackPlus2_preview.png",
-        "codes": [
-          "*"
-        ],
-        "props": {
-          "can_boost": false,
-          "shortname": "Atk+30",
-          "damage": 0,
-          "time_freeze": false,
-          "element": "Plus",
-          "description": "+30 for selected atk chip",
-          "card_class": "Standard",
-          "limit": 1
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1639505526810,
-      "discord_url": "https://cdn.discordapp.com/attachments/920358192570048512/920377629868179506/attack30.zip",
-      "author_name": "Maplewood",
-      "author_id": "191035809820835840",
-      "original_filename": "attack30.zip",
-      "attachment_id": "920377629868179506",
-      "thread_id": "920358192570048512",
-      "thread_name": "[OFC] + [CUS] [CHIP] Attack+ Series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_claris_card_AttackPlusSword": {
     "data": {
       "type": "cards",
@@ -16599,44 +16561,6 @@
       "author_id": "191035809820835840",
       "original_filename": "attackBreak.zip",
       "attachment_id": "931391415806738462",
-      "thread_id": "920358192570048512",
-      "thread_name": "[OFC] + [CUS] [CHIP] Attack+ Series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_claris_card_AttackPlus1": {
-    "data": {
-      "type": "cards",
-      "id": "com.claris.card.AttackPlus1",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_claris_card_AttackPlus1_icon.png",
-        "preview": "images\\com_claris_card_AttackPlus1_preview.png",
-        "codes": [
-          "*"
-        ],
-        "props": {
-          "can_boost": false,
-          "shortname": "Atk+10",
-          "damage": 0,
-          "time_freeze": false,
-          "element": "Plus",
-          "description": "+10 for selected atk chip",
-          "card_class": "Standard",
-          "limit": 5
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1663773528656,
-      "discord_url": "https://cdn.discordapp.com/attachments/920358192570048512/1022165006978134167/com_claris_card_AttackPlus1.zip",
-      "author_name": "Hooviey",
-      "author_id": "736271336376107068",
-      "original_filename": "com_claris_card_AttackPlus1.zip",
-      "attachment_id": "1022165006978134167",
       "thread_id": "920358192570048512",
       "thread_name": "[OFC] + [CUS] [CHIP] Attack+ Series",
       "channel_id": "865079018704994355",
@@ -62052,6 +61976,129 @@
       "attachment_id": "1469742357821001859",
       "thread_id": "1469741632093028488",
       "thread_name": "[OFC][CHIP][EXE5/BN5] SwallowMan (LarkMan) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_197_Attack_30": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-197-Attack+30",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_197_Attack_30_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_197_Attack_30_preview.png",
+        "codes": [
+          "*"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "Atk+30",
+          "damage": 0,
+          "time_freeze": false,
+          "element": "Plus",
+          "description": "+30 for\nselected\natk chip",
+          "long_description": "+30 attack power if selected after the attack chip",
+          "card_class": "Standard",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770671619520,
+      "discord_url": "https://cdn.discordapp.com/attachments/1470527221729988719/1470528097815232655/com_OFC_card_EXE6_197_Attack30.zip?ex=698b9f83&is=698a4e03&hm=f7e994ee129b43293178c56bc93ea4bd5395710566e91541aea6c1426c1ad787&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_197_Attack30.zip",
+      "attachment_id": "1470528097815232655",
+      "thread_id": "1470527221729988719",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Attack+ and Navi+ series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_196_Attack_10": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-196-Attack+10",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_196_Attack_10_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_196_Attack_10_preview.png",
+        "codes": [
+          "*"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "Atk+10",
+          "damage": 0,
+          "time_freeze": false,
+          "element": "Plus",
+          "description": "+10 for\nselected\natk chip",
+          "long_description": "+10 attack power if selected after the attack chip",
+          "card_class": "Standard",
+          "limit": 5
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770671619520,
+      "discord_url": "https://cdn.discordapp.com/attachments/1470527221729988719/1470528097504723097/com_OFC_card_EXE6_196_Attack10.zip?ex=698b9f83&is=698a4e03&hm=5a0d1c975e74b456e707c3e4d939bb18d42cde79ab80582fc34a3509c44b6dfa&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_196_Attack10.zip",
+      "attachment_id": "1470528097504723097",
+      "thread_id": "1470527221729988719",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Attack+ and Navi+ series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_198_Navi_20": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-198-Navi+20",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_198_Navi_20_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_198_Navi_20_preview.png",
+        "codes": [
+          "*"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "Navi+20",
+          "damage": 0,
+          "time_freeze": false,
+          "element": "Plus",
+          "description": "+20 for\nselected\nNaviChip",
+          "long_description": "+20 attack power if selected after the Navi chip",
+          "card_class": "Standard",
+          "limit": 3
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1770671619520,
+      "discord_url": "https://cdn.discordapp.com/attachments/1470527221729988719/1470528098310033561/com_OFC_card_EXE6_198_Navi20.zip?ex=698b9f83&is=698a4e03&hm=9fa0b50f73e6da89f7b06f00eb06c160ace60c4cb984536f4cd7c6775d40e529&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_198_Navi20.zip",
+      "attachment_id": "1470528098310033561",
+      "thread_id": "1470527221729988719",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Attack+ and Navi+ series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

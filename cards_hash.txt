@@ -405,7 +405,6 @@ c585309f952e6a94a2b0f256917963a3 com.mars.card.Thunder2_BN4
 c1be2392635a34a6f2546ae8df184171 entropy.boomer1
 3ccc6dfe0c228485d6e740c77dc09f7c entropy.boomer3
 8f6601e6e91a2ef1be62c6e1ac8fee9c com.Dawn.CardBN1.S105
-f0d99806b3962df8e2bb8959c0dd3732 com.claris.card.AttackPlus2
 443f42e9dd96426a41f47dca4fc097f8 com.claris.card.AttackPlusSword
 b4c208adde38979a5bdf4da8d77f22df com.claris.card.AttackPlusAqua
 27b2c6504e7aa87252f266e443e30664 com.claris.card.AttackPlusElec
@@ -414,7 +413,6 @@ b4c208adde38979a5bdf4da8d77f22df com.claris.card.AttackPlusAqua
 acd4c8b40651cb199b1b930293245939 com.claris.card.AttackPlusWind
 a6f9722d7a62c6caa6962dcfae960c16 com.claris.card.AttackPlusCursor
 84cb90b821f9469679d7e45bf7986fe6 com.claris.card.AttackPlusBreak
-cc0785c1fe6c608b3a118068a265fdcb com.claris.card.AttackPlus1
 154c50181b736c3647412793a2dec23f hoov.card.spice3
 6898c42f042f7bc4673f6af58efb788b hoov.card.spice2
 f2e2d40e0e5c99689feb1a628c2df215 hoov.card.spice1
@@ -1506,3 +1504,6 @@ cdd30ec32b2670000653dfbffd7fd0d7 com.OFC.card.EXE5-262-ShadeMan
 465ec138423014bd66230e7ae2cd0e3a com.OFC.card.EXE5-272-SwallowManSP
 2e7ad5235a2cd3cdf8a8d4c004a59bd7 com.OFC.card.EXE5-271-SwallowMan
 b5c052d379b9fc59c5b6525bba1223c8 com.OFC.card.EXE5-273-SwallowManDS
+58f1f766f5a7fbd354e893e8e8e50556 com.OFC.card.EXE6-197-Attack+30
+96d065b6fe553c004c5445233c84fdcf com.OFC.card.EXE6-196-Attack+10
+04d6c14e66a51339ff60f86e8558beaa com.OFC.card.EXE6-198-Navi+20
