@@ -34,7 +34,7 @@ c0514a0473948ad2483fa4caac17b6f9 seabit.waveman.player.soup
 907bc44e54d75aaf0d3ef764ef1f2ccb com.D3str0y3d255.Woodman.Player
 12a532a1a6abb20aeba4465ac4dc5c12 com.D3stroy3d.player.Fireman
 dd45676cc2d5c85f819839c4aaf8ab34 com.D3str0y3d255.Toadman.Player
-bc428fddce0a21876c4ce0b4ffa6374a com.D3stroy3d.player.Plantman
+782e663b5bc09a9f84777e88702a14d4 com.D3stroy3d.player.Plantman
 718b57132ec9cfc69d2c1454def9f876 com.D3stroy3d.player.Topman
 76a782ae032fa90236e6b85f6e59b0a1 com.D3str0y3d.player.Numberman
 f8a98221d9a789817adee935fd71d091 com.Darkloid.Shademan
@@ -150,7 +150,7 @@ d6b0603f0bcf4eaa84df02cb2fc41072 Professor.Ztar.Player.MrProgOrange
 4bd722a047cde31b66344daf1b37af61 com.darkware.navi.rogueSF
 d2a5c3e8d627b98f3fed409b29193005 com.navi.JaydeSwift.TomahawkMan
 6230ab56ba8f62b4ebc0709a95bdf212 OctoChris.Player.MetalSonic
-3219039d470d714df1b4176b51b134c7 com.D3str0y3d255ANDDarkwarePX.Toadman.Player
+081699925155e51393a35b370731ee16 com.D3str0y3d255ANDDarkwarePX.Toadman.Player
 bc0d03b5fda6fb826c09accdbb4b4db7 com.D3stroy3dANDDarkwarePX.player.Fireman
 6f71e6a8a787d22f6baa58c05487ca3f com.HeadDM.BassGS.Playable
 904536006945ca567dfcae1717f5e728 com.darkware.navi.heatman
@@ -172,7 +172,7 @@ a493cdee5b7085ea09d2a2b7c34a32cb com.D3stroy3d.player.Dustman
 2f776490eb4f92b8d5683a29d825153a com.D3stroy3d&Vide&DarkWarePX.player.Beastman
 d54fb2733aa00b547b569150e898f53a com.darkware.navi.nickname.ultimatedarkmegaman
 7d878fbc3026e8456003bdeb61a9a441 com.darkware.navi.nickname.ultimatemegaman
-865a1d0fce65cea1f60254b6bd4385d3 Ring.DarkWarePx&Drawcie&Bluberry
+7d0b646f3bb2d4e38ff134ad04ff895b Ring.DarkWarePx&Drawcie&Bluberry
 c807db1eb0eb4801dfdaee6567babf99 com.seabitty.AcidAce
 d30eb679be1c059719cbac8ad698438f com.alrysc.player.YatsuhashiEXE
 0f28da0e423e4f38c6d65882c38b1334 com.alrysc.player.HecatiaEXE
@@ -299,7 +299,7 @@ b0ca73cbd191faf9361028483389b1ad com.d3str0y3d255.navi.darkmanpvp
 f3ec06a0c7aa0077088a6e7540d2dbab Gengar.Guy
 a790dda1e9ed704b3d0dc75656bd45d0 com.d3str0y3d255.navi.planetmanpvp
 b8c9b63079a1d2339a489e284ea63aa3 com.D3stroy3d.player.Hatmanpvp
-33e3804a900e0ac04fea900019e750ea com.D3stroy3d&darkware.player.Hatman
+218070a7b935091e39f51f9c1adb9fca com.D3stroy3d&darkware.player.Hatman
 863ff1aa0bc0952b27a4305196ffec2c com.d3str0y3d255&caseofthematts.navi.mistmanpvp
 fae572fe7816579adb138532b58ec089 com.d3str0y3d255&guava&darkware.navi.Elementalman
 87e3a94b2509771454ddb5caea95b76c com.guava&drawcie&darkware.navi.diveman
