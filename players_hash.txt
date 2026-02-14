@@ -127,8 +127,8 @@ e5064b950de194bbd8a210bd893e8c72 com.RaitoADV.player.GreenNormalNavi
 61cb311e6c8b4975c47fafbb06f42c9a CH_004_ANGEL
 3a96018450a994dec36b742e0c64c7e6 com.Zeii.PrestoPVP
 714f3880f080a210eda6f2a2d1829e45 com.seabitty.Breeze
-89b614d20aaef234588a4f7fbd707241 MegamanBN6_falzar
-91edcf36ef92aeac998710fd47440242 MegamanBN6_gregar
+b281b59f22efaa7db3bec100d90316de MegamanBN6_falzar
+f4fe126bd2d206beacee53a9f89e91ea MegamanBN6_gregar
 5ee7200f677dbefb7b8f06cf2e007ffa Mighty Morphin Power Rangers Red Ranger
 8d401b9d20c5038c4cf12e373ca30b62 Mighty Morphin Power Rangers Green Ranger
 c422fdf70646d043dfaf4ccf2df0b09f Mighty Morphin Power Rangers Blue Ranger
@@ -170,8 +170,8 @@ a7e6ceef475f68d2c3a76e112a56dd91 com.D3str0y3d255&DarkWarePX.Woodman.Player
 5c1f59591f9c2f6aac0d7d0ad75ec756 Nintende_Lunarwmn.exe
 a493cdee5b7085ea09d2a2b7c34a32cb com.D3stroy3d.player.Dustman
 2f776490eb4f92b8d5683a29d825153a com.D3stroy3d&Vide&DarkWarePX.player.Beastman
-d54fb2733aa00b547b569150e898f53a com.darkware.navi.nickname.ultimatedarkmegaman
-7d878fbc3026e8456003bdeb61a9a441 com.darkware.navi.nickname.ultimatemegaman
+8a8883b5fcd90a2ce7224e7005febeca com.darkware.navi.nickname.ultimatedarkmegaman
+e8b430ebe17973e5c61aafbe11c5d7d6 com.darkware.navi.nickname.ultimatemegaman
 7d0b646f3bb2d4e38ff134ad04ff895b Ring.DarkWarePx&Drawcie&Bluberry
 c807db1eb0eb4801dfdaee6567babf99 com.seabitty.AcidAce
 d30eb679be1c059719cbac8ad698438f com.alrysc.player.YatsuhashiEXE
@@ -197,8 +197,8 @@ bdf58cca0b0bafff5588d96f9110e5c2 com.OFC.player.EXEPoN-003-Rockman-Elec
 5a0c2cb93c1968062e30747a65d685f2 com.HeadDM.Errorman
 ce7bf5978b5d57dcd63811fba71c44c4 com.darkware.player.GyroMan
 4d273a6f145610435b06bfd5d407ae87 com.dagran.player.BN3FNavi
-7aac8d28b64581ded8a86b0ab6587019 com.darkware.navi.sabata
-a8f1f6da3e90487cc1e49fc506a3cecd com.darkware.navi.django
+59f3f3957651c37fd0997fc027d9a0d0 com.darkware.navi.sabata
+4944073ca687b378ba992904b05c0f12 com.darkware.navi.django
 ab4f46e1f7db0952ca777092991326f9 com.Loui.player.Elecman
 330eec9aaae8ca679e9d9c8d69ede94e com.darkware.navi.TrainerRed
 fbf4fddee5f98737527849a7043c2821 com.player.D3str0y3d255&DarkWarePX.Sharkman
@@ -311,8 +311,8 @@ b54e5e03ce89621656258505f4bb0d4c sniper joe.exePVP
 a626bb94cf9b62b5efeabb9020fba9c4 com.beaned.navi.megamanbn6_beast
 60e449877cdbf252bd0cb1bbed8ad998 com.guava&drawcie.navi.JammingManPVP
 fa8b637dfa34ccca648e4fe013aaeed1 sniper joe.exe
-d705c9815fb1f27b5b39ed65cb252dc7 com.darkware.navi.djangopvp
-23c87aad099bcfdca0e518c082888343 com.darkware.navi.sabatapvp
+0173efa149f0c471b9509c725c7c740d com.darkware.navi.djangopvp
+c8f05879cdf17a1bfa38c23807c66a22 com.darkware.navi.sabatapvp
 6f14b70adf0fd237ba2d5b0949548506 com.darkware.navi.cloudman
 df6742e1fa91dec6b401f6b205cff05a com.discord.totally_a_bot.player.Tab
 cc20399ebad08fcb3819332d42b0948e com.darkware.navi.gridman
