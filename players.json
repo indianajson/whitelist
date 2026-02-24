@@ -63,12 +63,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1759862436496,
-      "discord_url": "https://cdn.discordapp.com/attachments/925079178351628339/1425191097134743614/megaman_D3str0y3d255.zip?ex=68e6b024&is=68e55ea4&hm=3512a84c2b363973a68ca3bd791228961d273c798befefd1269e484794e7fc97&",
+      "timestamp": 1771866330954,
+      "discord_url": "https://cdn.discordapp.com/attachments/925079178351628339/1475539080086425632/megaman_D3str0y3d255.zip?ex=699dda5a&is=699c88da&hm=f1dbd1556ef517a33f746368f37459114091e12e03c4f631a81ad04e3cb492c2&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "megaman_D3str0y3d255.zip",
-      "attachment_id": "1425191097134743614",
+      "attachment_id": "1475539080086425632",
       "thread_id": "925079178351628339",
       "thread_name": "[Player]megaman wip",
       "channel_id": "865079018704994355",
@@ -2080,20 +2080,40 @@
       "id": "com.beaned.navi.megamanbn6",
       "dependencies": [],
       "subpackages": [],
-      "name": "",
+      "name": "MegaMan",
       "detail": {
         "icon": "images\\com_beaned_navi_megamanbn6_icon.png",
-        "preview": "images\\com_beaned_navi_megamanbn6_preview.png"
+        "preview": "images\\com_beaned_navi_megamanbn6_preview.png",
+        "animation": "./megaman.animation",
+        "texture": "./navi_megaman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
       },
-      "description": "MegaMan from BN6 with no crosses"
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "Let's go Lan!!!",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 4,
+        "y": -20
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
     },
     "attachment_data": {
-      "timestamp": 1662841931192,
-      "discord_url": "https://cdn.discordapp.com/attachments/985562375509925918/1018257604134305792/megamanbn6.zip",
-      "author_name": "Beaned",
+      "timestamp": 1771689538387,
+      "discord_url": "https://cdn.discordapp.com/attachments/985562375509925918/1474797558009299046/Megaman_PVP.zip?ex=699dcac2&is=699c7942&hm=813159ba3313b56e3d67d024f1dc821104153f750920b05b1c991cf0aeef28e2&",
+      "author_name": "beaned06",
       "author_id": "574511490745237517",
-      "original_filename": "megamanbn6.zip",
-      "attachment_id": "1018257604134305792",
+      "original_filename": "Megaman_PVP.zip",
+      "attachment_id": "1474797558009299046",
       "thread_id": "985562375509925918",
       "thread_name": "[OFC] [NAVI] [PVP] BN6 MegaMan",
       "channel_id": "865079018704994355",
@@ -10187,12 +10207,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1766188080513,
-      "discord_url": "https://cdn.discordapp.com/attachments/1377401767947669616/1451722771435487313/com_discord_Kimonia_Rules_1667_player_Sil.zip?ex=694735b0&is=6945e430&hm=6895cb36beb78da2a2ee2353bf53a915c5c1bbe1a1d03d84d620c8b7f30a9b0a&",
+      "timestamp": 1771830850027,
+      "discord_url": "https://cdn.discordapp.com/attachments/1377401767947669616/1475390262548107305/com_discord_Kimonia_Rules_1667_player_Sil.zip?ex=699df882&is=699ca702&hm=c06082f6706daba2af6e0e26b0a43596b3f57f46ed5c409514fca1ab95990111&",
       "author_name": "kimonia6",
       "author_id": "775524489215606825",
       "original_filename": "com_discord_Kimonia_Rules_1667_player_Sil.zip",
-      "attachment_id": "1451722771435487313",
+      "attachment_id": "1475390262548107305",
       "thread_id": "1377401767947669616",
       "thread_name": "[CUS][NAVI] Sil",
       "channel_id": "865079018704994355",
@@ -11392,7 +11412,7 @@
       "detail": {
         "icon": "images\\com_discord_Kimonia_Rules_1667_player_Ampere_icon.png",
         "preview": "images\\com_discord_Kimonia_Rules_1667_player_Ampere_preview.png",
-        "animation": "./battle.animation",
+        "animation": "./new_battle.anim",
         "texture": "./battle.png",
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
@@ -11406,9 +11426,9 @@
       "height": 65,
       "charge_shot_color": {
         "r": 57,
-        "g": 198,
-        "b": 243,
-        "a": 255
+        "g": 120,
+        "b": 176,
+        "a": 224
       },
       "charge_position": {
         "x": 0,
@@ -11416,12 +11436,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1751062627249,
-      "discord_url": "https://cdn.discordapp.com/attachments/1388281856213913800/1388282022560137216/com.discord.Kimonia-Rules1667.player.Ampere.zip?ex=686069e3&is=685f1863&hm=43d5d765350c0149c9b5cd5219e6685abcfda7eec4d9d7c7b803135df11fe326&",
+      "timestamp": 1771825022106,
+      "discord_url": "https://cdn.discordapp.com/attachments/1388281856213913800/1475365818274549894/Ampere.zip?ex=699de1be&is=699c903e&hm=48a43e9b939b49f5788e75bbeefafd4dbdcc66bcad0b1249485ac7c33e6a3ef5&",
       "author_name": "kimonia6",
       "author_id": "775524489215606825",
-      "original_filename": "com.discord.Kimonia-Rules1667.player.Ampere.zip",
-      "attachment_id": "1388282022560137216",
+      "original_filename": "Ampere.zip",
+      "attachment_id": "1475365818274549894",
       "thread_id": "1388281856213913800",
       "thread_name": "[CUS][NAVI] Ampere",
       "channel_id": "865079018704994355",
@@ -11926,12 +11946,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770929196044,
-      "discord_url": "https://cdn.discordapp.com/attachments/1414676383224823991/1471608451695378442/Hatman.zip?ex=698f8dac&is=698e3c2c&hm=ab227d49b2d5118854b6035cdca1d53ba5ebf9692821cf0d8430e0bcc3aa4a52&",
+      "timestamp": 1771866307078,
+      "discord_url": "https://cdn.discordapp.com/attachments/1414676383224823991/1475538979893022771/Hatman.zip?ex=699dda42&is=699c88c2&hm=6332c33c2c4413904f35aa82c8613641ecb5a4eab81d813b27b109c37d3808b9&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Hatman.zip",
-      "attachment_id": "1471608451695378442",
+      "attachment_id": "1475538979893022771",
       "thread_id": "1414676383224823991",
       "thread_name": "[PLAYER][NAVI][4.5-STYLED][PoN] Hatman",
       "channel_id": "865079018704994355",
@@ -23226,6 +23246,98 @@
       "attachment_id": "1468368693024129265",
       "thread_id": "1468368685444890636",
       "thread_name": "[OFC][NAVI][PVP] Gridman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_caseofthematts_navi_coldmanpvp": {
+    "data": {
+      "type": "players",
+      "id": "com.caseofthematts.navi.coldmanpvp",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Coldman",
+      "detail": {
+        "icon": "images\\com_caseofthematts_navi_coldmanpvp_icon.png",
+        "preview": "images\\com_caseofthematts_navi_coldmanpvp_preview.png",
+        "animation": "./coldman.animation",
+        "texture": "./navi_coldman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "If is to hot just cause snowstorm",
+      "health": 1000,
+      "element": "Aqua",
+      "height": 48,
+      "charge_position": {
+        "x": 1,
+        "y": -17
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771540437086,
+      "discord_url": "https://cdn.discordapp.com/attachments/1474172176742748328/1474172182170042449/Coldman.zip?ex=699e2755&is=699cd5d5&hm=1e55515a7bd3660d9dc139397a323a05a003ebcb4c8002274f8131c129eaa816&",
+      "author_name": "caseofthematts",
+      "author_id": "709175630612398131",
+      "original_filename": "Coldman.zip",
+      "attachment_id": "1474172182170042449",
+      "thread_id": "1474172176742748328",
+      "thread_name": "[NAVI] [PVP] [MMBN4] [OFC] Coldman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_drawcie_navi_darkmegaPVP": {
+    "data": {
+      "type": "players",
+      "id": "com.drawcie.navi.darkmegaPVP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Dark MegaMan",
+      "detail": {
+        "icon": "images\\com_drawcie_navi_darkmegaPVP_icon.png",
+        "preview": "images\\com_drawcie_navi_darkmegaPVP_preview.png",
+        "animation": "./megaman.animation",
+        "texture": "./navi_megaman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "I am the dark side of the hero.",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 4,
+        "y": -20
+      },
+      "charge_shot_color": {
+        "r": 135,
+        "g": 32,
+        "b": 111,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771611628314,
+      "discord_url": "https://cdn.discordapp.com/attachments/1474470321942692010/1474470779918749806/Dark_MegaPVP.zip?ex=699debec&is=699c9a6c&hm=c38674ca25d72bc933108c72ebb183cb31de4eca8cee052c79920e0c0281418b&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Dark_MegaPVP.zip",
+      "attachment_id": "1474470779918749806",
+      "thread_id": "1474470321942692010",
+      "thread_name": "[NAVI] [PVP] [OFC] Dark Megaman",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

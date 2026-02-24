@@ -11653,5 +11653,64 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_shadishp_block_duov1_blue": {
+    "data": {
+      "type": "blocks",
+      "id": "com.shadishp.block.duov1.blue",
+      "dependencies": [
+        "com.yourserver.block.CoopBoss.enemy.Duo",
+        "com.OFC.char.pvp.EXE4-046-Duo0"
+      ],
+      "subpackages": [
+        "com.OFC.char.pvp.EXE4-046-Duo0",
+        "com.yourserver.block.CoopBoss.enemy.Duo"
+      ],
+      "name": "DuoEventV1",
+      "detail": {
+        "color": "Blue",
+        "is_program": true,
+        "shape": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "description": "Fight Duo in PVP"
+    },
+    "attachment_data": {
+      "timestamp": 1771732386590,
+      "discord_url": "https://cdn.discordapp.com/attachments/1474977136669622343/1474977276843131063/DuoEventSP.zip?ex=699dc962&is=699c77e2&hm=fa052f8d5237d6a2b25e3cc1f658b83d0eac3cd595e9b1ce9f5195e180f3c6a2&",
+      "author_name": "shadisnx255",
+      "author_id": "947580912172953690",
+      "original_filename": "DuoEventSP.zip",
+      "attachment_id": "1474977276843131063",
+      "thread_id": "1474977136669622343",
+      "thread_name": "[CUS][NCP]Co-Op Duo Fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }

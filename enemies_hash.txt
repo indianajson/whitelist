@@ -173,3 +173,8 @@ b8105d0007f736dc30743fe2d63f5fe4 com.OFC.mob.EXE4-038-BurnerMan3
 925a8ca1f4642ae862ce9b0fccc50fe5 com.OFC.mob.EXE4-038-BurnerMan1
 74c5bc85700da159170511ff59d37bca com.OFC.mob.EXE4-038-BurnerMan0
 68d18adef2722815cbfebafc26d71a1b com.discord.Xceed.bumoid
+52305504f9ad170799671c758d6f5d59 com.OFC.mob.EXE4-046-Duo4
+122f6ba647aea1e50363eef7474e16fc com.OFC.mob.EXE4-046-Duo3
+581a3cc48105052c121902b26045eeb8 com.OFC.mob.EXE4-046-Duo2
+cc47a0cd7a76879ecce59c8445fba7a3 com.OFC.mob.EXE4-046-Duo1
+d8d9c3ad5e1d3c3795aeb0527ef6f253 com.OFC.mob.EXE4-046-Duo0

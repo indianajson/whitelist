@@ -1,5 +1,5 @@
 ab3ee51caafcfb0bf7f25b4a3e8aad0b com.example.player.Eraseman
-90d3acc4b7929d4176dcd650297cb9f1 com.navi.megaman
+a722f206bf61652731bb360910a635a6 com.navi.megaman
 cacd7c4aeeae66c01ce2e1647ba23c0b com.claris.navi.lan
 3876e2383e5e31450c1a4de0f62356b7 com.claris.rescued.Roll
 5b6ac34a0b0a81940ad56d423d0e82fe com.dawn.rescued.player.Iceman
@@ -75,7 +75,7 @@ d794833baccdacb48c79e0e22b29b898 supersmashbros_NormalNavi_B_made_by_Pyroja_and_
 2588cd287d4202cb62907e20def5d70f BlueNavi_made_by_IPC_and_Pyroja_and_Jamesking
 0cbbf380bdbf1e62666d87cec562b94d Cyanman
 3acc4310383cc9c6af90610b766490b7 Red HeelNavi
-1569902f7a16db89b35d90651f32c93b com.beaned.navi.megamanbn6
+419e051f2279b027f4f9bdaa2148a859 com.beaned.navi.megamanbn6
 19caaa3dba418fb56664d2a5bb86df8b com.beaned.navi.BN1-3
 95b7ea42f24250c8ea61657670055436 com.beaned.navi.megamanbn5
 fdd1c25bd520813e8cbf4712787caa22 com.alrysc.player.KogasaEXE
@@ -277,7 +277,7 @@ a96672cdcb8489489e3e5a2ec2550e12 com.d3str0y3d255&guava.navi.Elementalmanpvp
 71ffe508c8e129ca1ab11e52b0fc8698 com.discord.AngelCWarrior.navi.omegaxis
 3431319d8bac6004fa906e674f626b9d com.dagran.player.GhostHeelNavi
 0dd65732ab5ba37f533d39df2af67523 com.beaned.player.crossfusion
-35dadd823e7ce98becb85ca93b151499 com.discord.Kimonia-Rules#1667.player.Sil
+61150798a91e9cfa1b22613c23f5293c com.discord.Kimonia-Rules#1667.player.Sil
 ca26bb3d74c8287d660da1d5fd68b9d0 com.guava&drawcie.navi.divemanpvp
 c5d5ecded9af011a2d5f2077ab759f77 com.guava&darkwarepx.navi.countpvp
 e49ed87791dfd17e937bf4ec211f626f com.dawn.rescued.reworked.player.Iceman
@@ -288,7 +288,7 @@ d49e4876e900a1e559b44cb984a623c5 com.HeadDM.Yoona.TronBone
 b6b21d987113ee99d466b19ee8491416 com.guava&darkware.navi.clockman
 f8272fdc7a8a54274e8634c5c4c709a7 com.shadis.navi.Luigi
 3bca5ee1471eb1d55721d32df8b4965d com.discord.KorokoMystia&darkware.player.VideoManpvp
-174d0c795ce99dbe3c19c27efaf7f717 com.discord.Kimonia-Rules#1667.player.Ampere
+da42e2cd6f0dbf28d989269a2aed91ca com.discord.Kimonia-Rules#1667.player.Ampere
 55bfd6db6b1932ca6fbb1dda21167130 com.discord.Xceed.player.Voltinel
 27d8ab139949a8d3f665505a4c9f9aeb com.tressa&darkware&d3str0y3d255.navi.cosmomanpvp
 eb215bd6df537886033f5101ab8d041d com.discord.KorokoMystia&darkware.player.VideoMan
@@ -299,7 +299,7 @@ b0ca73cbd191faf9361028483389b1ad com.d3str0y3d255.navi.darkmanpvp
 f3ec06a0c7aa0077088a6e7540d2dbab Gengar.Guy
 a790dda1e9ed704b3d0dc75656bd45d0 com.d3str0y3d255.navi.planetmanpvp
 b8c9b63079a1d2339a489e284ea63aa3 com.D3stroy3d.player.Hatmanpvp
-218070a7b935091e39f51f9c1adb9fca com.D3stroy3d&darkware.player.Hatman
+8a206e0517901766a38703a184bfed98 com.D3stroy3d&darkware.player.Hatman
 863ff1aa0bc0952b27a4305196ffec2c com.d3str0y3d255&caseofthematts.navi.mistmanpvp
 fae572fe7816579adb138532b58ec089 com.d3str0y3d255&guava&darkware.navi.Elementalman
 87e3a94b2509771454ddb5caea95b76c com.guava&drawcie&darkware.navi.diveman
@@ -316,3 +316,5 @@ c8f05879cdf17a1bfa38c23807c66a22 com.darkware.navi.sabatapvp
 6f14b70adf0fd237ba2d5b0949548506 com.darkware.navi.cloudman
 df6742e1fa91dec6b401f6b205cff05a com.discord.totally_a_bot.player.Tab
 cc20399ebad08fcb3819332d42b0948e com.darkware.navi.gridman
+4cfa22e91a0ee87ca2550a7d02ef7871 com.caseofthematts.navi.coldmanpvp
+f0204ef3d0c1ab0437ac4da8c4754d39 com.drawcie.navi.darkmegaPVP

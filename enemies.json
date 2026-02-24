@@ -5170,5 +5170,157 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_OFC_mob_EXE4_046_Duo4": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-046-Duo4",
+      "dependencies": [
+        "com.OFC.char.EXE4-046-Duo0"
+      ],
+      "subpackages": [],
+      "name": "Duo SP (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_046_Duo4_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nDuo SP\nfrom Rockman EXE4",
+      "speed": 4,
+      "attack": 400,
+      "health": 3500
+    },
+    "attachment_data": {
+      "timestamp": 1771189025894,
+      "discord_url": "https://cdn.discordapp.com/attachments/1472698138895716374/1472698258760667168/EXE4-046-Duo4.zip?ex=699e10a2&is=699cbf22&hm=febde0895a4278dea828d976163fff5f013fc4c7e5a30de562de7f6ebcd4be11&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-046-Duo4.zip",
+      "attachment_id": "1472698258760667168",
+      "thread_id": "1472698138895716374",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Duo boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_046_Duo3": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-046-Duo3",
+      "dependencies": [
+        "com.OFC.char.EXE4-046-Duo0"
+      ],
+      "subpackages": [],
+      "name": "Duo V3 (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_046_Duo3_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nDuo V3\nfrom Rockman EXE4",
+      "speed": 3,
+      "attack": 300,
+      "health": 3000
+    },
+    "attachment_data": {
+      "timestamp": 1771189025894,
+      "discord_url": "https://cdn.discordapp.com/attachments/1472698138895716374/1472698258416468222/EXE4-046-Duo3.zip?ex=699e10a2&is=699cbf22&hm=3f08d7fb2eb4daeb327b8ba84f575846c66dc3e1037753eb46c94c1f1bb63770&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-046-Duo3.zip",
+      "attachment_id": "1472698258416468222",
+      "thread_id": "1472698138895716374",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Duo boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_046_Duo2": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-046-Duo2",
+      "dependencies": [
+        "com.OFC.char.EXE4-046-Duo0"
+      ],
+      "subpackages": [],
+      "name": "Duo V2 (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_046_Duo2_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nDuo V2\nfrom Rockman EXE4",
+      "speed": 2,
+      "attack": 200,
+      "health": 2500
+    },
+    "attachment_data": {
+      "timestamp": 1771189025894,
+      "discord_url": "https://cdn.discordapp.com/attachments/1472698138895716374/1472698258022334607/EXE4-046-Duo2.zip?ex=699e10a2&is=699cbf22&hm=61977d9b0def5b9d6f59999896c08ff070a8dd58ec7091a1033b63201fd059d4&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-046-Duo2.zip",
+      "attachment_id": "1472698258022334607",
+      "thread_id": "1472698138895716374",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Duo boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_046_Duo1": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-046-Duo1",
+      "dependencies": [
+        "com.OFC.char.EXE4-046-Duo0"
+      ],
+      "subpackages": [],
+      "name": "Duo (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_046_Duo1_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nDuo\nfrom Rockman EXE4",
+      "speed": 1,
+      "attack": 100,
+      "health": 2000
+    },
+    "attachment_data": {
+      "timestamp": 1771189025894,
+      "discord_url": "https://cdn.discordapp.com/attachments/1472698138895716374/1472698257535664274/EXE4-046-Duo1.zip?ex=699e10a2&is=699cbf22&hm=5e5ac51f67f6ed4eaeef08f553cab4915e714fefc95e5313a8093b3a06941e8d&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-046-Duo1.zip",
+      "attachment_id": "1472698257535664274",
+      "thread_id": "1472698138895716374",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Duo boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_046_Duo0": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-046-Duo0",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE4-046-Duo0"
+      ],
+      "name": "Duo (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_046_Duo0_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "MAIN MOB PACKAGE"
+    },
+    "attachment_data": {
+      "timestamp": 1771189025894,
+      "discord_url": "https://cdn.discordapp.com/attachments/1472698138895716374/1472698257162502387/EXE4-046-Duo0.zip?ex=699e10a1&is=699cbf21&hm=e902f2a8e2e7ce36431a463a85dff6677137371f839effd5c6c42c47554fbeb1&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "EXE4-046-Duo0.zip",
+      "attachment_id": "1472698257162502387",
+      "thread_id": "1472698138895716374",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Duo boss fight",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }

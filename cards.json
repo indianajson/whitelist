@@ -56728,12 +56728,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1752677555515,
-      "discord_url": "https://cdn.discordapp.com/attachments/1395054963628966048/1395055521912061993/EXE5-025-SabotenBall2.zip?ex=68790e33&is=6877bcb3&hm=a11a4718d71e16e84a3aa46aec033c6aea26ccb71aa88355c21d3234b41d2bb5&",
+      "timestamp": 1771432345046,
+      "discord_url": "https://cdn.discordapp.com/attachments/1395054963628966048/1473718810421887079/com_OFC_card_EXE5_025_SabotenBall2.zip?ex=699dd298&is=699c8118&hm=8cb78044b79080bfbbfb053cac81e79597c0503705c229a6edb8e78fd7e7b8db&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
-      "original_filename": "EXE5-025-SabotenBall2.zip",
-      "attachment_id": "1395055521912061993",
+      "original_filename": "com_OFC_card_EXE5_025_SabotenBall2.zip",
+      "attachment_id": "1473718810421887079",
       "thread_id": "1395054963628966048",
       "thread_name": "[OFC][CHIP][EXE5/BN5] Saboten Ball/Cactus Ball",
       "channel_id": "865079018704994355",
@@ -56771,12 +56771,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1752677555515,
-      "discord_url": "https://cdn.discordapp.com/attachments/1395054963628966048/1395055521509150850/EXE5-024-SabotenBall1.zip?ex=68790e33&is=6877bcb3&hm=a3ee1402ddf7b51d1c10668b285ccddb9a1f3a4c631c419642a9a2615d20c3ee&",
+      "timestamp": 1771432345046,
+      "discord_url": "https://cdn.discordapp.com/attachments/1395054963628966048/1473718809918443644/com_OFC_card_EXE5_024_SabotenBall1.zip?ex=699dd298&is=699c8118&hm=f442cd643ac9afa2e94499e818d713198748e46006e51551032e97c9a9c31940&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
-      "original_filename": "EXE5-024-SabotenBall1.zip",
-      "attachment_id": "1395055521509150850",
+      "original_filename": "com_OFC_card_EXE5_024_SabotenBall1.zip",
+      "attachment_id": "1473718809918443644",
       "thread_id": "1395054963628966048",
       "thread_name": "[OFC][CHIP][EXE5/BN5] Saboten Ball/Cactus Ball",
       "channel_id": "865079018704994355",
@@ -56814,12 +56814,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1752677555515,
-      "discord_url": "https://cdn.discordapp.com/attachments/1395054963628966048/1395055522352201728/EXE5-026-SabotenBall3.zip?ex=68790e33&is=6877bcb3&hm=e0fd08f6a787c10d7dd5b0b9b21796cb94c3c7ef7797f6d5aa1d49fb86de65be&",
+      "timestamp": 1771432345046,
+      "discord_url": "https://cdn.discordapp.com/attachments/1395054963628966048/1473718811084718131/com_OFC_card_EXE5_026_SabotenBall3.zip?ex=699dd298&is=699c8118&hm=eac490d5005ae7c54925985ebd05dad3bb3ef2e3aab1529e6b5f14be1a15ac55&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
-      "original_filename": "EXE5-026-SabotenBall3.zip",
-      "attachment_id": "1395055522352201728",
+      "original_filename": "com_OFC_card_EXE5_026_SabotenBall3.zip",
+      "attachment_id": "1473718811084718131",
       "thread_id": "1395054963628966048",
       "thread_name": "[OFC][CHIP][EXE5/BN5] Saboten Ball/Cactus Ball",
       "channel_id": "865079018704994355",
@@ -62171,6 +62171,47 @@
       "attachment_id": "1470528098310033561",
       "thread_id": "1470527221729988719",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Attack+ and Navi+ series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_seabitty_NeoDragonoid": {
+    "data": {
+      "type": "cards",
+      "id": "com.seabitty.NeoDragonoid",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_seabitty_NeoDragonoid_icon.png",
+        "preview": "images\\com_seabitty_NeoDragonoid_preview.png",
+        "codes": [
+          "D"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "NeoDragn",
+          "damage": 390,
+          "time_freeze": true,
+          "element": "Fire",
+          "description": "Bakugan fire atk!",
+          "long_description": "Neo Dragonoid unleashes an X-shaped flame!",
+          "card_class": "Giga",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771771498336,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475141318610129070/1475141322141733006/com_seabitty_NeoDragonoid.zip?ex=699db969&is=699c67e9&hm=3e5cea443fb315e7258a5cb2c7460903cf949838d56b4de72ee4b2edba45757c&",
+      "author_name": "seabitty",
+      "author_id": "711490412849790979",
+      "original_filename": "com_seabitty_NeoDragonoid.zip",
+      "attachment_id": "1475141322141733006",
+      "thread_id": "1475141318610129070",
+      "thread_name": "[CUS] [CHIP] Neo Dragonoid",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
