@@ -26,7 +26,6 @@ b93c2ba104537cb3d4a6ebc2e172389c com.discord.SCA#7323.player.Bersek
 5a98458ac22062a3dc15277a9e2b5cf5 com.discord.SCA#7323.player.Dimentio
 9a296913864d800e8d80ee0ee6e37f11 com.mars.player.BlockMan
 5f2430af1cc3a3b7e9a9cb26f686f929 com.discord.SCA#7323.player.Spamton
-77d8593af2066a917c5ef76a28f5cbc5 Gregar
 7f7708926d0bc029a8be82fa7fd9ebd2 CGregar
 07c8a652c63a0b5932ba730836f528a8 com.Thor.player.MegamanStyles
 a225ce02107dffebdf69af25004d47f9 com.alrysc.player.metabee
@@ -318,3 +317,4 @@ df6742e1fa91dec6b401f6b205cff05a com.discord.totally_a_bot.player.Tab
 cc20399ebad08fcb3819332d42b0948e com.darkware.navi.gridman
 4cfa22e91a0ee87ca2550a7d02ef7871 com.caseofthematts.navi.coldmanpvp
 f0204ef3d0c1ab0437ac4da8c4754d39 com.drawcie.navi.darkmegaPVP
+f7534f011701fe52d96ed506ab6bafed Gregar

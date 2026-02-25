@@ -220,4 +220,4 @@ c2a8cd339fdad8410320a31e065f8f1b Gym.LeaderRBY
 c6c68a6f4b7affc6884b5137058712e5 com.darkware.ncp.overclockpower
 56e8d6b49691db8f7df0a595ef4f073f com.darkware.ncp.overclockcharge
 c3b046bae4de97f98a9c7c7359d4d85c com.OFC.block.EXE6-009-Reflect
-0a8f0b25e1d7d705fb21ec1b3ce0aca1 com.shadishp.block.duov1.blue
+c287ab738c9e85addfe071723b1b8566 com.shadishp.block.duov1.blue

@@ -1508,3 +1508,11 @@ e4ce36a6a434c64392663a20ca654bf1 com.OFC.card.EXE5-272-SwallowManSP
 96d065b6fe553c004c5445233c84fdcf com.OFC.card.EXE6-196-Attack+10
 04d6c14e66a51339ff60f86e8558beaa com.OFC.card.EXE6-198-Navi+20
 87404a1d7a3a00d040a9d16ee769f699 com.seabitty.NeoDragonoid
+cd53cb912ade245fb3b88880a867dd7e com.OFC.card.EXE3-211-GaiaBlade
+e43ff984218988a34ca5184ce5199fef com.OFC.card.EXE3-210-GaiaSword
+be25a1db0d635638fb8aee8436479f1b com.OFC.card.EXE3-209-Thunderbolt
+c55082f182438cfc7854b6a76a72c3b3 com.OFC.card.EXE3-208-Lightning
+1506032bda09ae02174329dba0501d3c com.OFC.card.EXE3-207-Daifunsui
+9b6959530e3ebd7ade0e9acb0aa9477d com.OFC.card.EXE3-206-ChikasuiMyaku
+3e9a5fa1b72b3e087591e8d86bf4c8ce com.OFC.card.EXE3-205-Salamander
+c2442d13bd76d8f635c1784a6f2d8b8f com.OFC.card.EXE3-204-Prominence

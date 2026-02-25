@@ -767,32 +767,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "Gregar": {
-    "data": {
-      "type": "players",
-      "id": "Gregar",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\Gregar_icon.png",
-        "preview": "images\\Gregar_preview.png"
-      },
-      "description": "Beast out with Megaman"
-    },
-    "attachment_data": {
-      "timestamp": 1645931189689,
-      "discord_url": "https://cdn.discordapp.com/attachments/940200857234997289/947328813405184010/Gregar.zip",
-      "author_name": "Cinna",
-      "author_id": "237691722425958401",
-      "original_filename": "Gregar.zip",
-      "attachment_id": "947328813405184010",
-      "thread_id": "940200857234997289",
-      "thread_name": "[CUS][NAVI] Gregar Megaman",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "CGregar": {
     "data": {
       "type": "players",
@@ -23338,6 +23312,46 @@
       "attachment_id": "1474470779918749806",
       "thread_id": "1474470321942692010",
       "thread_name": "[NAVI] [PVP] [OFC] Dark Megaman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "Gregar": {
+    "data": {
+      "type": "players",
+      "id": "Gregar",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Gregar",
+      "detail": {
+        "icon": "images\\Gregar_icon.png",
+        "preview": "images\\Gregar_preview.png",
+        "animation": "./Gregar_atlus.animation",
+        "texture": "./Gregar_atlus.png",
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Beast out with Megaman",
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 60,
+      "health": 1000,
+      "element": "None",
+      "height": 50,
+      "charge_position": {
+        "x": 0,
+        "y": -20
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771967047905,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475589625157255282/1475961517575897294/gbeast-megaman.zip?ex=699f63c7&is=699e1247&hm=6e028354f580562ed9f20419a490bb65d7b8c8b8bfc5efdf96d66de20f59704b&",
+      "author_name": "d3str0y3d255",
+      "author_id": "414013449585033216",
+      "original_filename": "gbeast-megaman.zip",
+      "attachment_id": "1475961517575897294",
+      "thread_id": "1475589625157255282",
+      "thread_name": "[OFC] [CUS] [BN6] [4.5-STYLED] G-Beast Megaman",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

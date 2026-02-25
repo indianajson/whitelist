@@ -62215,5 +62215,341 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_OFC_card_EXE3_211_GaiaBlade": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-211-GaiaBlade",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_211_GaiaBlade_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_211_GaiaBlade_preview.png",
+        "codes": [
+          "G",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "GaiaBlde",
+          "damage": 100,
+          "time_freeze": false,
+          "element": "Wood",
+          "description": "Wood:Take\npower frm\nnext chip",
+          "long_description": "Wood only: Absorbs the attack power of the next selected chip",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991588584030278/com_OFC_card_EXE3_211_GaiaBlade.zip?ex=699f7fc9&is=699e2e49&hm=bf29d8a793bbffe5c2bc114a0415e0454e6840532a66c78e04342160e9f16ff9&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_211_GaiaBlade.zip",
+      "attachment_id": "1475991588584030278",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE3_210_GaiaSword": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-210-GaiaSword",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_210_GaiaSword_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_210_GaiaSword_preview.png",
+        "codes": [
+          "G",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "GaiaSwrd",
+          "damage": 100,
+          "time_freeze": false,
+          "element": "Wood",
+          "description": "Wood:Take\npower frm\nnext chip",
+          "long_description": "Wood only: Absorbs the attack power of the next selected chip",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991588155953265/com_OFC_card_EXE3_210_GaiaSword.zip?ex=699f7fc9&is=699e2e49&hm=53fda87b961dcd4865e5797ca09368f3c08f8f92f999afcf6450fc202a5601b3&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_210_GaiaSword.zip",
+      "attachment_id": "1475991588155953265",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE3_209_Thunderbolt": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-209-Thunderbolt",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_209_Thunderbolt_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_209_Thunderbolt_preview.png",
+        "codes": [
+          "T",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "Thndrblt",
+          "damage": 210,
+          "time_freeze": false,
+          "element": "Elec",
+          "description": "Elec:Hits\nobjs&area\naround!",
+          "long_description": "Elec only: Lightning strikes things! Elec attack around!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991587820404797/com_OFC_card_EXE3_209_Thunderbolt.zip?ex=699f7fc9&is=699e2e49&hm=3a35c9d2183a223653963dd4dbf549c9a5de69d97dedab673301b111c119fc50&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_209_Thunderbolt.zip",
+      "attachment_id": "1475991587820404797",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE3_208_Lightning": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-208-Lightning",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_208_Lightning_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_208_Lightning_preview.png",
+        "codes": [
+          "L",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "Ligtning",
+          "damage": 160,
+          "time_freeze": false,
+          "element": "Elec",
+          "description": "Elec:Hits\nobjs&area\naround!",
+          "long_description": "Elec only: Lightning strikes things! Elec attack around!",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991587535458485/com_OFC_card_EXE3_208_Lightning.zip?ex=699f7fc9&is=699e2e49&hm=93ac5ef9e463ddb961778cbec08eb8850206ed48696144a5fedcbc864f79bb67&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_208_Lightning.zip",
+      "attachment_id": "1475991587535458485",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE3_207_Daifunsui": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-207-Daifunsui",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_207_Daifunsui_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_207_Daifunsui_preview.png",
+        "codes": [
+          "D",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "BgFntain",
+          "damage": 240,
+          "time_freeze": false,
+          "element": "Aqua",
+          "description": "Aqua:Watr\nflows fwd\nfrom hole",
+          "long_description": "Aqua only: Water flows forward from the hole in front",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991587183005778/com_OFC_card_EXE3_207_Daifunsui.zip?ex=699f7fc8&is=699e2e48&hm=a5c13482a7c7189a02dc298c68aae5fede89c6b0c247defd027db6ba24ecead4&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_207_Daifunsui.zip",
+      "attachment_id": "1475991587183005778",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE3_206_ChikasuiMyaku": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-206-ChikasuiMyaku",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_206_ChikasuiMyaku_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_206_ChikasuiMyaku_preview.png",
+        "codes": [
+          "C",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "WatrVein",
+          "damage": 180,
+          "time_freeze": false,
+          "element": "Aqua",
+          "description": "Aqua:Watr\nflows fwd\nfrom hole",
+          "long_description": "Aqua only: Water flows forward from the hole in front",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991586914697351/com_OFC_card_EXE3_206_ChikasuiMyaku.zip?ex=699f7fc8&is=699e2e48&hm=83442c03a84b3e7f3763722f1cc6556c85739a634e9f06205112c0720055293d&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_206_ChikasuiMyaku.zip",
+      "attachment_id": "1475991586914697351",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE3_205_Salamander": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-205-Salamander",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_205_Salamander_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_205_Salamander_preview.png",
+        "codes": [
+          "S",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "Salamndr",
+          "damage": 300,
+          "time_freeze": false,
+          "element": "Fire",
+          "description": "Heat:\nSend fire\ninto hole",
+          "long_description": "Heat only: Creates a flame that travels towards the hole",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991586608517140/com_OFC_card_EXE3_205_Salamander.zip?ex=699f7fc8&is=699e2e48&hm=3a9800aeeed8e6f156135b71b8ad1b9c9b6ebff8761a4e2a79e103ff0a880c22&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_205_Salamander.zip",
+      "attachment_id": "1475991586608517140",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE3_204_Prominence": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE3-204-Prominence",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE3_204_Prominence_icon.png",
+        "preview": "images\\com_OFC_card_EXE3_204_Prominence_preview.png",
+        "codes": [
+          "P",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "Promnnce",
+          "damage": 220,
+          "time_freeze": false,
+          "element": "Fire",
+          "description": "Heat:\nSend fire\ninto hole",
+          "long_description": "Heat only: Creates a flame that travels towards the hole",
+          "card_class": "Mega",
+          "limit": 1
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1771974217391,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991586193150146/com_OFC_card_EXE3_204_Prominence.zip?ex=699f7fc8&is=699e2e48&hm=e618ba4c34ffcb09db27dc8b84f1087e7d1933ffcf1dfe7a846e7fc4319e9533&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE3_204_Prominence.zip",
+      "attachment_id": "1475991586193150146",
+      "thread_id": "1475991455448436912",
+      "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
