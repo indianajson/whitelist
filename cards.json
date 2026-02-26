@@ -50814,7 +50814,7 @@
         "props": {
           "can_boost": true,
           "shortname": "ChrgeMnSP",
-          "damage": 777,
+          "damage": 130,
           "time_freeze": true,
           "element": "None",
           "description": "Rush fwd!\nOpen bhnd\ncargo flw",
@@ -50830,12 +50830,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750381359,
-      "discord_url": "https://cdn.discordapp.com/attachments/1356751930977947808/1470858449230496021/com_OFC_card_EXE6_242_ChargeManSP.zip?ex=698cd32d&is=698b81ad&hm=06d74d615a7c53320085fcfdb9045a6082a31621cfe882e2f5073bb1dc1e1fab&",
+      "timestamp": 1772050149431,
+      "discord_url": "https://cdn.discordapp.com/attachments/1356751930977947808/1476310070559113396/com_OFC_card_EXE6_242_ChargeManSP.zip?ex=69a0a865&is=699f56e5&hm=aa69be8400c3208a85ce38234fde30511f4f87bc43d003141990fa6ab8d08d61&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_242_ChargeManSP.zip",
-      "attachment_id": "1470858449230496021",
+      "attachment_id": "1476310070559113396",
       "thread_id": "1356751930977947808",
       "thread_name": "[OFC][CHIP][EXE6/BN6] ChargeMan series",
       "channel_id": "865079018704994355",
@@ -50874,12 +50874,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750381359,
-      "discord_url": "https://cdn.discordapp.com/attachments/1356751930977947808/1470858448886563057/com_OFC_card_EXE6_241_ChargeManEX.zip?ex=698cd32d&is=698b81ad&hm=6d32bc1dfede1baa455d69459c47bade30c9c743442903b10ba3f101ffb64d82&",
+      "timestamp": 1772050149431,
+      "discord_url": "https://cdn.discordapp.com/attachments/1356751930977947808/1476310070298939462/com_OFC_card_EXE6_241_ChargeManEX.zip?ex=69a0a865&is=699f56e5&hm=30957f9b8e2f28e71f7d2b713740f14d132a250c2c9adf028c6828a4d88c3a3c&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_241_ChargeManEX.zip",
-      "attachment_id": "1470858448886563057",
+      "attachment_id": "1476310070298939462",
       "thread_id": "1356751930977947808",
       "thread_name": "[OFC][CHIP][EXE6/BN6] ChargeMan series",
       "channel_id": "865079018704994355",
@@ -50919,12 +50919,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750381359,
-      "discord_url": "https://cdn.discordapp.com/attachments/1356751930977947808/1470858448584446033/com_OFC_card_EXE6_240_ChargeMan.zip?ex=698cd32d&is=698b81ad&hm=b7a2a293e44b48c521d03ab2f975c4b6721c22d76a47a5cb66839a8f06bef5a0&",
+      "timestamp": 1772050149431,
+      "discord_url": "https://cdn.discordapp.com/attachments/1356751930977947808/1476310070005334057/com_OFC_card_EXE6_240_ChargeMan.zip?ex=69a0a865&is=699f56e5&hm=9505ee8b6b554f3d07a8dd3d646c420c13c692b9ec3a20c0c4e4f006a008fb84&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_240_ChargeMan.zip",
-      "attachment_id": "1470858448584446033",
+      "attachment_id": "1476310070005334057",
       "thread_id": "1356751930977947808",
       "thread_name": "[OFC][CHIP][EXE6/BN6] ChargeMan series",
       "channel_id": "865079018704994355",
@@ -51414,7 +51414,7 @@
         "props": {
           "can_boost": true,
           "shortname": "SparkMnSP",
-          "damage": 777,
+          "damage": 150,
           "time_freeze": true,
           "element": "Elec",
           "description": "SparkWave\nall ahd!\nBlind foe",
@@ -51430,12 +51430,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750234369,
-      "discord_url": "https://cdn.discordapp.com/attachments/1362166638526332948/1470857832361492651/com_OFC_card_EXE4_255_SparkManSP.zip?ex=698cd29a&is=698b811a&hm=08640c0e6f938ce818f6faee6fb7655ce706934ab54f5069c130f1394bfbd453&",
+      "timestamp": 1772049527409,
+      "discord_url": "https://cdn.discordapp.com/attachments/1362166638526332948/1476307461324673155/com_OFC_card_EXE4_255_SparkManSP.zip?ex=69a0a5f7&is=699f5477&hm=c2a4dc69421c66b3d83715613713880875a583963f2ba9552875147c1fc48680&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE4_255_SparkManSP.zip",
-      "attachment_id": "1470857832361492651",
+      "attachment_id": "1476307461324673155",
       "thread_id": "1362166638526332948",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] SparkMan series",
       "channel_id": "865079018704994355",
@@ -51474,12 +51474,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750234369,
-      "discord_url": "https://cdn.discordapp.com/attachments/1362166638526332948/1470857832034205737/com_OFC_card_EXE4_254_SparkMan.zip?ex=698cd29a&is=698b811a&hm=f92bd309510542b3b4eeb614a4fb561899cb7d04b6a3b4c6ae0b2e403b3abf40&",
+      "timestamp": 1772049527409,
+      "discord_url": "https://cdn.discordapp.com/attachments/1362166638526332948/1476307460921888858/com_OFC_card_EXE4_254_SparkMan.zip?ex=69a0a5f7&is=699f5477&hm=58c376f4e583399485835fe3cbf86b8427e998cc6a94c8ba2449f4eda2f2f08c&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE4_254_SparkMan.zip",
-      "attachment_id": "1470857832034205737",
+      "attachment_id": "1476307460921888858",
       "thread_id": "1362166638526332948",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] SparkMan series",
       "channel_id": "865079018704994355",
@@ -51518,12 +51518,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750234369,
-      "discord_url": "https://cdn.discordapp.com/attachments/1362166638526332948/1470857832743305472/com_OFC_card_EXE4_256_SparkManDS.zip?ex=698cd29a&is=698b811a&hm=1fb30ff945d0529cf0e291ad9ccbb5d00b4a077e9967249427765d5da853ab52&",
+      "timestamp": 1772049527409,
+      "discord_url": "https://cdn.discordapp.com/attachments/1362166638526332948/1476307461643436215/com_OFC_card_EXE4_256_SparkManDS.zip?ex=69a0a5f7&is=699f5477&hm=b2a2613df4dd6c4bed172918e30e825de6ccbf3dfa17f004e0a7b5d85124173a&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE4_256_SparkManDS.zip",
-      "attachment_id": "1470857832743305472",
+      "attachment_id": "1476307461643436215",
       "thread_id": "1362166638526332948",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] SparkMan series",
       "channel_id": "865079018704994355",
@@ -56084,12 +56084,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750293416,
-      "discord_url": "https://cdn.discordapp.com/attachments/1393569390129053716/1470858080458637373/com_OFC_card_EXE5_228_GyroManDS.zip?ex=698cd2d5&is=698b8155&hm=5f659e0be698ff59b6e0be790facde25f85853bb350804a757145226476e2fa7&",
+      "timestamp": 1772049555349,
+      "discord_url": "https://cdn.discordapp.com/attachments/1393569390129053716/1476307578781958235/com_OFC_card_EXE5_228_GyroManDS.zip?ex=69a0a613&is=699f5493&hm=2562170d27ec19f91c5beda6447b05bf1c41ab15272d3c08b2adf9b79d6a3903&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_228_GyroManDS.zip",
-      "attachment_id": "1470858080458637373",
+      "attachment_id": "1476307578781958235",
       "thread_id": "1393569390129053716",
       "thread_name": "[OFC][CHIP][EXE5/BN5] GyroMan series",
       "channel_id": "865079018704994355",
@@ -56112,7 +56112,7 @@
         "props": {
           "can_boost": true,
           "shortname": "GyroManSP",
-          "damage": 777,
+          "damage": 115,
           "time_freeze": true,
           "element": "None",
           "description": "Bombs the\nfront of\nsame row!",
@@ -56128,12 +56128,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750293416,
-      "discord_url": "https://cdn.discordapp.com/attachments/1393569390129053716/1470858080165040392/com_OFC_card_EXE5_227_GyroManSP.zip?ex=698cd2d5&is=698b8155&hm=2224b494c9b0398cb196a0fec4210e348d5dd1fed02a949fea195d65fe58115b&",
+      "timestamp": 1772049555349,
+      "discord_url": "https://cdn.discordapp.com/attachments/1393569390129053716/1476307578085441596/com_OFC_card_EXE5_227_GyroManSP.zip?ex=69a0a613&is=699f5493&hm=f42277ce31dd5f94ccc152a6f671895b976382d7d18cb8780dfdeaf140fb9557&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_227_GyroManSP.zip",
-      "attachment_id": "1470858080165040392",
+      "attachment_id": "1476307578085441596",
       "thread_id": "1393569390129053716",
       "thread_name": "[OFC][CHIP][EXE5/BN5] GyroMan series",
       "channel_id": "865079018704994355",
@@ -56172,12 +56172,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750293416,
-      "discord_url": "https://cdn.discordapp.com/attachments/1393569390129053716/1470858079821238273/com_OFC_card_EXE5_226_GyroMan.zip?ex=698cd2d5&is=698b8155&hm=11d213c4bca258e8e0bac290671d9656a13756fbe5af4c414951ebbaf46a2c06&",
+      "timestamp": 1772049555349,
+      "discord_url": "https://cdn.discordapp.com/attachments/1393569390129053716/1476307577770873098/com_OFC_card_EXE5_226_GyroMan.zip?ex=69a0a613&is=699f5493&hm=96882d4ceb31761fa69afcf083f6f4e1de9870263a7b69dc5c447426ff61ed22&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_226_GyroMan.zip",
-      "attachment_id": "1470858079821238273",
+      "attachment_id": "1476307577770873098",
       "thread_id": "1393569390129053716",
       "thread_name": "[OFC][CHIP][EXE5/BN5] GyroMan series",
       "channel_id": "865079018704994355",
@@ -56581,7 +56581,7 @@
         "props": {
           "can_boost": true,
           "shortname": "ShadoMnSP",
-          "damage": 777,
+          "damage": 60,
           "time_freeze": true,
           "element": "None",
           "description": "Throw 3\nshurikens\nat enemy!",
@@ -56597,12 +56597,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750320849,
-      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1470858195508396052/com_OFC_card_EXE5_245_ShadowManSP.zip?ex=698cd2f1&is=698b8171&hm=5c85f152dc81ab01ca61a25419413a718f71384e5eb32113c68043918b1e1671&",
+      "timestamp": 1772049694564,
+      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1476308162192736346/com_OFC_card_EXE5_245_ShadowManSP.zip?ex=69a0a69e&is=699f551e&hm=b4a18d93c6d05bcf7eb15ceb1f110e0f8faa9fe62689bdaab8b076c6f67a84eb&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_245_ShadowManSP.zip",
-      "attachment_id": "1470858195508396052",
+      "attachment_id": "1476308162192736346",
       "thread_id": "1394647022405025892",
       "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
       "channel_id": "865079018704994355",
@@ -56641,12 +56641,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750320849,
-      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1470858194929844377/com_OFC_card_EXE5_244_ShadowMan.zip?ex=698cd2f0&is=698b8170&hm=3fbb22ed6367918b265c2b672eca306bd9f4ab3922cead63ed087b6f7232446e&",
+      "timestamp": 1772049694564,
+      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1476308161915781201/com_OFC_card_EXE5_244_ShadowMan.zip?ex=69a0a69e&is=699f551e&hm=ecf7906c4c33b35773d619b2833af24df91d4bc47160e6537c2f48dac8492df8&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_244_ShadowMan.zip",
-      "attachment_id": "1470858194929844377",
+      "attachment_id": "1476308161915781201",
       "thread_id": "1394647022405025892",
       "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
       "channel_id": "865079018704994355",
@@ -56685,12 +56685,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750320849,
-      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1470858195940540426/com_OFC_card_EXE5_246_ShadowManDS.zip?ex=698cd2f1&is=698b8171&hm=9a06587caabdb38d66bced55f5c98fd7503c4a4ba7e7c0bf2faeac514e270141&",
+      "timestamp": 1772049694564,
+      "discord_url": "https://cdn.discordapp.com/attachments/1394647022405025892/1476308162528411780/com_OFC_card_EXE5_246_ShadowManDS.zip?ex=69a0a69e&is=699f551e&hm=24b81dcc7b940a5c39c74dabf7f2398aec45f92a0b0b3256a72ea40a2c3bf234&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_246_ShadowManDS.zip",
-      "attachment_id": "1470858195940540426",
+      "attachment_id": "1476308162528411780",
       "thread_id": "1394647022405025892",
       "thread_name": "[OFC][CHIP][EXE5/BN5] ShadowMan series",
       "channel_id": "865079018704994355",
@@ -57050,7 +57050,7 @@
         "props": {
           "can_boost": true,
           "shortname": "SrchManSP",
-          "damage": 777,
+          "damage": 50,
           "time_freeze": true,
           "element": "Cursor",
           "description": "Stop sght\n&ScopeGun\nfires x5!",
@@ -57066,12 +57066,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750305235,
-      "discord_url": "https://cdn.discordapp.com/attachments/1395673843091112036/1470858129523609691/com_OFC_card_EXE5_230_SearchManSP.zip?ex=698cd2e1&is=698b8161&hm=7c12f6d8baafa0b3622caf61f6e524a1198890fc6c1732e04ce99e82130a3b88&",
+      "timestamp": 1772049612517,
+      "discord_url": "https://cdn.discordapp.com/attachments/1395673843091112036/1476307816590475510/com_OFC_card_EXE5_230_SearchManSP.zip?ex=69a0a64b&is=699f54cb&hm=100b7fbe915a0d105814a1426e7c9525058f73195a8e1262611bdf10ad116ca5&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_230_SearchManSP.zip",
-      "attachment_id": "1470858129523609691",
+      "attachment_id": "1476307816590475510",
       "thread_id": "1395673843091112036",
       "thread_name": "[OFC][CHIP][EXE5/BN5] SearchMan series",
       "channel_id": "865079018704994355",
@@ -57110,12 +57110,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750305235,
-      "discord_url": "https://cdn.discordapp.com/attachments/1395673843091112036/1470858129259364505/com_OFC_card_EXE5_229_SearchMan.zip?ex=698cd2e1&is=698b8161&hm=a86b135989697d3fae79573e230a8a1ace4f807c23684496415a7c04239d56b2&",
+      "timestamp": 1772049612517,
+      "discord_url": "https://cdn.discordapp.com/attachments/1395673843091112036/1476307815302959326/com_OFC_card_EXE5_229_SearchMan.zip?ex=69a0a64b&is=699f54cb&hm=c3a6ab4e19fea458bc7ec00e13e7807457952e935ebdcdc45694e95bc2f5f9bd&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_229_SearchMan.zip",
-      "attachment_id": "1470858129259364505",
+      "attachment_id": "1476307815302959326",
       "thread_id": "1395673843091112036",
       "thread_name": "[OFC][CHIP][EXE5/BN5] SearchMan series",
       "channel_id": "865079018704994355",
@@ -57154,12 +57154,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750305235,
-      "discord_url": "https://cdn.discordapp.com/attachments/1395673843091112036/1470858129783914618/com_OFC_card_EXE5_231_SearchManDS.zip?ex=698cd2e1&is=698b8161&hm=2388c4c1f743318e8bf2b3ca43d100267a209f7d92810d420e9b420bb2daa8a2&",
+      "timestamp": 1772049612517,
+      "discord_url": "https://cdn.discordapp.com/attachments/1395673843091112036/1476307818268332092/com_OFC_card_EXE5_231_SearchManDS.zip?ex=69a0a64c&is=699f54cc&hm=8404b54798e654b4f89fe1227fad41ca6b7ae875adbdd4a4d18b81b10ad1af66&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_231_SearchManDS.zip",
-      "attachment_id": "1470858129783914618",
+      "attachment_id": "1476307818268332092",
       "thread_id": "1395673843091112036",
       "thread_name": "[OFC][CHIP][EXE5/BN5] SearchMan series",
       "channel_id": "865079018704994355",
@@ -61287,25 +61287,28 @@
         "props": {
           "can_boost": true,
           "shortname": "GrndManSP",
-          "damage": 777,
+          "damage": 130,
           "time_freeze": true,
           "element": "Break",
           "description": "Drill the\nedge for\neasy attk",
           "long_description": "Move forward and drill into the screen edge for an easy attack",
           "card_class": "Mega",
-          "limit": 1
+          "limit": 1,
+          "meta_classes": [
+            "Navi"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769969308586,
-      "discord_url": "https://cdn.discordapp.com/attachments/1366873873664180294/1467582391446011980/com_OFC_card_EXE6_254_GroundManSP.zip?ex=6980e81c&is=697f969c&hm=d8101799de3729181c7ca1fc49f3da70ed529477f74f3c9b88da0db269bd469d&",
+      "timestamp": 1772050237495,
+      "discord_url": "https://cdn.discordapp.com/attachments/1366873873664180294/1476310440429617284/com_OFC_card_EXE6_254_GroundManSP.zip?ex=69a0a8bd&is=699f573d&hm=470c1e24b6f6a4fae133516fe061b2a41f57b9d8522ed260495c7846817bdfc3&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_254_GroundManSP.zip",
-      "attachment_id": "1467582391446011980",
+      "attachment_id": "1476310440429617284",
       "thread_id": "1366873873664180294",
       "thread_name": "[OFC][CHIP][EXE6/BN6] GroundMan series",
       "channel_id": "865079018704994355",
@@ -61334,19 +61337,22 @@
           "description": "Drill the\nedge for\neasy attk",
           "long_description": "Move forward and drill into the screen edge for an easy attack",
           "card_class": "Mega",
-          "limit": 1
+          "limit": 1,
+          "meta_classes": [
+            "Navi"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769969308586,
-      "discord_url": "https://cdn.discordapp.com/attachments/1366873873664180294/1467582391080976434/com_OFC_card_EXE6_253_GroundManEX.zip?ex=6980e81c&is=697f969c&hm=fab14090af43b19644bd17a0f38a0f2d0409dd3df324ecf8aa3b7072e61b236c&",
+      "timestamp": 1772050237495,
+      "discord_url": "https://cdn.discordapp.com/attachments/1366873873664180294/1476310439326388446/com_OFC_card_EXE6_253_GroundManEX.zip?ex=69a0a8bd&is=699f573d&hm=a4c54695b6b62fcd5467738975c46c78e2f65ffc7ba65ded08efeeb515e765e0&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_253_GroundManEX.zip",
-      "attachment_id": "1467582391080976434",
+      "attachment_id": "1476310439326388446",
       "thread_id": "1366873873664180294",
       "thread_name": "[OFC][CHIP][EXE6/BN6] GroundMan series",
       "channel_id": "865079018704994355",
@@ -61376,19 +61382,22 @@
           "description": "Drill the\nedge for\neasy attk",
           "long_description": "Move forward and drill into the screen edge for an easy attack",
           "card_class": "Mega",
-          "limit": 2
+          "limit": 2,
+          "meta_classes": [
+            "Navi"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769969308586,
-      "discord_url": "https://cdn.discordapp.com/attachments/1366873873664180294/1467582390737309767/com_OFC_card_EXE6_252_GroundMan.zip?ex=6980e81c&is=697f969c&hm=ebcee4b6284fd294dab5c9620e5931de8e503947c1555d764a4637d94e1cc33e&",
+      "timestamp": 1772050237495,
+      "discord_url": "https://cdn.discordapp.com/attachments/1366873873664180294/1476310437506060328/com_OFC_card_EXE6_252_GroundMan.zip?ex=69a0a8bc&is=699f573c&hm=2e10d552caa8b9d7354f4d484b90414c6a64e29388e9e0e38f82556f562b728a&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_252_GroundMan.zip",
-      "attachment_id": "1467582390737309767",
+      "attachment_id": "1476310437506060328",
       "thread_id": "1366873873664180294",
       "thread_name": "[OFC][CHIP][EXE6/BN6] GroundMan series",
       "channel_id": "865079018704994355",
@@ -61688,12 +61697,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750175742,
-      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1470857586701238476/com_OFC_card_EXE4_250_BurnerManDS.zip?ex=698cd25f&is=698b80df&hm=3c7ba8c53b7997d17a5082ca014ec1ae6fff7268fdaa7f1586af38cf1a7ab3aa&",
+      "timestamp": 1772049353081,
+      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1476306730513076295/com_OFC_card_EXE4_250_BurnerManDS.zip?ex=69a0a549&is=699f53c9&hm=58ab4ede35c072e1b9ba83a64ac071f5a58993a4b7c931d051e0bb17ca76c780&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE4_250_BurnerManDS.zip",
-      "attachment_id": "1470857586701238476",
+      "attachment_id": "1476306730513076295",
       "thread_id": "1468339526039507194",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] BurnerMan (BurnMan) series",
       "channel_id": "865079018704994355",
@@ -61716,7 +61725,7 @@
         "props": {
           "can_boost": true,
           "shortname": "BurnrMnSP",
-          "damage": 777,
+          "damage": 95,
           "time_freeze": true,
           "element": "Fire",
           "description": "Burnr atk\nfrom 3sds\n2sq ahead",
@@ -61732,12 +61741,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750175742,
-      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1470857586415767755/com_OFC_card_EXE4_249_BurnerManSP.zip?ex=698cd25f&is=698b80df&hm=24185c245dcb0be18f3237bebbb940b6ce1441fe97c9059fb81a1fa70be92044&",
+      "timestamp": 1772049353081,
+      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1476306730169270544/com_OFC_card_EXE4_249_BurnerManSP.zip?ex=69a0a548&is=699f53c8&hm=dbd48569ad9262322bd5f08e11b2e8333d3e07b342e8381decb6434f727caab8&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE4_249_BurnerManSP.zip",
-      "attachment_id": "1470857586415767755",
+      "attachment_id": "1476306730169270544",
       "thread_id": "1468339526039507194",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] BurnerMan (BurnMan) series",
       "channel_id": "865079018704994355",
@@ -61776,12 +61785,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750175742,
-      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1470857586130682140/com_OFC_card_EXE4_248_BurnerMan.zip?ex=698cd25f&is=698b80df&hm=0ef42958f3a009be3c35e0511cec36707750a7c3868d81dee0ac1bbdb48e65a2&",
+      "timestamp": 1772049353081,
+      "discord_url": "https://cdn.discordapp.com/attachments/1468339526039507194/1476306729787461773/com_OFC_card_EXE4_248_BurnerMan.zip?ex=69a0a548&is=699f53c8&hm=6566729f83a5014ca3a1c0054855898493e7a3b22f471996151c01a3ba1fe25e&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE4_248_BurnerMan.zip",
-      "attachment_id": "1470857586130682140",
+      "attachment_id": "1476306729787461773",
       "thread_id": "1468339526039507194",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] BurnerMan (BurnMan) series",
       "channel_id": "865079018704994355",
@@ -61820,12 +61829,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750338206,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1470858269193928891/com_OFC_card_EXE5_264_ShadeManDS.zip?ex=698cd302&is=698b8182&hm=14897312e304fe13057d10039ec60e17e99ed8a0cc279d9ee432533569cde26f&",
+      "timestamp": 1772049778263,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1476308513918681188/com_OFC_card_EXE5_264_ShadeManDS.zip?ex=69a0a6f2&is=699f5572&hm=940d2eb22523875604bc3cd8552f7784d9a527995162a40fe384edb48b2bb59a&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_264_ShadeManDS.zip",
-      "attachment_id": "1470858269193928891",
+      "attachment_id": "1476308513918681188",
       "thread_id": "1469070695593148512",
       "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
       "channel_id": "865079018704994355",
@@ -61848,7 +61857,7 @@
         "props": {
           "can_boost": true,
           "shortname": "ShadeMnSP",
-          "damage": 777,
+          "damage": 190,
           "time_freeze": true,
           "element": "None",
           "description": "Rdial spr\nsonic atk\nCrshNoise",
@@ -61864,12 +61873,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750338206,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1470858268401467494/com_OFC_card_EXE5_263_ShadeManSP.zip?ex=698cd302&is=698b8182&hm=2bc9fd63ddc9aed2e30001fc7edabd6a04c7fed5866c30b210bdfe8cee441b62&",
+      "timestamp": 1772049778263,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1476308513641988097/com_OFC_card_EXE5_263_ShadeManSP.zip?ex=69a0a6f2&is=699f5572&hm=3ec80c4974f66ca2dc7587cae59cf8ea3fa0358897235179d59d82301d446c81&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_263_ShadeManSP.zip",
-      "attachment_id": "1470858268401467494",
+      "attachment_id": "1476308513641988097",
       "thread_id": "1469070695593148512",
       "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
       "channel_id": "865079018704994355",
@@ -61908,12 +61917,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750338206,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1470858267767996689/com_OFC_card_EXE5_262_ShadeMan.zip?ex=698cd302&is=698b8182&hm=ad75f8a4f81f5cc64eae9064d4acd7651b639747fe11c813835de1dbc3cbc3d7&",
+      "timestamp": 1772049778263,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469070695593148512/1476308513348129031/com_OFC_card_EXE5_262_ShadeMan.zip?ex=69a0a6f2&is=699f5572&hm=31744fa1035d99a959c7a9eb3a2e1833bc1640687024270429b900d39bf18458&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_262_ShadeMan.zip",
-      "attachment_id": "1470858267767996689",
+      "attachment_id": "1476308513348129031",
       "thread_id": "1469070695593148512",
       "thread_name": "[OFC][CHIP][EXE5/BN5] ShadeMan series",
       "channel_id": "865079018704994355",
@@ -61936,7 +61945,7 @@
         "props": {
           "can_boost": true,
           "shortname": "SwalwMnSP",
-          "damage": 777,
+          "damage": 220,
           "time_freeze": true,
           "element": "None",
           "description": "Take rout\n2sq ahead\n& attack!",
@@ -61952,12 +61961,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750361235,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1470858364404760660/com_OFC_card_EXE5_272_SwallowManSP.zip?ex=698cd319&is=698b8199&hm=d245bb09302d41a75697a0c7aa4c6fd16b5e1e631d54f5c129f3062fd10d69d8&",
+      "timestamp": 1772049847409,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1476308803363278959/com_OFC_card_EXE5_272_SwallowManSP.zip?ex=69a0a737&is=699f55b7&hm=b5bd8453337ccff67658e591bc5118c8f47c85a78c49bd860b50512d7496d1f6&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_272_SwallowManSP.zip",
-      "attachment_id": "1470858364404760660",
+      "attachment_id": "1476308803363278959",
       "thread_id": "1469741632093028488",
       "thread_name": "[OFC][CHIP][EXE5/BN5] SwallowMan (LarkMan) series",
       "channel_id": "865079018704994355",
@@ -61996,12 +62005,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750361235,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1470858364140650546/com_OFC_card_EXE5_271_SwallowMan.zip?ex=698cd319&is=698b8199&hm=8c91d8316a5a1f629f560c0d6efcbfee44a131ae100d96e789c29cc543a8eca1&",
+      "timestamp": 1772049847409,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1476308803057352865/com_OFC_card_EXE5_271_SwallowMan.zip?ex=69a0a737&is=699f55b7&hm=456472081d7c06a27f79ed8e984acae134678a58517274e55ce7c62fe6ab4a7c&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_271_SwallowMan.zip",
-      "attachment_id": "1470858364140650546",
+      "attachment_id": "1476308803057352865",
       "thread_id": "1469741632093028488",
       "thread_name": "[OFC][CHIP][EXE5/BN5] SwallowMan (LarkMan) series",
       "channel_id": "865079018704994355",
@@ -62040,12 +62049,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770750361235,
-      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1470858364635451477/com_OFC_card_EXE5_273_SwallowManDS.zip?ex=698cd319&is=698b8199&hm=b9945308cae6d2ce8621158cf052243897c38ccd0b0a90c091f864058726eaa5&",
+      "timestamp": 1772049847409,
+      "discord_url": "https://cdn.discordapp.com/attachments/1469741632093028488/1476308803854139543/com_OFC_card_EXE5_273_SwallowManDS.zip?ex=69a0a737&is=699f55b7&hm=6c3fc49ec9e05cf698472089e17c72e3d7f2a768dd2e4216b0474605f085dc30&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE5_273_SwallowManDS.zip",
-      "attachment_id": "1470858364635451477",
+      "attachment_id": "1476308803854139543",
       "thread_id": "1469741632093028488",
       "thread_name": "[OFC][CHIP][EXE5/BN5] SwallowMan (LarkMan) series",
       "channel_id": "865079018704994355",

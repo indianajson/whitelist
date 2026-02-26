@@ -1237,7 +1237,7 @@ bbe4ffeaa51f08a2e5e06ef8f4ef06ed com.seabitty.darkcube
 8e61b280909b31c7e89743a8642c299d com.OFC.card.EXE6-272-ElementManSP
 8a7a80822236afacf3bcd07a659c8821 com.OFC.card.EXE6-271-ElementManEX
 ffebebc4786339f19274627212c1fb68 com.OFC.card.EXE6-270-ElementMan
-2dafbf9c0ea65c7ffca717914ad13d06 com.OFC.card.EXE6-242-ChargeManSP
+1aa9f56035e1def6c6c8833773a59a2d com.OFC.card.EXE6-242-ChargeManSP
 a4fccc4c13ffbf5fca49485fb5b2b9c6 com.OFC.card.EXE6-241-ChargeManEX
 7c0bed1b0459eddc34f0770bd7d95522 com.OFC.card.EXE6-240-ChargeMan
 cebd0707ec5642a1955f577991690d32 com.OFC.card.EXE6-083-EngetsuKunai
@@ -1251,7 +1251,7 @@ f51dbc6f98f37cdac1c36fa428902592 com.OFC.card.EXE6-262-DiveManEX
 b369f8b6d34dcd5bb07d8761fa100f9d com.OFC.card.EXE4-172-NumberBall1
 6d1822c2fcc38bce805ac75863802b7e com.OFC.card.EXE4-174-NumberBall3
 49dd7545580e39ba5a1fc1df6a42cacb com.OFC.card.EXE5-205-NumberBall
-93a11d17581b41283a3a4a54bdac707b com.OFC.card.EXE4-255-SparkManSP
+cf1a755ed50f1ed29b62512cec41cf0f com.OFC.card.EXE4-255-SparkManSP
 4e2d08b06eb96fab0d0402928f3e8cd8 com.OFC.card.EXE4-254-SparkMan
 6b00ea3e11b52cd8b13c38adbf1f4157 com.OFC.card.EXE4-256-SparkManDS
 39e2f88d1fe888d74a65417bb3b4d33f KunoichiV3.Unified.Library.214
@@ -1363,7 +1363,7 @@ df7ae27a2935d29929722f503b2fc3de com.OFC.card.EXE3-256-FlameManV3
 a2991ff1f574bc828cdf8acb9331d81d com.OFC.card.EXE6-164-PanelSteal
 a2c5f552cc55effd50820159892f47e9 com.OFC.card.EXE6-111-Ryuuseigun
 bb9f831dc0df585e00509c71c4d7a84c com.OFC.card.EXE5-228-GyroManDS
-1e72c34fe2d132cc3385ad4df8484237 com.OFC.card.EXE5-227-GyroManSP
+d86e4ba94cbfc01ae2a6530ca0f55ff8 com.OFC.card.EXE5-227-GyroManSP
 d720e29bda5514e42a4b8362f7c00418 com.OFC.card.EXE5-226-GyroMan
 71c135dd2650a8a89f6fd7f906a17f25 com.OFC.card.EXE6-098-SandWorm2
 7ebc840ae670769996ff3eb81851e3dd com.OFC.card.EXE6-097-SandWorm1
@@ -1374,9 +1374,9 @@ d720e29bda5514e42a4b8362f7c00418 com.OFC.card.EXE5-226-GyroMan
 69b3b6eb4a964c725a3805fd3d62b665 com.OFC.card.EXE5-239-MeddySP
 789eb6bcac17d06afee4cee1ef78a923 com.OFC.card.EXE5-238-Meddy
 37b3a6a9ff54b2169a40128efca3f9c1 com.OFC.card.EXE5-240-MeddyDS
-7f21d00666817e1dc2e7111a65d82f37 com.OFC.card.EXE5-245-ShadowManSP
-67ea2a633a803fc8ddca98e1f810738a com.OFC.card.EXE5-244-ShadowMan
-a602a1b9112897122b56258d55061743 com.OFC.card.EXE5-246-ShadowManDS
+3a1d6f612a5559f5b1e8d022afda00e7 com.OFC.card.EXE5-245-ShadowManSP
+6f6d0ae2aadd8cfd6fe855b8bb341254 com.OFC.card.EXE5-244-ShadowMan
+98876df4dd9df11b87a62341f069f54c com.OFC.card.EXE5-246-ShadowManDS
 b530b9d6ef031d673729ff93717de357 com.OFC.card.EXE5-025-SabotenBall2
 fbeadcaae55bb0a38d24a9b49482427a com.OFC.card.EXE5-024-SabotenBall1
 a56f5b71b11a58c2ebe59c60e5cb084c com.OFC.card.EXE5-026-SabotenBall3
@@ -1385,7 +1385,7 @@ a56f5b71b11a58c2ebe59c60e5cb084c com.OFC.card.EXE5-026-SabotenBall3
 25cb282687195615263625452c8559d7 com.OFC.card.EXE5-094-MeteorEarth2
 54a150dccabf8a37ce330a0d7a874470 com.OFC.card.EXE5-093-MeteorEarth1
 a2ac16f290472e60cafa4d4bf09c979f com.alrysc.card.CacheSP
-f2e02671573f8dd01d5ff76a4ae0d35e com.OFC.card.EXE5-230-SearchManSP
+aaa46ec1973a4ef672a34daff19a6509 com.OFC.card.EXE5-230-SearchManSP
 37c874fb8ff749edb6331be76d9637a6 com.OFC.card.EXE5-229-SearchMan
 93c490c8af3118c494e98dc8b672946f com.OFC.card.EXE5-231-SearchManDS
 373022a7aaba607aaeff6e0e6b8dd859 VoltinelV3.Xceed
@@ -1486,9 +1486,9 @@ d7d79f2178f8ac9ea37bcbae8ae1c69e com.OFC.card.EXE5-089-CustomBolt1
 50240950da54e981d0701109d25afc0c com.alrysc.card.SwordFighter1
 a5ba18e8a17482d9414e238beabb35fc com.alrysc.card.SwordFighterX
 788a3947dbfef654c4926857078eddcc com.OFC.card.EXE4-134-Yukashita
-b89aa03d2da5d49889ae69d493358556 com.OFC.card.EXE6-254-GroundManSP
-b2ad9d4b99bd159d1e5350c346c9a22b com.OFC.card.EXE6-253-GroundManEX
-4af95bcee70ac52878c0e0e6f2d3d116 com.OFC.card.EXE6-252-GroundMan
+bdcb16213263f11e3d97366011187af4 com.OFC.card.EXE6-254-GroundManSP
+448500257bf5ab35e3195398f4c73020 com.OFC.card.EXE6-253-GroundManEX
+7301d7f3e36d84bf6abf4bb31272887c com.OFC.card.EXE6-252-GroundMan
 81dc5ee969e44d0d41c834af1a34f263 com.OFC.card.EXE6-110-BurnSquare3
 260b81f3d9e286a821b48e5125591b26 com.OFC.card.EXE6-109-BurnSquare2
 d6800a4e9f8ed9c892c960a95a07b553 com.OFC.card.EXE6-108-BurnSquare1
@@ -1496,12 +1496,12 @@ d6800a4e9f8ed9c892c960a95a07b553 com.OFC.card.EXE6-108-BurnSquare1
 68bea7918ba9e89175fac2704cf7ad8d com.OFC.card.EXE6-092-ReflecMet2
 fb020e71785276713a855725ea7ec221 com.OFC.card.EXE6-091-ReflecMet1
 09a959bfd8388905477853ddb6fbfbcc com.OFC.card.EXE4-250-BurnerManDS
-422ef5ed9566e25437c472851535a7dd com.OFC.card.EXE4-249-BurnerManSP
+c8e1fa41a3fc0c3c6b4483799138bf6a com.OFC.card.EXE4-249-BurnerManSP
 0f6ec9f486a62c4eb59334a98dd68c58 com.OFC.card.EXE4-248-BurnerMan
 8b12be1d1418bca51c33fbe1111dcea6 com.OFC.card.EXE5-264-ShadeManDS
-070d898a2367e4f5bf23503f574a38a1 com.OFC.card.EXE5-263-ShadeManSP
+7b80cb2d63610225bd6423b4af1cda2e com.OFC.card.EXE5-263-ShadeManSP
 cd1cebcb04c9d64f5d1934ce1c7cc1e1 com.OFC.card.EXE5-262-ShadeMan
-e4ce36a6a434c64392663a20ca654bf1 com.OFC.card.EXE5-272-SwallowManSP
+90b80d39272bec3655ad7a55383ef4e4 com.OFC.card.EXE5-272-SwallowManSP
 71e4eac5ed06d8729d09ebacfefb28aa com.OFC.card.EXE5-271-SwallowMan
 5f63616c3c0251394f7a1d17693b02fb com.OFC.card.EXE5-273-SwallowManDS
 58f1f766f5a7fbd354e893e8e8e50556 com.OFC.card.EXE6-197-Attack+30
