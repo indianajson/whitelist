@@ -1234,9 +1234,6 @@ f72f0cb4238190a4c86a098bb9927c6e com.OFC.card.EXE6-076-AquaSword
 2f0e4be6a32ce4e7604ebcc8bf427e6f com.seabitty.rockcube2
 bbe4ffeaa51f08a2e5e06ef8f4ef06ed com.seabitty.darkcube
 42666358ba4f4d0bec167545ecdaedb1 com.seabitty.rockcube3
-8e61b280909b31c7e89743a8642c299d com.OFC.card.EXE6-272-ElementManSP
-8a7a80822236afacf3bcd07a659c8821 com.OFC.card.EXE6-271-ElementManEX
-ffebebc4786339f19274627212c1fb68 com.OFC.card.EXE6-270-ElementMan
 1aa9f56035e1def6c6c8833773a59a2d com.OFC.card.EXE6-242-ChargeManSP
 a4fccc4c13ffbf5fca49485fb5b2b9c6 com.OFC.card.EXE6-241-ChargeManEX
 7c0bed1b0459eddc34f0770bd7d95522 com.OFC.card.EXE6-240-ChargeMan
@@ -1291,14 +1288,13 @@ f1ac0df6e0fd781d97c2bca60a6ce395 com.OFC.card.EXE6-231-ElecMan
 b31079d4dbbe630551f90cf0efda551c com.OFC.card.EXE6-118-KillerSensor3
 c2073649b5af70291f2bec3fc7ad9b8b com.OFC.card.EXE6-117-KillerSensor2
 98a03e4b7f777907af40ad27625c2554 com.OFC.card.EXE6-116-KillerSensor1
-47f2bb964c92d39ce498a433b360646a com.OFC.card.EXE6-163-Recovery300
-319bf4ca628da0aa7bd3576a3d990e4a com.OFC.card.EXE6-162-Recovery200
-82c8c09d0525c8dfebe43ee95dcec0fe com.OFC.card.EXE6-161-Recovery150
-4a6a300ce3a0db423ea9e51a69a2eb19 com.OFC.card.EXE6-160-Recovery120
-690947814e726d3aa7b001b3e7375afd com.OFC.card.EXE6-159-Recovery80
-8e6b75d056abdfff5ff647b2dc772c98 com.OFC.card.EXE6-158-Recovery50
-df95c658376fd044c54dd87acda29830 com.OFC.card.EXE6-157-Recovery30
-e98532e210cfa74e7270a6b26041801e com.OFC.card.EXE6-156-Recovery10
+523b324dc34561c5f5097fde58325566 com.OFC.card.EXE6-162-Recovery200
+b87a2923a3051262c0dbfe91a848bb5b com.OFC.card.EXE6-161-Recovery150
+15bfc0127b2a66008fb44c2c1bd36062 com.OFC.card.EXE6-160-Recovery120
+63db183c44c16df54874b757b541cacd com.OFC.card.EXE6-159-Recovery80
+027eb4c21344cf356f25ad476b68ceea com.OFC.card.EXE6-158-Recovery50
+6458abe25f4154ec89095830176bf3f1 com.OFC.card.EXE6-157-Recovery30
+2431d156fabba0247ebdaa65f43ebd29 com.OFC.card.EXE6-156-Recovery10
 16b2fa70055ba32ea46f92b289c1316f com.OFC.card.EXE6-173-GoingRoad
 3c8d3a27e95de2914aa066c20205539e com.OFC.card.EXE6-172-ComingRoad
 c5f78e7d844c426d688a42773d761788 com.OFC.card.EXE6-171-Sanctuary
@@ -1485,7 +1481,7 @@ d7d79f2178f8ac9ea37bcbae8ae1c69e com.OFC.card.EXE5-089-CustomBolt1
 933a7da5d2a892f4084228174eb2a0b2 com.alrysc.card.SwordFighter2
 50240950da54e981d0701109d25afc0c com.alrysc.card.SwordFighter1
 a5ba18e8a17482d9414e238beabb35fc com.alrysc.card.SwordFighterX
-788a3947dbfef654c4926857078eddcc com.OFC.card.EXE4-134-Yukashita
+73ddefb60941acaf1b09dfe98efa002e com.OFC.card.EXE4-134-Yukashita
 bdcb16213263f11e3d97366011187af4 com.OFC.card.EXE6-254-GroundManSP
 448500257bf5ab35e3195398f4c73020 com.OFC.card.EXE6-253-GroundManEX
 7301d7f3e36d84bf6abf4bb31272887c com.OFC.card.EXE6-252-GroundMan
@@ -1516,3 +1512,4 @@ c55082f182438cfc7854b6a76a72c3b3 com.OFC.card.EXE3-208-Lightning
 9b6959530e3ebd7ade0e9acb0aa9477d com.OFC.card.EXE3-206-ChikasuiMyaku
 3e9a5fa1b72b3e087591e8d86bf4c8ce com.OFC.card.EXE3-205-Salamander
 c2442d13bd76d8f635c1784a6f2d8b8f com.OFC.card.EXE3-204-Prominence
+e9b803387d1ebdc223e93b660570f49d com.OFC.card.EXE6-195-LifeSynchro

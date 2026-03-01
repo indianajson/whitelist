@@ -50674,130 +50674,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_OFC_card_EXE6_272_ElementManSP": {
-    "data": {
-      "type": "cards",
-      "id": "com.OFC.card.EXE6-272-ElementManSP",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_OFC_card_EXE6_272_ElementManSP_icon.png",
-        "preview": "images\\com_OFC_card_EXE6_272_ElementManSP_preview.png",
-        "codes": [
-          "E"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "ElmntMnSP",
-          "damage": 777,
-          "time_freeze": true,
-          "element": "None",
-          "description": "Hit A whn\nclr chngs\nelem attk",
-          "long_description": "Press A to stop the color change of the element attack",
-          "card_class": "Mega",
-          "limit": 1
-        },
-        "icon_zip": "./icon.png",
-        "preview_zip": "./preview.png"
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1745057154208,
-      "discord_url": "https://cdn.discordapp.com/attachments/1356679005105033297/1363093242362593330/EXE6-272-ElementManSP.zip?ex=6804c702&is=68037582&hm=6e427605af1d4ca008b87ac03e733da3d70e7ea8d1da81c2dd8727427af0d050&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE6-272-ElementManSP.zip",
-      "attachment_id": "1363093242362593330",
-      "thread_id": "1356679005105033297",
-      "thread_name": "[OFC][CHIP][EXE6/BN6] ElementMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_OFC_card_EXE6_271_ElementManEX": {
-    "data": {
-      "type": "cards",
-      "id": "com.OFC.card.EXE6-271-ElementManEX",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_OFC_card_EXE6_271_ElementManEX_icon.png",
-        "preview": "images\\com_OFC_card_EXE6_271_ElementManEX_preview.png",
-        "codes": [
-          "E"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "ElmntMnEX",
-          "damage": 120,
-          "time_freeze": true,
-          "element": "None",
-          "description": "Hit A whn\nclr chngs\nelem attk",
-          "long_description": "Press A to stop the color change of the element attack",
-          "card_class": "Mega",
-          "limit": 1
-        },
-        "icon_zip": "./icon.png",
-        "preview_zip": "./preview.png"
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1745057154208,
-      "discord_url": "https://cdn.discordapp.com/attachments/1356679005105033297/1363093241829789827/EXE6-271-ElementManEX.zip?ex=6804c701&is=68037581&hm=b68fb17fa4d7c1aacc04b1425eeba13b5ecb1ef6e59acc8e1b245ada01d29624&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE6-271-ElementManEX.zip",
-      "attachment_id": "1363093241829789827",
-      "thread_id": "1356679005105033297",
-      "thread_name": "[OFC][CHIP][EXE6/BN6] ElementMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_OFC_card_EXE6_270_ElementMan": {
-    "data": {
-      "type": "cards",
-      "id": "com.OFC.card.EXE6-270-ElementMan",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_OFC_card_EXE6_270_ElementMan_icon.png",
-        "preview": "images\\com_OFC_card_EXE6_270_ElementMan_preview.png",
-        "codes": [
-          "E",
-          "*"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "ElmntMan",
-          "damage": 100,
-          "time_freeze": true,
-          "element": "None",
-          "description": "Hit A whn\nclr chngs\nelem attk",
-          "long_description": "Press A to stop the color change of the element attack",
-          "card_class": "Mega",
-          "limit": 1
-        },
-        "icon_zip": "./icon.png",
-        "preview_zip": "./preview.png"
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1745057154208,
-      "discord_url": "https://cdn.discordapp.com/attachments/1356679005105033297/1363093241246912632/EXE6-270-ElementMan.zip?ex=6804c701&is=68037581&hm=575c4ce9e4e1ca5586b9f0bf8a16e126f966901610abc18bfe88ebaba545720f&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE6-270-ElementMan.zip",
-      "attachment_id": "1363093241246912632",
-      "thread_id": "1356679005105033297",
-      "thread_name": "[OFC][CHIP][EXE6/BN6] ElementMan series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_OFC_card_EXE6_242_ChargeManSP": {
     "data": {
       "type": "cards",
@@ -53074,49 +52950,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_OFC_card_EXE6_163_Recovery300": {
-    "data": {
-      "type": "cards",
-      "id": "com.OFC.card.EXE6-163-Recovery300",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_OFC_card_EXE6_163_Recovery300_icon.png",
-        "preview": "images\\com_OFC_card_EXE6_163_Recovery300_preview.png",
-        "codes": [
-          "J",
-          "O",
-          "Y"
-        ],
-        "props": {
-          "can_boost": false,
-          "shortname": "Recov300",
-          "damage": 0,
-          "time_freeze": false,
-          "element": "None",
-          "description": "Recovers\n300HP",
-          "long_description": "Recovers 300 HP",
-          "card_class": "Standard",
-          "limit": 2
-        },
-        "icon_zip": "./icon.png",
-        "preview_zip": "./preview.png"
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477025567539397/com_OFC_card_EXE6_163_Recovery300.zip?ex=698085fb&is=697f347b&hm=414d314db83160ab25ac34324913446581354cc53c3e46f23e4edd53365e8a3a&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "com_OFC_card_EXE6_163_Recovery300.zip",
-      "attachment_id": "1467477025567539397",
-      "thread_id": "913963367595667506",
-      "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_OFC_card_EXE6_162_Recovery200": {
     "data": {
       "type": "cards",
@@ -53141,19 +52974,22 @@
           "description": "Recovers\n200HP",
           "long_description": "Recovers 200 HP",
           "card_class": "Standard",
-          "limit": 2
+          "limit": 2,
+          "meta_classes": [
+            "Recovery"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477025290981520/com_OFC_card_EXE6_162_Recovery200.zip?ex=698085fb&is=697f347b&hm=4e64a6a0707f9210ea863773f25f5eb6acdf818459c6111b54d615f27d8c6539&",
+      "timestamp": 1772287334573,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304896700289066/com_OFC_card_EXE6_162_Recovery200.zip?ex=69a446e6&is=69a2f566&hm=01960fc0b3e34606162fe5f9a5ecfcaed3238fb4fff068d366a2aa484bd0763a&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_162_Recovery200.zip",
-      "attachment_id": "1467477025290981520",
+      "attachment_id": "1477304896700289066",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53184,19 +53020,22 @@
           "description": "Recovers\n150HP",
           "long_description": "Recovers 150 HP",
           "card_class": "Standard",
-          "limit": 3
+          "limit": 3,
+          "meta_classes": [
+            "Recovery"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477024934199306/com_OFC_card_EXE6_161_Recovery150.zip?ex=698085fb&is=697f347b&hm=f5366e125777293cc05f54781b3c2cbb07ab821dde6e36218525f7792717802c&",
+      "timestamp": 1772287334573,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304896373129246/com_OFC_card_EXE6_161_Recovery150.zip?ex=69a446e6&is=69a2f566&hm=0cf15824c8a199d8d9fe35d74479f4d964ba6efeff95fbc9f7f7435aa1aa9944&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_161_Recovery150.zip",
-      "attachment_id": "1467477024934199306",
+      "attachment_id": "1477304896373129246",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53227,19 +53066,22 @@
           "description": "Recovers\n120HP",
           "long_description": "Recovers 120 HP",
           "card_class": "Standard",
-          "limit": 3
+          "limit": 3,
+          "meta_classes": [
+            "Recovery"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477024552652935/com_OFC_card_EXE6_160_Recovery120.zip?ex=698085fb&is=697f347b&hm=ece3920f2208853643de16edda11c4a7f7be472c9e26a650cfc89fec36b2c2ad&",
+      "timestamp": 1772287334573,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304895651450880/com_OFC_card_EXE6_160_Recovery120.zip?ex=69a446e6&is=69a2f566&hm=70932c1544d860f6d28d5c520ea642d33c8896d3fbb7baa530400fa64658cac7&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_160_Recovery120.zip",
-      "attachment_id": "1467477024552652935",
+      "attachment_id": "1477304895651450880",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53271,19 +53113,22 @@
           "description": "Recovers\n80HP",
           "long_description": "Recovers 80 HP",
           "card_class": "Standard",
-          "limit": 4
+          "limit": 4,
+          "meta_classes": [
+            "Recovery"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477024217239674/com_OFC_card_EXE6_159_Recovery80.zip?ex=698085fa&is=697f347a&hm=e32485e815b8dc806c07d6305231448d4292d940796c036b66018380b63cd3ee&",
+      "timestamp": 1772287334573,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304895077093377/com_OFC_card_EXE6_159_Recovery80.zip?ex=69a446e5&is=69a2f565&hm=39c3a72f213eefd7db7b9d9c04e9db7d6327e7a571452ca7a535da2e5d0b3f3e&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_159_Recovery80.zip",
-      "attachment_id": "1467477024217239674",
+      "attachment_id": "1477304895077093377",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53315,19 +53160,22 @@
           "description": "Recovers\n50HP",
           "long_description": "Recovers 50 HP",
           "card_class": "Standard",
-          "limit": 5
+          "limit": 5,
+          "meta_classes": [
+            "Recovery"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477023986290749/com_OFC_card_EXE6_158_Recovery50.zip?ex=698085fa&is=697f347a&hm=b1fb0b333df77d3f6cb01a3038e035211ce86f76e3e2a09e686a0979ef49d813&",
+      "timestamp": 1772287334573,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304894544412784/com_OFC_card_EXE6_158_Recovery50.zip?ex=69a446e5&is=69a2f565&hm=217725065710fea707526bec598165762e0847f6f603b42a4c41feb0e06ebf1c&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_158_Recovery50.zip",
-      "attachment_id": "1467477023986290749",
+      "attachment_id": "1477304894544412784",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53359,19 +53207,22 @@
           "description": "Recovers\n30HP",
           "long_description": "Recovers 30 HP",
           "card_class": "Standard",
-          "limit": 5
+          "limit": 5,
+          "meta_classes": [
+            "Recovery"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477023768445012/com_OFC_card_EXE6_157_Recovery30.zip?ex=698085fa&is=697f347a&hm=34469869ef45d7edd04bc5018f8663a7e35af85f8db2eb6e198bd8a604db80e6&",
+      "timestamp": 1772287334573,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304894066266255/com_OFC_card_EXE6_157_Recovery30.zip?ex=69a446e5&is=69a2f565&hm=eeef80715daa622c50e89f4a6c7573a8293f86af7ccc33cf60ec5fff6a9a0679&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_157_Recovery30.zip",
-      "attachment_id": "1467477023768445012",
+      "attachment_id": "1477304894066266255",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53403,19 +53254,22 @@
           "description": "Recovers\n10HP",
           "long_description": "Recovers 10 HP",
           "card_class": "Standard",
-          "limit": 5
+          "limit": 5,
+          "meta_classes": [
+            "Recovery"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769944187366,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1467477023424516232/com_OFC_card_EXE6_156_Recovery10.zip?ex=698085fa&is=697f347a&hm=63e26dffd27922230ff06da8c6901526d65be033b18fb3426be3dfe95e104bcf&",
+      "timestamp": 1772287334573,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304893558624287/com_OFC_card_EXE6_156_Recovery10.zip?ex=69a446e5&is=69a2f565&hm=61c6da24bdcdb5a3f0ed2ca4f6362630e295e570147af909ce6ab64d48dd9512&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_156_Recovery10.zip",
-      "attachment_id": "1467477023424516232",
+      "attachment_id": "1477304893558624287",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -61252,19 +61106,22 @@
           "description": "Attacks\nfrm under\nground",
           "long_description": "Mole only appears when attacking from under ground",
           "card_class": "Standard",
-          "limit": 4
+          "limit": 4,
+          "meta_classes": [
+            "RushSupport"
+          ]
         },
         "icon_zip": "./icon.png",
         "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1769549927653,
-      "discord_url": "https://cdn.discordapp.com/attachments/1465821526967451841/1465823380451098686/EXE4-134-Yukashita.zip?ex=697a81e7&is=69793067&hm=b26283255e02461a93c6b3bcf8d02c281bf5aefb92d5d529a2f52396a816a7ae&",
+      "timestamp": 1772293273012,
+      "discord_url": "https://cdn.discordapp.com/attachments/1465821526967451841/1477329804696227884/com_OFC_card_EXE4_134_Yukashita.zip?ex=69a45e18&is=69a30c98&hm=173ffa459e227577dcf7f02231c7fc1f4ef69c2a3e429cfcfcada77b0a07da4f&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
-      "original_filename": "EXE4-134-Yukashita.zip",
-      "attachment_id": "1465823380451098686",
+      "original_filename": "com_OFC_card_EXE4_134_Yukashita.zip",
+      "attachment_id": "1477329804696227884",
       "thread_id": "1465821526967451841",
       "thread_name": "[OFC][CHIP][EXE4/BN4][EXE4.5] Yukashita/Yukashita Mogura (Pop Up/Mole)",
       "channel_id": "865079018704994355",
@@ -62557,6 +62414,47 @@
       "attachment_id": "1475991586193150146",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_195_LifeSynchro": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-195-LifeSynchro",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_195_LifeSynchro_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_195_LifeSynchro_preview.png",
+        "codes": [
+          "*"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "LifeSync",
+          "damage": 0,
+          "time_freeze": true,
+          "element": "Cursor",
+          "description": "Crsr 2sq!\nHP same\nas enemy",
+          "long_description": "Cursor to the enemy 2 squares ahead! Makes HP same as the enemy's",
+          "card_class": "Standard",
+          "limit": 5
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772306105925,
+      "discord_url": "https://cdn.discordapp.com/attachments/1477299774838411418/1477383630056722503/com_OFC_card_EXE6_195_LifeSynchro.zip?ex=69a49039&is=69a33eb9&hm=bbd1b24ceaa6a37125d1e5e2b71a204b5f893db1552eab2aa29a4be9fa41e4a6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_195_LifeSynchro.zip",
+      "attachment_id": "1477383630056722503",
+      "thread_id": "1477299774838411418",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Life Synchro",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
