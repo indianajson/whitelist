@@ -552,42 +552,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_claris_chip_Tornado": {
-    "data": {
-      "type": "cards",
-      "id": "com.claris.chip.Tornado",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_claris_chip_Tornado_icon.png",
-        "preview": "images\\com_claris_chip_Tornado_preview.png",
-        "codes": [
-          "T"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "Tornado",
-          "damage": 20,
-          "time_freeze": false,
-          "element": "Wind",
-          "description": "8 attack storm 2sq ahead"
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1641573597178,
-      "discord_url": "https://cdn.discordapp.com/attachments/913619435045154826/929051745726894130/tornado.zip",
-      "author_name": "Maplewood",
-      "author_id": "191035809820835840",
-      "original_filename": "tornado.zip",
-      "attachment_id": "929051745726894130",
-      "thread_id": "913619435045154826",
-      "thread_name": "[OFC][BN6] Tornado",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_dawn_card_AreaEater": {
     "data": {
       "type": "cards",
@@ -2548,44 +2512,6 @@
       "author_id": "158187211089641473",
       "original_filename": "Cyclone.zip",
       "attachment_id": "937818669982048307",
-      "thread_id": "937818637388120064",
-      "thread_name": "[OFC] [Mix] [CHIP] Tornado Series",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "rune_legacy_static": {
-    "data": {
-      "type": "cards",
-      "id": "rune.legacy.static",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\rune_legacy_static_icon.png",
-        "preview": "images\\rune_legacy_static_preview.png",
-        "codes": [
-          "G",
-          "S",
-          "V"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "Static",
-          "damage": 20,
-          "time_freeze": false,
-          "element": "None",
-          "description": "A static blast 2sq ahead"
-        }
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1643663803015,
-      "discord_url": "https://cdn.discordapp.com/attachments/937818637388120064/937818704702472263/Static.zip",
-      "author_name": "Rubedo",
-      "author_id": "158187211089641473",
-      "original_filename": "Static.zip",
-      "attachment_id": "937818704702472263",
       "thread_id": "937818637388120064",
       "thread_name": "[OFC] [Mix] [CHIP] Tornado Series",
       "channel_id": "865079018704994355",
@@ -49694,49 +49620,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_OFC_card_EXE6_086_MachineSword": {
-    "data": {
-      "type": "cards",
-      "id": "com.OFC.card.EXE6-086-MachineSword",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "",
-      "detail": {
-        "icon": "images\\com_OFC_card_EXE6_086_MachineSword_icon.png",
-        "preview": "images\\com_OFC_card_EXE6_086_MachineSword_preview.png",
-        "codes": [
-          "J",
-          "M",
-          "U"
-        ],
-        "props": {
-          "can_boost": true,
-          "shortname": "ElemSwrd",
-          "damage": 220,
-          "time_freeze": false,
-          "element": "None",
-          "description": "Cut foes\non grass,\nice, crtr",
-          "long_description": "Cut enemies on grass, ice, and crater panels!",
-          "card_class": "Standard",
-          "limit": 2
-        },
-        "icon_zip": "./icon.png",
-        "preview_zip": "./preview.png"
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1743344014153,
-      "discord_url": "https://cdn.discordapp.com/attachments/1354083207770804296/1355907812231876798/EXE6-086-ElementSword.zip?ex=67eaa30d&is=67e9518d&hm=5fb25cf487bc482cc57e02c9f5c1279b3d02c3251fad0d2fd1bb218b3c509a06&",
-      "author_name": "k1rbyat1na",
-      "author_id": "239009201530208256",
-      "original_filename": "EXE6-086-ElementSword.zip",
-      "attachment_id": "1355907812231876798",
-      "thread_id": "1354083207770804296",
-      "thread_name": "[OFC][CHIP][EXE6/BN6] Element Sword",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_OFC_card_EXE6_018_YoYo": {
     "data": {
       "type": "cards",
@@ -52984,12 +52867,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1772287334573,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304896700289066/com_OFC_card_EXE6_162_Recovery200.zip?ex=69a446e6&is=69a2f566&hm=01960fc0b3e34606162fe5f9a5ecfcaed3238fb4fff068d366a2aa484bd0763a&",
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687431292780665/com_OFC_card_EXE6_162_Recovery200.zip?ex=69a5ab29&is=69a459a9&hm=97de6d9ccce791ba2b8f6290750336a66f779a3e26303829ff364ebe09736116&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_162_Recovery200.zip",
-      "attachment_id": "1477304896700289066",
+      "attachment_id": "1477687431292780665",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53030,12 +52913,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1772287334573,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304896373129246/com_OFC_card_EXE6_161_Recovery150.zip?ex=69a446e6&is=69a2f566&hm=0cf15824c8a199d8d9fe35d74479f4d964ba6efeff95fbc9f7f7435aa1aa9944&",
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687431011766293/com_OFC_card_EXE6_161_Recovery150.zip?ex=69a5ab29&is=69a459a9&hm=364a1e34df5e72b89569c465dc59c4686b1660174fc33831150c15685725aecb&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_161_Recovery150.zip",
-      "attachment_id": "1477304896373129246",
+      "attachment_id": "1477687431011766293",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53076,12 +52959,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1772287334573,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304895651450880/com_OFC_card_EXE6_160_Recovery120.zip?ex=69a446e6&is=69a2f566&hm=70932c1544d860f6d28d5c520ea642d33c8896d3fbb7baa530400fa64658cac7&",
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687430608847102/com_OFC_card_EXE6_160_Recovery120.zip?ex=69a5ab29&is=69a459a9&hm=fbc3c0ddc6178dab7460af73695f19a233cade979627c33f59da1e0cb66bb00d&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_160_Recovery120.zip",
-      "attachment_id": "1477304895651450880",
+      "attachment_id": "1477687430608847102",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53123,12 +53006,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1772287334573,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304895077093377/com_OFC_card_EXE6_159_Recovery80.zip?ex=69a446e5&is=69a2f565&hm=39c3a72f213eefd7db7b9d9c04e9db7d6327e7a571452ca7a535da2e5d0b3f3e&",
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687430357450822/com_OFC_card_EXE6_159_Recovery80.zip?ex=69a5ab29&is=69a459a9&hm=c5beb3b966b67867939045f5b954d6c0bb1b2840726681c0e732366c7de3b91b&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_159_Recovery80.zip",
-      "attachment_id": "1477304895077093377",
+      "attachment_id": "1477687430357450822",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53170,12 +53053,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1772287334573,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304894544412784/com_OFC_card_EXE6_158_Recovery50.zip?ex=69a446e5&is=69a2f565&hm=217725065710fea707526bec598165762e0847f6f603b42a4c41feb0e06ebf1c&",
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687430109990923/com_OFC_card_EXE6_158_Recovery50.zip?ex=69a5ab29&is=69a459a9&hm=c2487e79db1bd9bf38741a6c2529fc898560f82f4d9183f084b6bd705e4ee5b0&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_158_Recovery50.zip",
-      "attachment_id": "1477304894544412784",
+      "attachment_id": "1477687430109990923",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53217,12 +53100,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1772287334573,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304894066266255/com_OFC_card_EXE6_157_Recovery30.zip?ex=69a446e5&is=69a2f565&hm=eeef80715daa622c50e89f4a6c7573a8293f86af7ccc33cf60ec5fff6a9a0679&",
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687429833031914/com_OFC_card_EXE6_157_Recovery30.zip?ex=69a5ab29&is=69a459a9&hm=ff3e79820e6aed79941a03bd14738353193b67fc364d5856043b70d02eb35fa9&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_157_Recovery30.zip",
-      "attachment_id": "1477304894066266255",
+      "attachment_id": "1477687429833031914",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -53264,12 +53147,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1772287334573,
-      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477304893558624287/com_OFC_card_EXE6_156_Recovery10.zip?ex=69a446e5&is=69a2f565&hm=61c6da24bdcdb5a3f0ed2ca4f6362630e295e570147af909ce6ab64d48dd9512&",
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687429560533174/com_OFC_card_EXE6_156_Recovery10.zip?ex=69a5ab29&is=69a459a9&hm=9dc4e0cbdbd261c5e8918d03491480b3b1e54395ea50024fe8beefa0a3cc2e5d&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE6_156_Recovery10.zip",
-      "attachment_id": "1477304893558624287",
+      "attachment_id": "1477687429560533174",
       "thread_id": "913963367595667506",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
       "channel_id": "865079018704994355",
@@ -62112,12 +61995,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991588584030278/com_OFC_card_EXE3_211_GaiaBlade.zip?ex=699f7fc9&is=699e2e49&hm=bf29d8a793bbffe5c2bc114a0415e0454e6840532a66c78e04342160e9f16ff9&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611404633702581/com_OFC_card_EXE3_211_GaiaBlade.zip?ex=69a5645b&is=69a412db&hm=a17ce3b79b72e64050425224b36dc609497889eb1bb4ebe1288731fcb81b3e6e&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_211_GaiaBlade.zip",
-      "attachment_id": "1475991588584030278",
+      "attachment_id": "1477611404633702581",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62154,12 +62037,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991588155953265/com_OFC_card_EXE3_210_GaiaSword.zip?ex=699f7fc9&is=699e2e49&hm=53fda87b961dcd4865e5797ca09368f3c08f8f92f999afcf6450fc202a5601b3&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611404340105256/com_OFC_card_EXE3_210_GaiaSword.zip?ex=69a5645b&is=69a412db&hm=a6b1e10d6019fd37ce6b821b930218b7033ddf7103fe0cd46a570def10ed2673&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_210_GaiaSword.zip",
-      "attachment_id": "1475991588155953265",
+      "attachment_id": "1477611404340105256",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62196,12 +62079,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991587820404797/com_OFC_card_EXE3_209_Thunderbolt.zip?ex=699f7fc9&is=699e2e49&hm=3a35c9d2183a223653963dd4dbf549c9a5de69d97dedab673301b111c119fc50&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611403983716372/com_OFC_card_EXE3_209_Thunderbolt.zip?ex=69a5645b&is=69a412db&hm=87da26dadea7e5690ad3fa125769ac41ec133f1671f1ef26f5641ea64c05417b&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_209_Thunderbolt.zip",
-      "attachment_id": "1475991587820404797",
+      "attachment_id": "1477611403983716372",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62238,12 +62121,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991587535458485/com_OFC_card_EXE3_208_Lightning.zip?ex=699f7fc9&is=699e2e49&hm=93ac5ef9e463ddb961778cbec08eb8850206ed48696144a5fedcbc864f79bb67&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611403501375613/com_OFC_card_EXE3_208_Lightning.zip?ex=69a5645b&is=69a412db&hm=3d04bcd5fa6f6f62894b7b0816a9070ecca5a575ded76d4101414135ab018471&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_208_Lightning.zip",
-      "attachment_id": "1475991587535458485",
+      "attachment_id": "1477611403501375613",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62280,12 +62163,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991587183005778/com_OFC_card_EXE3_207_Daifunsui.zip?ex=699f7fc8&is=699e2e48&hm=a5c13482a7c7189a02dc298c68aae5fede89c6b0c247defd027db6ba24ecead4&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611403249455196/com_OFC_card_EXE3_207_Daifunsui.zip?ex=69a5645b&is=69a412db&hm=50dcd7d968f801034fc7746e660fa4652e045c438a9b5a10c38e9dfd8c0f23b3&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_207_Daifunsui.zip",
-      "attachment_id": "1475991587183005778",
+      "attachment_id": "1477611403249455196",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62322,12 +62205,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991586914697351/com_OFC_card_EXE3_206_ChikasuiMyaku.zip?ex=699f7fc8&is=699e2e48&hm=83442c03a84b3e7f3763722f1cc6556c85739a634e9f06205112c0720055293d&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611402997923943/com_OFC_card_EXE3_206_ChikasuiMyaku.zip?ex=69a5645b&is=69a412db&hm=af95ecc58e1912c75e5fc7d19d7410d100f626d14a51fd81180fcf32d0d0f347&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_206_ChikasuiMyaku.zip",
-      "attachment_id": "1475991586914697351",
+      "attachment_id": "1477611402997923943",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62364,12 +62247,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991586608517140/com_OFC_card_EXE3_205_Salamander.zip?ex=699f7fc8&is=699e2e48&hm=3a9800aeeed8e6f156135b71b8ad1b9c9b6ebff8761a4e2a79e103ff0a880c22&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611402746269759/com_OFC_card_EXE3_205_Salamander.zip?ex=69a5645b&is=69a412db&hm=d1bf3428a521735e9ca3f2d6bf3e2747661b7560c83ba2076c8c646f06ef70e3&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_205_Salamander.zip",
-      "attachment_id": "1475991586608517140",
+      "attachment_id": "1477611402746269759",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62406,12 +62289,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771974217391,
-      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1475991586193150146/com_OFC_card_EXE3_204_Prominence.zip?ex=699f7fc8&is=699e2e48&hm=e618ba4c34ffcb09db27dc8b84f1087e7d1933ffcf1dfe7a846e7fc4319e9533&",
+      "timestamp": 1772360411610,
+      "discord_url": "https://cdn.discordapp.com/attachments/1475991455448436912/1477611402473767054/com_OFC_card_EXE3_204_Prominence.zip?ex=69a5645b&is=69a412db&hm=922fa6615e1b2cb9b1e755dc1e1abbdfb054cf4d96892acdf6b0962929a0e56f&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_card_EXE3_204_Prominence.zip",
-      "attachment_id": "1475991586193150146",
+      "attachment_id": "1477611402473767054",
       "thread_id": "1475991455448436912",
       "thread_name": "[OFC][CHIP][EXE3/BN3] Style Change-related chips",
       "channel_id": "865079018704994355",
@@ -62455,6 +62338,400 @@
       "attachment_id": "1477383630056722503",
       "thread_id": "1477299774838411418",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Life Synchro",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_163_Recovery300": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-163-Recovery300",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_163_Recovery300_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_163_Recovery300_preview.png",
+        "codes": [
+          "J",
+          "O",
+          "Y"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "Recov300",
+          "damage": 0,
+          "time_freeze": false,
+          "element": "None",
+          "description": "Recovers\n300HP",
+          "long_description": "Recovers 300 HP",
+          "card_class": "Standard",
+          "limit": 2,
+          "meta_classes": [
+            "Recovery"
+          ]
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772378537769,
+      "discord_url": "https://cdn.discordapp.com/attachments/913963367595667506/1477687431557025893/com_OFC_card_EXE6_163_Recovery300.zip?ex=69a5ab29&is=69a459a9&hm=7e036b61fb29e4ed0a4ae7509edcc49d99f09f7ec4607e317bb8b8e9ce84eb18&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_163_Recovery300.zip",
+      "attachment_id": "1477687431557025893",
+      "thread_id": "913963367595667506",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Recovery series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_272_ElementManSP": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-272-ElementManSP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_272_ElementManSP_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_272_ElementManSP_preview.png",
+        "codes": [
+          "E"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "ElmntMnSP",
+          "damage": 240,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Hit A whn\nclr chngs\nelem attk",
+          "long_description": "Press A to stop the color change of the element attack",
+          "card_class": "Mega",
+          "limit": 1,
+          "meta_classes": [
+            "Navi"
+          ]
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772378561302,
+      "discord_url": "https://cdn.discordapp.com/attachments/1356679005105033297/1477687529212739756/com_OFC_card_EXE6_272_ElementManSP.zip?ex=69a5ab41&is=69a459c1&hm=eae73c4a8d3c9e59fdf489b5ec2c5e819ef2dffb4e5b67e4d8c870c94758f781&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_272_ElementManSP.zip",
+      "attachment_id": "1477687529212739756",
+      "thread_id": "1356679005105033297",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] ElementMan series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_271_ElementManEX": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-271-ElementManEX",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_271_ElementManEX_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_271_ElementManEX_preview.png",
+        "codes": [
+          "E"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "ElmntMnEX",
+          "damage": 120,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Hit A whn\nclr chngs\nelem attk",
+          "long_description": "Press A to stop the color change of the element attack",
+          "card_class": "Mega",
+          "limit": 1,
+          "meta_classes": [
+            "Navi"
+          ]
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772378561302,
+      "discord_url": "https://cdn.discordapp.com/attachments/1356679005105033297/1477687528818741279/com_OFC_card_EXE6_271_ElementManEX.zip?ex=69a5ab40&is=69a459c0&hm=17d2df77f3215f02c0f57d757cf29f3d91910d22273c8315d7fb3d0bb3d30e55&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_271_ElementManEX.zip",
+      "attachment_id": "1477687528818741279",
+      "thread_id": "1356679005105033297",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] ElementMan series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_270_ElementMan": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-270-ElementMan",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_270_ElementMan_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_270_ElementMan_preview.png",
+        "codes": [
+          "E",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "ElmntMan",
+          "damage": 100,
+          "time_freeze": true,
+          "element": "None",
+          "description": "Hit A whn\nclr chngs\nelem attk",
+          "long_description": "Press A to stop the color change of the element attack",
+          "card_class": "Mega",
+          "limit": 1,
+          "meta_classes": [
+            "Navi"
+          ]
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772378561302,
+      "discord_url": "https://cdn.discordapp.com/attachments/1356679005105033297/1477687528277414110/com_OFC_card_EXE6_270_ElementMan.zip?ex=69a5ab40&is=69a459c0&hm=b9115ef39b95bdb05bde05bc53789de87bc5f64ea74785b9d0f3ebfd6fc5331d&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_270_ElementMan.zip",
+      "attachment_id": "1477687528277414110",
+      "thread_id": "1356679005105033297",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] ElementMan series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_054_NoiseStorm": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-054-NoiseStorm",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_054_NoiseStorm_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_054_NoiseStorm_preview.png",
+        "codes": [
+          "G",
+          "S",
+          "V"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "NoisStrm",
+          "damage": 20,
+          "time_freeze": false,
+          "element": "Wind",
+          "description": "NoisStorm\npowers up\nw/bugs!",
+          "long_description": "A NoiseStorm 2 squares ahead! Powers up with bugs",
+          "card_class": "Standard",
+          "limit": 3
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772384362903,
+      "discord_url": "https://cdn.discordapp.com/attachments/1477711247137964102/1477711863675355371/com_OFC_card_EXE6_054_NoiseStorm.zip?ex=69a5c1ea&is=69a4706a&hm=de44644b22d03c1d3eaf4f891a262194e3cd267ee543ee774054deb1f4bb18b2&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_054_NoiseStorm.zip",
+      "attachment_id": "1477711863675355371",
+      "thread_id": "1477711247137964102",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Tornado and Noise Storm (Static)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_053_Tornado": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-053-Tornado",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_053_Tornado_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_053_Tornado_preview.png",
+        "codes": [
+          "L",
+          "R",
+          "T"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "Tornado",
+          "damage": 20,
+          "time_freeze": false,
+          "element": "Wind",
+          "description": "Create 8-\nhit tornd\n2sq ahd!",
+          "long_description": "Creates an 8-hit tornado 2 squares ahead!",
+          "card_class": "Standard",
+          "limit": 5
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772384362903,
+      "discord_url": "https://cdn.discordapp.com/attachments/1477711247137964102/1477711863390277753/com_OFC_card_EXE6_053_Tornado.zip?ex=69a5c1ea&is=69a4706a&hm=41362fd97332dd0485351fde81a391b24deff3f036bc3bd72af7f64319974e9e&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_053_Tornado.zip",
+      "attachment_id": "1477711863390277753",
+      "thread_id": "1477711247137964102",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Tornado and Noise Storm (Static)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_133_AirWheel3": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-133-AirWheel3",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_133_AirWheel3_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_133_AirWheel3_preview.png",
+        "codes": [
+          "N",
+          "O",
+          "T"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "AirWhel3",
+          "damage": 50,
+          "time_freeze": false,
+          "element": "Wind",
+          "description": "Spits out\nwindstorm\nattk arnd",
+          "long_description": "A wheel slides forward to create a windstorm that hits around",
+          "card_class": "Standard",
+          "limit": 3
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772400603838,
+      "discord_url": "https://cdn.discordapp.com/attachments/1477767218023497953/1477779983031337000/com_OFC_card_EXE6_133_AirWheel3.zip?ex=69a6015b&is=69a4afdb&hm=fbff474c60cee15a9714ed5fb43d54d599a4edd67623a51c3ecedb1aa846c593&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_133_AirWheel3.zip",
+      "attachment_id": "1477779983031337000",
+      "thread_id": "1477767218023497953",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Air Wheel (Air Spin) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_132_AirWheel2": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-132-AirWheel2",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_132_AirWheel2_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_132_AirWheel2_preview.png",
+        "codes": [
+          "A",
+          "L",
+          "T"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "AirWhel2",
+          "damage": 50,
+          "time_freeze": false,
+          "element": "Wind",
+          "description": "Spits out\nwindstorm\nattk arnd",
+          "long_description": "A wheel slides forward to create a windstorm that hits around",
+          "card_class": "Standard",
+          "limit": 4
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772400603838,
+      "discord_url": "https://cdn.discordapp.com/attachments/1477767218023497953/1477779982766833674/com_OFC_card_EXE6_132_AirWheel2.zip?ex=69a6015b&is=69a4afdb&hm=a87bdc32539140225a7e6f0a672b5b8dbd1f12eb1dd4c1d8d66560e2c4db8c59&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_132_AirWheel2.zip",
+      "attachment_id": "1477779982766833674",
+      "thread_id": "1477767218023497953",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Air Wheel (Air Spin) series",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_card_EXE6_131_AirWheel1": {
+    "data": {
+      "type": "cards",
+      "id": "com.OFC.card.EXE6-131-AirWheel1",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_OFC_card_EXE6_131_AirWheel1_icon.png",
+        "preview": "images\\com_OFC_card_EXE6_131_AirWheel1_preview.png",
+        "codes": [
+          "F",
+          "G",
+          "R"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "AirWhel1",
+          "damage": 50,
+          "time_freeze": false,
+          "element": "Wind",
+          "description": "Spits out\nwindstorm\nattk arnd",
+          "long_description": "A wheel slides forward to create a windstorm that hits around",
+          "card_class": "Standard",
+          "limit": 4
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772400603838,
+      "discord_url": "https://cdn.discordapp.com/attachments/1477767218023497953/1477779982523568368/com_OFC_card_EXE6_131_AirWheel1.zip?ex=69a6015b&is=69a4afdb&hm=c5e58bab12c745bdbe61585b19869d23b8e132405f853140b883a54b8b68a3f6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_card_EXE6_131_AirWheel1.zip",
+      "attachment_id": "1477779982523568368",
+      "thread_id": "1477767218023497953",
+      "thread_name": "[OFC][CHIP][EXE6/BN6] Air Wheel (Air Spin) series",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

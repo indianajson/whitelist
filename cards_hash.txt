@@ -12,7 +12,6 @@ ce711e789c4921597f69d1c91ab1c780 com.ipc.card.longblade
 7566627c6a6838fe59465fad185e1ea8 com.ipc.card.aquasword
 7b8959991497171868072625053dc056 com.ipc.card.firesword
 68b359516c635b98715091810deeea90 com.ipc.card.elecsword
-e0b65283f9e995e651a79fc50b376cfe com.claris.chip.Tornado
 d869be74cc6a2aa90fa1d283ecd1eb50 com.dawn.card.AreaEater
 8f9aa33863370dfcf681136155d41bc5 com.Thor.card.GoodRush
 5325eb0981fb21f0a7c299ca39bfa8ab com.claris.card.Zapring3
@@ -62,7 +61,6 @@ c475f61b359290a9a0ac3a540dddfa60 com.ijuinpersonalterminalcompany.card.wideshot3
 93303d7d133340c445ca9048877904c1 rune.legacy.airswrd
 0a94e575cfa2b76a2e62fd8d1ea1626b rune.legacy.blower
 7e8d3049050cb20406981378e7d5a66c rune.legacy.cyclone
-35df1dbff293fd1dfcc41efa0e93d956 rune.legacy.static
 b6974736bf892a76f2344fab18b222d0 rune.legacy.twister
 80d49d1b6ffef23fab132de255ffc76c rune.legacy.typhoon
 63920572f69c3d2aba22c7050877e7c4 rune.legacy.huricane
@@ -1211,7 +1209,6 @@ f230e14f980257380284060543a85633 com.OFC.card.EXE6-201-GunDelSolEX
 2cd140a6d9a19a88ebfce17bd7f691dd com.OFC.card.EXE6-056-MachineGun2
 8958e7c43700cb6dc270c0bc94fbd41f com.OFC.card.EXE6-055-MachineGun1
 143d1c481291885812ee1f5a0cbdd3d0 com.OFC.card.EXE6-057-MachineGun3
-2bad565c7a5434c18f471aa2dc42a54a com.OFC.card.EXE6-086-MachineSword
 ee8944d83b41d4d0f010316c3acd0faf com.OFC.card.EXE6-018-YoYo
 2573fc112a939d7c7fb5c9f091dfb8b4 com.OFC.card.EXE6-104-NumberBall
 f19ac8da5e3db97da4be0db3910d20ca com.OFC.card.EXE6-004-AirShoot
@@ -1504,8 +1501,8 @@ cd1cebcb04c9d64f5d1934ce1c7cc1e1 com.OFC.card.EXE5-262-ShadeMan
 96d065b6fe553c004c5445233c84fdcf com.OFC.card.EXE6-196-Attack+10
 04d6c14e66a51339ff60f86e8558beaa com.OFC.card.EXE6-198-Navi+20
 87404a1d7a3a00d040a9d16ee769f699 com.seabitty.NeoDragonoid
-cd53cb912ade245fb3b88880a867dd7e com.OFC.card.EXE3-211-GaiaBlade
-e43ff984218988a34ca5184ce5199fef com.OFC.card.EXE3-210-GaiaSword
+96c234e381190236e784b3d17bbddb83 com.OFC.card.EXE3-211-GaiaBlade
+f5f8ca4eb01f52971a70ef5b68fbc952 com.OFC.card.EXE3-210-GaiaSword
 be25a1db0d635638fb8aee8436479f1b com.OFC.card.EXE3-209-Thunderbolt
 c55082f182438cfc7854b6a76a72c3b3 com.OFC.card.EXE3-208-Lightning
 1506032bda09ae02174329dba0501d3c com.OFC.card.EXE3-207-Daifunsui
@@ -1513,3 +1510,12 @@ c55082f182438cfc7854b6a76a72c3b3 com.OFC.card.EXE3-208-Lightning
 3e9a5fa1b72b3e087591e8d86bf4c8ce com.OFC.card.EXE3-205-Salamander
 c2442d13bd76d8f635c1784a6f2d8b8f com.OFC.card.EXE3-204-Prominence
 e9b803387d1ebdc223e93b660570f49d com.OFC.card.EXE6-195-LifeSynchro
+d2e843355a2e1f32b29a330dfabd69fc com.OFC.card.EXE6-163-Recovery300
+fea22650a5dbbeffc204dcda67e9788a com.OFC.card.EXE6-272-ElementManSP
+de33f897e6d3abf0db8896728c7059af com.OFC.card.EXE6-271-ElementManEX
+12901a0c89a435bbfbd27b00bdb35f18 com.OFC.card.EXE6-270-ElementMan
+6dd36415f961f570b74db78422aa184d com.OFC.card.EXE6-054-NoiseStorm
+ef0b3c3d6ef3774530c12d0a64485956 com.OFC.card.EXE6-053-Tornado
+3c2257d01683cd676bcdcbffc3af5b8d com.OFC.card.EXE6-133-AirWheel3
+a0e9c23417526beec6f9f2491fbd062d com.OFC.card.EXE6-132-AirWheel2
+9a811a6329956ca5179248f826329c59 com.OFC.card.EXE6-131-AirWheel1
