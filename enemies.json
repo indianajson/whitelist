@@ -5322,5 +5322,36 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_Dawn_ShaDis_BN3_Ratty": {
+    "data": {
+      "type": "enemies",
+      "id": "com.Dawn.ShaDis.BN3.Ratty",
+      "dependencies": [],
+      "subpackages": [
+        "com.Dawn.ShaDis.BN3.Enemy.Ratty"
+      ],
+      "name": "Ratty",
+      "detail": {
+        "preview": "images\\com_Dawn_ShaDis_BN3_Ratty_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Go Go Ratton Rangers!",
+      "speed": 1,
+      "attack": 40,
+      "health": 20
+    },
+    "attachment_data": {
+      "timestamp": 1772593036104,
+      "discord_url": "https://cdn.discordapp.com/attachments/1478586941015330990/1478587102445961310/com_Dawn_ShaDis_BN3_Ratty.zip?ex=69a8f10c&is=69a79f8c&hm=aec2bdac6225221ebc415e30480705a8f4057bd8f2ebda1eec662f7798ee57bd&",
+      "author_name": "shadisnx255",
+      "author_id": "947580912172953690",
+      "original_filename": "com_Dawn_ShaDis_BN3_Ratty.zip",
+      "attachment_id": "1478587102445961310",
+      "thread_id": "1478586941015330990",
+      "thread_name": "[BN3] Ratty Boyz Updated",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }

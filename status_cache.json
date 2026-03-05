@@ -13513,5 +13513,95 @@
     "timestamp": 1772479000662,
     "md5": "552770330660dc4847f5ac6f7a1e0ac5",
     "id": "com.OFC.card.EXE6-131-AirWheel1"
+  },
+  "1478839074877079713": {
+    "timestamp": 1772653111097,
+    "md5": "13d35c4d90152adc3e48a20d2c949c87",
+    "id": "com.OFC.card.EXE5-228-GyroManDS"
+  },
+  "1478839074394603674": {
+    "timestamp": 1772653111097,
+    "md5": "42dc69f228ca8698c65729db813f2077",
+    "id": "com.OFC.card.EXE5-227-GyroManSP"
+  },
+  "1478839073589432361": {
+    "timestamp": 1772653111097,
+    "md5": "de76fdace9786dcb0dc574ae61ab7957",
+    "id": "com.OFC.card.EXE5-226-GyroMan"
+  },
+  "1478839301046272050": {
+    "timestamp": 1772653165030,
+    "md5": "ff1d3e11cefdd1cc7f71201253163bb0",
+    "id": "com.OFC.card.EXE5-245-ShadowManSP"
+  },
+  "1478839300698279966": {
+    "timestamp": 1772653165030,
+    "md5": "f662342d490631c3ca681f04cc19e2fc",
+    "id": "com.OFC.card.EXE5-244-ShadowMan"
+  },
+  "1478839301461770311": {
+    "timestamp": 1772653165030,
+    "md5": "39c55d12c2265e77fcc47c1997ad75ab",
+    "id": "com.OFC.card.EXE5-246-ShadowManDS"
+  },
+  "1478839403098144828": {
+    "timestamp": 1772653189362,
+    "md5": "fb9e429c627d81bb88916f0cb99eb736",
+    "id": "com.OFC.card.EXE5-230-SearchManSP"
+  },
+  "1478839402720530654": {
+    "timestamp": 1772653189362,
+    "md5": "3456b8382ac2253fdb15d115defbaa70",
+    "id": "com.OFC.card.EXE5-229-SearchMan"
+  },
+  "1478839403601199295": {
+    "timestamp": 1772653189362,
+    "md5": "47ff2315a2ffd003fa1efe626700902e",
+    "id": "com.OFC.card.EXE5-231-SearchManDS"
+  },
+  "1478839464955613347": {
+    "timestamp": 1772653204022,
+    "md5": "a94d621b79ecb127abd8469924a207d0",
+    "id": "com.OFC.card.EXE5-264-ShadeManDS"
+  },
+  "1478839464418611240": {
+    "timestamp": 1772653204022,
+    "md5": "98259bce9a290249c251c10b6b026ac6",
+    "id": "com.OFC.card.EXE5-263-ShadeManSP"
+  },
+  "1478839464163016764": {
+    "timestamp": 1772653204022,
+    "md5": "b09483bac1d32aeefca347e40009889d",
+    "id": "com.OFC.card.EXE5-262-ShadeMan"
+  },
+  "1478839781231165716": {
+    "timestamp": 1772653279575,
+    "md5": "06d0b819911356eb7071dbe28d8eddb2",
+    "id": "com.OFC.card.EXE5-272-SwallowManSP"
+  },
+  "1478839780904013956": {
+    "timestamp": 1772653279575,
+    "md5": "99c2b7464563729631c852e15d8f6594",
+    "id": "com.OFC.card.EXE5-271-SwallowMan"
+  },
+  "1478839781709578300": {
+    "timestamp": 1772653279575,
+    "md5": "762ad618d05e95341fea06df73ae7394",
+    "id": "com.OFC.card.EXE5-273-SwallowManDS"
+  },
+  "1478587102445961310": {
+    "timestamp": 1772593036104,
+    "md5": "fbf444714d043f2170fd7e5e05f95dcc",
+    "id": "com.Dawn.ShaDis.BN3.Ratty"
+  },
+  "1478848904350138500": {
+    "timestamp": 1772655454457,
+    "md5": "3af48697f3b69b008ec007b8fac8f164",
+    "id": "com.OFC.card.EXE6-135-Suikomi"
+  },
+  "1478848904039764028": {
+    "timestamp": 1772655454457,
+    "md5": "71f2cdfb5ce9e32f39bc8c0275fb2c82",
+    "id": "com.OFC.card.EXE6-134-Toppuu"
   }
 }
