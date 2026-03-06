@@ -11712,5 +11712,111 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_OFC_block_EXE4_KAIZOU_107_Flower": {
+    "data": {
+      "type": "blocks",
+      "id": "com.OFC.block.EXE4-KAIZOU-107-Flower",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Flower",
+      "detail": {
+        "color": "Green",
+        "is_program": true,
+        "shape": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "description": "Replaces\nnrml shot\nw/Flower"
+    },
+    "attachment_data": {
+      "timestamp": 1772736755182,
+      "discord_url": "https://cdn.discordapp.com/attachments/1479189424800530653/1479189903135739994/com_OFC_block_EXE4_KAIZOU_107_Flower.zip?ex=69ab2272&is=69a9d0f2&hm=917e30cf0d4fd9e2abcd3fa831a2d230a540ba9ce05fe03a84ea5a49dac34219&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_block_EXE4_KAIZOU_107_Flower.zip",
+      "attachment_id": "1479189903135739994",
+      "thread_id": "1479189424800530653",
+      "thread_name": "[WIP][CUS][NCP][EXE4/BN4] Kaizo Cards custom shots",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_block_EXE4_KAIZOU_108_MizuDeppou": {
+    "data": {
+      "type": "blocks",
+      "id": "com.OFC.block.EXE4-KAIZOU-108-MizuDeppou",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "WaterGun",
+      "detail": {
+        "color": "Blue",
+        "is_program": true,
+        "shape": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "description": "Replaces\nnrml shot\nw/WatrGun"
+    },
+    "attachment_data": {
+      "timestamp": 1772736755182,
+      "discord_url": "https://cdn.discordapp.com/attachments/1479189424800530653/1479189903819542528/com_OFC_block_EXE4_KAIZOU_108_MizuDeppou.zip?ex=69ab2273&is=69a9d0f3&hm=71a831c6a76da4a359bff1e4358b7bd0d53fd6f25b45745e521a841833fecdf9&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_block_EXE4_KAIZOU_108_MizuDeppou.zip",
+      "attachment_id": "1479189903819542528",
+      "thread_id": "1479189424800530653",
+      "thread_name": "[WIP][CUS][NCP][EXE4/BN4] Kaizo Cards custom shots",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
