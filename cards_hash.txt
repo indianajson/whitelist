@@ -1519,5 +1519,5 @@ de33f897e6d3abf0db8896728c7059af com.OFC.card.EXE6-271-ElementManEX
 eda5cd941adc7cbd05b8ae7dbdfc32cc com.OFC.card.EXE6-133-AirWheel3
 e7ccb398e97564808b122577d9f50cd2 com.OFC.card.EXE6-132-AirWheel2
 552770330660dc4847f5ac6f7a1e0ac5 com.OFC.card.EXE6-131-AirWheel1
-3af48697f3b69b008ec007b8fac8f164 com.OFC.card.EXE6-135-Suikomi
-71f2cdfb5ce9e32f39bc8c0275fb2c82 com.OFC.card.EXE6-134-Toppuu
+64038632147f258e271263c202841d28 com.OFC.card.EXE6-135-Suikomi
+ed4643fe35b3c616d823b06acdee6d6c com.OFC.card.EXE6-134-Toppuu
