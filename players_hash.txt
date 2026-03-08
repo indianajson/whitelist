@@ -318,3 +318,4 @@ cc20399ebad08fcb3819332d42b0948e com.darkware.navi.gridman
 4cfa22e91a0ee87ca2550a7d02ef7871 com.caseofthematts.navi.coldmanpvp
 f0204ef3d0c1ab0437ac4da8c4754d39 com.drawcie.navi.darkmegaPVP
 f7534f011701fe52d96ed506ab6bafed Gregar
+fd8ecfafe7ca0fc3509e8fb886572fe9 com.maplewood&darkware.Roll

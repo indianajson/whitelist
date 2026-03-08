@@ -4645,12 +4645,12 @@
       "description": "Test fight with\nthe Metall family\nfrom EXE6"
     },
     "attachment_data": {
-      "timestamp": 1772485640544,
-      "discord_url": "https://cdn.discordapp.com/attachments/1372339239940915323/1478136652776865882/EXE6-001-Metall.zip?ex=69a74d88&is=69a5fc08&hm=29f57c6c11d4ded3c9567f46e5677ae430617488c7ea42cc44d1624782ace4dc&",
+      "timestamp": 1772907404811,
+      "discord_url": "https://cdn.discordapp.com/attachments/1372339239940915323/1479905660073410560/com_OFC_mob_EXE6_001_Metall.zip?ex=69adbd0c&is=69ac6b8c&hm=7232979a646b4b422d035c518d0037e5222a37c4b5f888ed16498f04d3b00fac&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
-      "original_filename": "EXE6-001-Metall.zip",
-      "attachment_id": "1478136652776865882",
+      "original_filename": "com_OFC_mob_EXE6_001_Metall.zip",
+      "attachment_id": "1479905660073410560",
       "thread_id": "1372339239940915323",
       "thread_name": "[OFC][MOB][EXE6/BN6] Metall (Mettaur) family",
       "channel_id": "865079018704994355",
@@ -5350,6 +5350,34 @@
       "attachment_id": "1478587102445961310",
       "thread_id": "1478586941015330990",
       "thread_name": "[BN3] Ratty Boyz Updated",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_023_Gunner": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-023-Gunner",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE6-023-Gunner"
+      ],
+      "name": "Gunner (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_023_Gunner_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nthe Gunner family\nfrom EXE6"
+    },
+    "attachment_data": {
+      "timestamp": 1772924793388,
+      "discord_url": "https://cdn.discordapp.com/attachments/1479906709836402761/1479978593349140480/com_OFC_mob_EXE6_023_Gunner.zip?ex=69ae00f9&is=69acaf79&hm=9021fc69b1fa38e38f724e32dda7ba792b8d9862015c405b7b6080a519382412&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_mob_EXE6_023_Gunner.zip",
+      "attachment_id": "1479978593349140480",
+      "thread_id": "1479906709836402761",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Gunner family",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

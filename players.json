@@ -23355,5 +23355,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_maplewood_darkware_Roll": {
+    "data": {
+      "type": "players",
+      "id": "com.maplewood&darkware.Roll",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Roll",
+      "detail": {
+        "icon": "images\\com_maplewood_darkware_Roll_icon.png",
+        "preview": "images\\com_maplewood_darkware_Roll_preview.png",
+        "animation": "./roll.animation",
+        "texture": "./navi_roll_atlas.png",
+        "icon_zip": "./roll_face.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Megaman is all mine!!!",
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "health": 1000,
+      "element": "None",
+      "height": 70,
+      "charge_position": {
+        "x": 4,
+        "y": -30
+      },
+      "charge_shot_color": {
+        "r": 255,
+        "g": 200,
+        "b": 200,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772923097225,
+      "discord_url": "https://cdn.discordapp.com/attachments/1479971470661779617/1479971477666140190/Roll.zip?ex=69adfa58&is=69aca8d8&hm=8751aa39d73dac9e6b0e64228aab5f502a39562c14a575c04d72070aae42bef3&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Roll.zip",
+      "attachment_id": "1479971477666140190",
+      "thread_id": "1479971470661779617",
+      "thread_name": "[OFC][NAVI][BN4.5] Roll",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
