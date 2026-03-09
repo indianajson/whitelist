@@ -26599,7 +26599,7 @@
           "time_freeze": false,
           "element": "Wood",
           "description": "Pwr+ on grass or poison!",
-          "long_description": "Blaster powered up on grass and poison!",
+          "long_description": "Shotgun powered up on grass or poison!",
           "card_class": "Standard",
           "limit": 4
         },
@@ -26608,12 +26608,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1692239110570,
-      "discord_url": "https://cdn.discordapp.com/attachments/1095749102484074578/1141558311016206419/Duality.zip",
+      "timestamp": 1772999179339,
+      "discord_url": "https://cdn.discordapp.com/attachments/1095749102484074578/1480290590540304515/Duality.zip?ex=69af238b&is=69add20b&hm=37aff99fbf618a0164388f926d9b654bc9b955f700ebc1b1bd1aff049e36c5b5&",
       "author_name": "cyanmanexe",
       "author_id": "262721674435100672",
       "original_filename": "Duality.zip",
-      "attachment_id": "1141558311016206419",
+      "attachment_id": "1480290590540304515",
       "thread_id": "1095749102484074578",
       "thread_name": "[CUS][CHIP] Duality",
       "channel_id": "865079018704994355",
@@ -29155,12 +29155,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1716599468975,
-      "discord_url": "https://cdn.discordapp.com/attachments/1106588822688501812/1243733059782709338/CurrentLane.zip?ex=66528c2c&is=66513aac&hm=eb2b01c29f3d9b3fb319fb1038ebce8dafef40a28c445dfa55a29e02f1fd16ba&",
+      "timestamp": 1772999100863,
+      "discord_url": "https://cdn.discordapp.com/attachments/1106588822688501812/1480290261279183001/CurrentLane.zip?ex=69af233c&is=69add1bc&hm=e8661ad1d8e530c800cc70a7be7b3a680159312361b2046c4753ec9ee0f83b97&",
       "author_name": "cyanmanexe",
       "author_id": "262721674435100672",
       "original_filename": "CurrentLane.zip",
-      "attachment_id": "1243733059782709338",
+      "attachment_id": "1480290261279183001",
       "thread_id": "1106588822688501812",
       "thread_name": "[CHIP][CUS] Current Lane",
       "channel_id": "865079018704994355",
@@ -29189,19 +29189,21 @@
           "time_freeze": false,
           "element": "Fire",
           "description": "Triple Fire Cannon",
-          "long_description": "Hard Tripple Fire Cannon!",
+          "long_description": "Strong Triple Fire Cannon!",
           "card_class": "Standard",
           "limit": 2
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1683902340013,
-      "discord_url": "https://cdn.discordapp.com/attachments/1106591241891741756/1106591360917708842/HeatCannon.zip",
-      "author_name": "Cyanman EXE",
+      "timestamp": 1772999017110,
+      "discord_url": "https://cdn.discordapp.com/attachments/1106591241891741756/1480289910186578114/HeatCannon.zip?ex=69af22e9&is=69add169&hm=ec534bedff2774ea35585ec58cae36f5de09e97d1800a71d7027214fff5cea25&",
+      "author_name": "cyanmanexe",
       "author_id": "262721674435100672",
       "original_filename": "HeatCannon.zip",
-      "attachment_id": "1106591360917708842",
+      "attachment_id": "1480289910186578114",
       "thread_id": "1106591241891741756",
       "thread_name": "[CHIP][CUS] Heat Cannon",
       "channel_id": "865079018704994355",
@@ -38018,12 +38020,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1704056643828,
-      "discord_url": "https://cdn.discordapp.com/attachments/1191124542870011904/1191124638139433020/AquaFlood.zip?ex=65a44c43&is=6591d743&hm=dd5aa59e7b3feec5d36bc5da92cab3b7d3f83721023ca922930185fb3443e2ce&",
+      "timestamp": 1772998995360,
+      "discord_url": "https://cdn.discordapp.com/attachments/1191124542870011904/1480289818931101949/AquaFlood.zip?ex=69af22d3&is=69add153&hm=7c3fcc20b85eb470883ff3c5e905efd14e966055f88a77faa2c159ff3893bedb&",
       "author_name": "cyanmanexe",
       "author_id": "262721674435100672",
       "original_filename": "AquaFlood.zip",
-      "attachment_id": "1191124638139433020",
+      "attachment_id": "1480289818931101949",
       "thread_id": "1191124542870011904",
       "thread_name": "[CUS][CHIP] Aqua Flood",
       "channel_id": "865079018704994355",
@@ -62814,6 +62816,181 @@
       "attachment_id": "1479484912917807135",
       "thread_id": "1478848503768813631",
       "thread_name": "[OFC][CHIP][EXE6/BN6] Toppuu (Wind) and Suikomi (Fan)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "DJ_Modifieid_Sand": {
+    "data": {
+      "type": "cards",
+      "id": "DJ.Modifieid-Sand",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\DJ_Modifieid_Sand_icon.png",
+        "preview": "images\\DJ_Modifieid_Sand_preview.png",
+        "codes": [
+          "O",
+          "Q",
+          "T",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "SandStorm",
+          "damage": 90,
+          "time_freeze": false,
+          "element": "None",
+          "description": "Sndstrm atk! Sand Panl",
+          "long_description": "Radial SandStorm attack! Changes panels to sand!",
+          "card_class": "Standard",
+          "limit": 5
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772999746311,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480292881687380202/1480292968865988771/SandStorm.zip?ex=69af25c2&is=69add442&hm=e464699454c59bd4fc21e5429d5f7eddd0243854063f75b18e11a07e28717679&",
+      "author_name": "cyanmanexe",
+      "author_id": "262721674435100672",
+      "original_filename": "SandStorm.zip",
+      "attachment_id": "1480292968865988771",
+      "thread_id": "1480292881687380202",
+      "thread_name": "[CUS][CHIP] SandStorm & Flood",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "DJ_Modifieid_Sea": {
+    "data": {
+      "type": "cards",
+      "id": "DJ.Modifieid-Sea",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\DJ_Modifieid_Sea_icon.png",
+        "preview": "images\\DJ_Modifieid_Sea_preview.png",
+        "codes": [
+          "A",
+          "H",
+          "N",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "Flood",
+          "damage": 80,
+          "time_freeze": false,
+          "element": "Aqua",
+          "description": "AquFld atk! Sea Panl",
+          "long_description": "Ruthless Flood attack! Changes panels to Sea!",
+          "card_class": "Standard",
+          "limit": 5
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1772999746311,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480292881687380202/1480292968488505555/Flood.zip?ex=69af25c2&is=69add442&hm=97c5a41df88414e0c937df2ef0e8d04c2be005f23ef58bc56a3b6d689bda0e61&",
+      "author_name": "cyanmanexe",
+      "author_id": "262721674435100672",
+      "original_filename": "Flood.zip",
+      "attachment_id": "1480292968488505555",
+      "thread_id": "1480292881687380202",
+      "thread_name": "[CUS][CHIP] SandStorm & Flood",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "DJ_SandQuake": {
+    "data": {
+      "type": "cards",
+      "id": "DJ.SandQuake",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\DJ_SandQuake_icon.png",
+        "preview": "images\\DJ_SandQuake_preview.png",
+        "codes": [
+          "N",
+          "S",
+          "T",
+          "*"
+        ],
+        "props": {
+          "can_boost": true,
+          "shortname": "SndQuke",
+          "damage": 150,
+          "time_freeze": false,
+          "element": "None",
+          "description": "Snd slams into area",
+          "long_description": "Sand slams into 2x3 area making more sand!",
+          "card_class": "Standard",
+          "limit": 5
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1773000077924,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480294292823081043/1480294359344873514/SandQuake.zip?ex=69af270d&is=69add58d&hm=fef6135fb36821f0cdd5c0d8d761c7b6c2c0b19aba2756d6f9e2161d46f286f6&",
+      "author_name": "cyanmanexe",
+      "author_id": "262721674435100672",
+      "original_filename": "SandQuake.zip",
+      "attachment_id": "1480294359344873514",
+      "thread_id": "1480294292823081043",
+      "thread_name": "[CUS][CHIP]SandQuake",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_DJ_QuakeWave": {
+    "data": {
+      "type": "cards",
+      "id": "com.DJ.QuakeWave",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "props": {
+          "can_boost": true,
+          "shortname": "QuakWave",
+          "damage": 140,
+          "time_freeze": false,
+          "element": "None",
+          "description": "Explsn wave fwrd",
+          "long_description": "Explosion wave forward 3 columns!",
+          "card_class": "Standard",
+          "limit": 3
+        },
+        "icon": "images\\com_DJ_QuakeWave_icon.png",
+        "preview": "images\\com_DJ_QuakeWave_preview.png",
+        "codes": [
+          "A",
+          "G",
+          "S"
+        ],
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1773000284975,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480295170829320294/1480295227930710227/QuakeWave.zip?ex=69af27dc&is=69add65c&hm=acdd6aa604a0c6ca64718ba28aba4ff0233370456baf1ddfb494dcb208ad6135&",
+      "author_name": "cyanmanexe",
+      "author_id": "262721674435100672",
+      "original_filename": "QuakeWave.zip",
+      "attachment_id": "1480295227930710227",
+      "thread_id": "1480295170829320294",
+      "thread_name": "[CUS][CHIP]QuakeWave",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

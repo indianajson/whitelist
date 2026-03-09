@@ -85,7 +85,7 @@ fdd1c25bd520813e8cbf4712787caa22 com.alrysc.player.KogasaEXE
 739731c64434a449307b653f3fc8336d Fazer_DarkMega
 35bf40258ca5e36b475b00f124774540 com.alrysc.player.Saber
 167611a8b4bc4487c2659b21aa1efb49 com.alrysc.player.MarisaEXE
-0cfa1792ce872f151e1243946ec76fbf com.alrysc.player.metalman
+681ca30e24633fcc85a6a1900b6a16fb com.alrysc.player.metalman
 cb23e3bb4b9567d4071fe969c968ecb3 com.louise.navi.magnetman
 aad8f0854eb0802a4d1ac430e9ac02da original spritesheet by Nitratez
 779cd3a74ce03ac69fe7192f344f9a33 com.D3stroy3d.player.Elecman
@@ -269,7 +269,7 @@ c91517dbeba38eb84c42486e30250fa2 com.darkware.1april.navi.invisibleman
 86851f9903eff549ddef51c1491211d0 com.D3str0y3d.punk
 24acf6c9d0795a33692611d871fbfbe2 com.darkware&d3str0y3d255.navi.brightman
 ed01111466dcf06986696c277319a3dc com.d3str0y3d255.navi.stoneman
-bda83ab598df44ae8bc11aab76699da9 com.alrysc.player.SlashMan
+ab4dd746492ba76b85a58a7c079a7374 com.alrysc.player.SlashMan
 5b6166350cc7a72da94e47fcbd219cea com.darkwarepx.navi.junkmanpvp
 a96672cdcb8489489e3e5a2ec2550e12 com.d3str0y3d255&guava.navi.Elementalmanpvp
 61eb4ee9f8802bebbae9b5e08478d435 com.darkwarepx.navi.junkman
@@ -319,3 +319,4 @@ cc20399ebad08fcb3819332d42b0948e com.darkware.navi.gridman
 f0204ef3d0c1ab0437ac4da8c4754d39 com.drawcie.navi.darkmegaPVP
 f7534f011701fe52d96ed506ab6bafed Gregar
 fd8ecfafe7ca0fc3509e8fb886572fe9 com.maplewood&darkware.Roll
+5b30a8a5179deaf1a66740a0dffab76c Cyanman V5 Base

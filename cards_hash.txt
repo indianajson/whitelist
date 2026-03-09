@@ -660,7 +660,7 @@ bc63595fe1c1136300b017270901c06e com.DJ.ProtoRifle.2
 5751c6176a8efc2275a8b3b15d44ce3a com.DJ.ProtoRifle.1
 6d75ce4ef96a0c0dfa5e35eb1ded7812 com.DJ.ProtoRifle.3
 0663d66ec8027825b2cfe19853ac09e9 com.seabitty.sfdarksword
-167c1c6e43b7b1b27daad8cf06264100 com.DJ.Duality
+906a8b5621bffc889cd7386c0182b97c com.DJ.Duality
 b11915c72c35b1963bcbad162723cf55 com.alrysc.card.FireTower
 057c89406039d99fa1dd76eb8c913007 com.alrysc.card.AquaTower
 c5f32f4888408e328a1b6e865a3df6d1 com.alrysc.card.WoodTower
@@ -723,8 +723,8 @@ b8a6971251ab03259a89febd13dbfe45 com.seabitty.sftimebombsf2
 d7770d2c3ebda093286f4e812ddb7d2e com.OctoChris.card.DrkMerge
 b5f670d14518a829226d0bc1ef526d00 com.EXE2.Shadow3
 8270eecfb52c2d4052b9a3712b53acb1 com.EXE2.Shadow2
-d5024c87d74d0009b9e6a9d88bd900ff com.DJ.CurrentLane
-3800ed1c743ff24b7cfbdbb13b5b431a com.DJ.HeatCannon
+25976bff79df4945c2b851301f1ee2c4 com.DJ.CurrentLane
+14d88a7969252bfc4227212d392c64f9 com.DJ.HeatCannon
 e4d5b45add40f7d1e8092d36a5bb1e05 com.HeadDM.card.DarkMine
 cbb5ac0d0a4e38ed16738b1370d10715 com.alrysc.card.ShotGunX
 c09f95ea01696a6cead06091e6699fa4 com.alrysc.card.ShotGun3
@@ -936,7 +936,7 @@ b45ba712c91161f3b0aba2f8ff41da74 com.rune.k1rbyat1na.card.EXE6-060-EnergyBomb
 6b8becf19f1eb28cf39a1c299168b4d6 com.seabitty.sficespinx
 0a75e985366987718daf68135323ef21 com.seabitty.sficespin3
 cac2b2d6ad858026c2ff33db50888ef6 com.seabitty.originaltroy
-e79db57e58ab7540e0a3322cb77c9ff8 com.DJ.AquaFlood
+ab1182813116e6e25429b3aed28e96ad com.DJ.AquaFlood
 f6923b14279e29cfae75360c4cf6bea8 com.OFC.card.EXEPoN-178-Cache
 91da0ba8065093b913f04d1ef7c1e470 com.keristero.card.revamp.AquaBlade
 1ab8170fa6e30da14542e6eccefd6bb2 com.seabitty.sfbuzzsawx
@@ -1521,3 +1521,7 @@ e7ccb398e97564808b122577d9f50cd2 com.OFC.card.EXE6-132-AirWheel2
 552770330660dc4847f5ac6f7a1e0ac5 com.OFC.card.EXE6-131-AirWheel1
 64038632147f258e271263c202841d28 com.OFC.card.EXE6-135-Suikomi
 ed4643fe35b3c616d823b06acdee6d6c com.OFC.card.EXE6-134-Toppuu
+b69115987bd068551d530d826fab2992 DJ.Modifieid-Sand
+48af884211765005c23e162b3bcad734 DJ.Modifieid-Sea
+e1f093e7865d299e9c36490e0d036089 DJ.SandQuake
+f3cfef0322db9b4443b10af7b0bde668 com.DJ.QuakeWave

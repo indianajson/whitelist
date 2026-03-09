@@ -2374,20 +2374,40 @@
       "id": "com.alrysc.player.metalman",
       "dependencies": [],
       "subpackages": [],
-      "name": "",
+      "name": "MetalMan",
       "detail": {
         "preview": "images\\com_alrysc_player_metalman_preview.png",
-        "icon": "images\\com_alrysc_player_metalman_icon.png"
+        "icon": "images\\com_alrysc_player_metalman_icon.png",
+        "animation": "./metalman.animation",
+        "texture": "./metalman.png",
+        "icon_zip": "./metalman_face.png",
+        "preview_zip": "./preview.png"
       },
-      "description": "Customized MetalMan!"
+      "description": "Customized MetalMan!",
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "health": 1000,
+      "element": "Break",
+      "height": 75,
+      "charge_shot_color": {
+        "r": 255,
+        "g": 0,
+        "b": 255,
+        "a": 0
+      },
+      "charge_position": {
+        "x": 4,
+        "y": -40
+      }
     },
     "attachment_data": {
-      "timestamp": 1672722453440,
-      "discord_url": "https://cdn.discordapp.com/attachments/1059699319130836992/1059699518016340058/MetalMan.zip",
-      "author_name": "Alrysc",
+      "timestamp": 1773014103084,
+      "discord_url": "https://cdn.discordapp.com/attachments/1059699319130836992/1480353185158791189/com_alrysc_player_metalman.zip?ex=69af5dd6&is=69ae0c56&hm=11af7cda4d6492eaaf6cc0100fc6b686cade0a1034f240b6c338a960c9c7cf90&",
+      "author_name": "alrysc",
       "author_id": "362428610444787712",
-      "original_filename": "MetalMan.zip",
-      "attachment_id": "1059699518016340058",
+      "original_filename": "com_alrysc_player_metalman.zip",
+      "attachment_id": "1480353185158791189",
       "thread_id": "1059699319130836992",
       "thread_name": "[CUS] [NAVI] MetalMan",
       "channel_id": "865079018704994355",
@@ -9860,12 +9880,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1747094081605,
-      "discord_url": "https://cdn.discordapp.com/attachments/1371636135515783210/1371636735553044633/SlashMan.zip?ex=6823dbc1&is=68228a41&hm=d211cda9cd8cbe79c4b8a2d23f08874f1cc94a59f3e71ede8816fa77755641d2&",
+      "timestamp": 1773014056395,
+      "discord_url": "https://cdn.discordapp.com/attachments/1371636135515783210/1480352989515481210/com_alrysc_player_SlashMan.zip?ex=69af5da8&is=69ae0c28&hm=682554f28579eea829280113576ccde332880f8a53afd7aab0ff643a2c0beb0f&",
       "author_name": "alrysc",
       "author_id": "362428610444787712",
-      "original_filename": "SlashMan.zip",
-      "attachment_id": "1371636735553044633",
+      "original_filename": "com_alrysc_player_SlashMan.zip",
+      "attachment_id": "1480352989515481210",
       "thread_id": "1371636135515783210",
       "thread_name": "[CUS] [BN6] [NAVI] SlashMan.EXE",
       "channel_id": "865079018704994355",
@@ -23398,6 +23418,50 @@
       "attachment_id": "1479971477666140190",
       "thread_id": "1479971470661779617",
       "thread_name": "[OFC][NAVI][BN4.5] Roll",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "Cyanman_V5_Base": {
+    "data": {
+      "type": "players",
+      "id": "Cyanman V5 Base",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "CyanMan",
+      "detail": {
+        "preview": "images\\Cyanman_V5_Base_preview.png",
+        "animation": "./battle.animation",
+        "texture": "./battle.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "CyanMan Base V5",
+      "speed": 2,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "health": 1000,
+      "element": "None",
+      "height": 50,
+      "charge_position": {
+        "x": 1,
+        "y": -20
+      },
+      "charge_shot_color": {
+        "r": 39,
+        "g": 245,
+        "b": 238,
+        "a": 8
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1773001143442,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480298706099241032/1480298828635701451/Cyanman_V5_Base.zip?ex=69af2b37&is=69add9b7&hm=e8e50fd5ec192f4ff7ce5f93d1eb0a6a5944524b2573a08a1738d6f3501c5928&",
+      "author_name": "cyanmanexe",
+      "author_id": "262721674435100672",
+      "original_filename": "Cyanman_V5_Base.zip",
+      "attachment_id": "1480298828635701451",
+      "thread_id": "1480298706099241032",
+      "thread_name": "[CUS][NAVI]CyanMan V5 Updated ver",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

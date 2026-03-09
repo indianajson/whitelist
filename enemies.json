@@ -4645,12 +4645,12 @@
       "description": "Test fight with\nthe Metall family\nfrom EXE6"
     },
     "attachment_data": {
-      "timestamp": 1772907404811,
-      "discord_url": "https://cdn.discordapp.com/attachments/1372339239940915323/1479905660073410560/com_OFC_mob_EXE6_001_Metall.zip?ex=69adbd0c&is=69ac6b8c&hm=7232979a646b4b422d035c518d0037e5222a37c4b5f888ed16498f04d3b00fac&",
+      "timestamp": 1773003497870,
+      "discord_url": "https://cdn.discordapp.com/attachments/1372339239940915323/1480308703856169226/com_OFC_mob_EXE6_001_Metall.zip?ex=69af3469&is=69ade2e9&hm=9d12c7829ef340a8fa791672c9d5f352b7ab9be1829c5620d604f52596c58615&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_mob_EXE6_001_Metall.zip",
-      "attachment_id": "1479905660073410560",
+      "attachment_id": "1480308703856169226",
       "thread_id": "1372339239940915323",
       "thread_name": "[OFC][MOB][EXE6/BN6] Metall (Mettaur) family",
       "channel_id": "865079018704994355",
@@ -5378,6 +5378,34 @@
       "attachment_id": "1479978593349140480",
       "thread_id": "1479906709836402761",
       "thread_name": "[OFC][MOB][EXE6/BN6] Gunner family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE6_017_Kakajee": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE6-017-Kakajee",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE6-017-Kakajee"
+      ],
+      "name": "Kakajee (EXE6)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE6_017_Kakajee_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nthe Kakajee family\nfrom EXE6"
+    },
+    "attachment_data": {
+      "timestamp": 1773003518343,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480308618464067696/1480308789541343426/com_OFC_mob_EXE6_017_Kakajee.zip?ex=69af347e&is=69ade2fe&hm=f3225ca668b0365a73e2e214ec1abf93a348eff185f51b45c8ad83bf7f0df5ed&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_mob_EXE6_017_Kakajee.zip",
+      "attachment_id": "1480308789541343426",
+      "thread_id": "1480308618464067696",
+      "thread_name": "[OFC][MOB][EXE6/BN6] Kakajee (Scare Crow) family",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
