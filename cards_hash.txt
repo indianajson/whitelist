@@ -1271,7 +1271,7 @@ c33252a141387f4e1049ef8ab73f94f5 com.OFC.card.EXE4-268-VideoManDS
 7688dd8f28af799db0f2cad26b67f2da com.OFC.card.EXE45PVP-277-VideoManEX
 30cb9aaee947efb9df211f32ed82dc72 com.OFC.card.EXE45PVP-276-VideoMan
 ff596bc0e52f96ea750331769075afb0 com.OFC.card.EXE6-154-Ojizou-san
-61ac1a181318e3519436752d0ba7f11f com.OFC.card.EXE6-079-FuujinRacket
+3d4adad707d04aac76dc78284812425f com.OFC.card.EXE6-079-FuujinRacket
 fc4f0392565351caa1c93e76eb9ec260 com.OFC.card.EXE6-153-WaraNingyou
 f13e4bfd4050fe9073c798e8bf7eb972 com.OFC.card.EXE6-167-StealRevenge
 a74d7e6940d3cad767dfc8a569fcf22e com.OFC.card.EXE6-166-StealPunish

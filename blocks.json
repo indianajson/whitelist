@@ -11495,112 +11495,6 @@
       "guild_id": "455429604455219211"
     }
   },
-  "com_darkware_ncp_overclockpower": {
-    "data": {
-      "type": "blocks",
-      "id": "com.darkware.ncp.overclockpower",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "PwrOvrclk",
-      "detail": {
-        "is_program": true,
-        "color": "Red",
-        "shape": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      },
-      "description": "Overclock system,2x cs atk"
-    },
-    "attachment_data": {
-      "timestamp": 1767208814745,
-      "discord_url": "https://cdn.discordapp.com/attachments/1456003663222014004/1456004040965095434/PowerOverclock.zip?ex=6956c8ee&is=6955776e&hm=ebb2cc1977e36d1233761b9fc5097ad594e2ef035182f9e7df9bb9eb830efe86&",
-      "author_name": "darkwarepx",
-      "author_id": "462755111811285024",
-      "original_filename": "PowerOverclock.zip",
-      "attachment_id": "1456004040965095434",
-      "thread_id": "1456003663222014004",
-      "thread_name": "[CUS][NCP] Overclock System (Double gear)",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_darkware_ncp_overclockcharge": {
-    "data": {
-      "type": "blocks",
-      "id": "com.darkware.ncp.overclockcharge",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "ChgOvrclk",
-      "detail": {
-        "is_program": true,
-        "color": "Blue",
-        "shape": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      },
-      "description": "Overclock system,+5 charge"
-    },
-    "attachment_data": {
-      "timestamp": 1767208814745,
-      "discord_url": "https://cdn.discordapp.com/attachments/1456003663222014004/1456004041241792584/ChargeOverclock.zip?ex=6956c8ee&is=6955776e&hm=58cfb8bb0c6260c134bf867c9b104369cee34a7772aff193fb63b8a52a56b1f5&",
-      "author_name": "darkwarepx",
-      "author_id": "462755111811285024",
-      "original_filename": "ChargeOverclock.zip",
-      "attachment_id": "1456004041241792584",
-      "thread_id": "1456003663222014004",
-      "thread_name": "[CUS][NCP] Overclock System (Double gear)",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
   "com_OFC_block_EXE6_009_Reflect": {
     "data": {
       "type": "blocks",
@@ -11815,6 +11709,112 @@
       "attachment_id": "1479189903819542528",
       "thread_id": "1479189424800530653",
       "thread_name": "[WIP][CUS][NCP][EXE4/BN4] Kaizo Cards custom shots",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_ncp_powergear": {
+    "data": {
+      "type": "blocks",
+      "id": "com.darkware.ncp.powergear",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "PowerGear",
+      "detail": {
+        "is_program": true,
+        "color": "Red",
+        "shape": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "description": "Gear system,+5 atk"
+    },
+    "attachment_data": {
+      "timestamp": 1773096486551,
+      "discord_url": "https://cdn.discordapp.com/attachments/1456003663222014004/1480698726883528985/PowerGear.zip?ex=69b09fa6&is=69af4e26&hm=ae92b8d1d50c192db865c9a9143ef055b05831d8321f2822c1c4644b8b7434a4&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "PowerGear.zip",
+      "attachment_id": "1480698726883528985",
+      "thread_id": "1456003663222014004",
+      "thread_name": "[CUS][NCP] Overclock System (Double gear)",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_ncp_chargegear": {
+    "data": {
+      "type": "blocks",
+      "id": "com.darkware.ncp.chargegear",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "ChargeGear",
+      "detail": {
+        "is_program": true,
+        "color": "Blue",
+        "shape": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "description": "Gear system,+5 charge"
+    },
+    "attachment_data": {
+      "timestamp": 1773096486551,
+      "discord_url": "https://cdn.discordapp.com/attachments/1456003663222014004/1480698726635933746/ChargeGear.zip?ex=69b09fa6&is=69af4e26&hm=9f07a32f6a7c365c206110e6286fafe1e1f23c0437b1460a00c4da99fc282d39&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "ChargeGear.zip",
+      "attachment_id": "1480698726635933746",
+      "thread_id": "1456003663222014004",
+      "thread_name": "[CUS][NCP] Overclock System (Double gear)",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

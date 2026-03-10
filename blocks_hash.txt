@@ -217,9 +217,9 @@ c2a8cd339fdad8410320a31e065f8f1b Gym.LeaderRBY
 463abff76cc8839aac0fc5d36a849860 com.darkware.ncp.Stylelvl3(white)
 8f0ef642008b730547997de7f1727d48 com.darkware.ncp.Stylelvl3(pink)
 2ecc56c487e9aaf888c43689eb772186 com.OFC.block.EXE6-008-Shield
-c6c68a6f4b7affc6884b5137058712e5 com.darkware.ncp.overclockpower
-56e8d6b49691db8f7df0a595ef4f073f com.darkware.ncp.overclockcharge
 c3b046bae4de97f98a9c7c7359d4d85c com.OFC.block.EXE6-009-Reflect
 c287ab738c9e85addfe071723b1b8566 com.shadishp.block.duov1.blue
 01feb36395b6e85975ef5651495fc9eb com.OFC.block.EXE4-KAIZOU-107-Flower
 33f6814e9e9379fba3ab51596ede4495 com.OFC.block.EXE4-KAIZOU-108-MizuDeppou
+cc203a9b0c9dd2c81e4cd4489ee37e23 com.darkware.ncp.powergear
+e5c77092059b565e2c705b750ee258f0 com.darkware.ncp.chargegear
