@@ -23511,5 +23511,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_d3str0y3d255_guava_navi_circusmanpvp": {
+    "data": {
+      "type": "players",
+      "id": "com.d3str0y3d255&guava.navi.circusmanpvp",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "CircusMan",
+      "detail": {
+        "icon": "images\\com_d3str0y3d255_guava_navi_circusmanpvp_icon.png",
+        "preview": "images\\com_d3str0y3d255_guava_navi_circusmanpvp_preview.png",
+        "animation": "./circus.animation",
+        "texture": "./navi_circus_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "Be careful with my hands",
+      "health": 1000,
+      "element": "None",
+      "height": 64,
+      "charge_position": {
+        "x": 2,
+        "y": -23
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1773120652999,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480800082654789653/1480800087990075463/CircusMan.zip?ex=69b0fe0c&is=69afac8c&hm=057518456bfd655c5fc6a403b227309ebea376e21bf3d55ebfc1bd0808d4d740&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "CircusMan.zip",
+      "attachment_id": "1480800087990075463",
+      "thread_id": "1480800082654789653",
+      "thread_name": "[OFC][NAVI][PVP] Circusman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }

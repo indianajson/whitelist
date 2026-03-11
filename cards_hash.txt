@@ -176,7 +176,6 @@ c40038f0e9acbcc07bffe53fef85cb3c com.claris.card.ObjectThrowV4
 e7fcbb7a8063b4ba149a5e43e6b872b0 com.k1rbyat1na.card.EXE1-157-BomberManV3
 92035e44375624cdc8a77b64e7442e77 com.k1rbyat1na.card.EXE1-156-BomberManV2
 445e2516d2e526fe7acb98d90e48ecf1 com.k1rbyat1na.card.EXE1-155-BomberMan
-f8c9452d08e1063baf4b2a183e13216e com.Dawn.card.Invisible
 66938065cfc23620adb65f3a0c65f20b com.alrysc.card.OmegaRocketBeta
 50e582be0b2f9001f86901cd54e8d347 com.k1rbyat1na.card.EXE2-035-RyuoteKunai3
 fe42c55ad5ce4cb245b67f504b971995 com.k1rbyat1na.card.EXE2-034-RyuoteKunai2
@@ -1478,7 +1477,7 @@ d7d79f2178f8ac9ea37bcbae8ae1c69e com.OFC.card.EXE5-089-CustomBolt1
 933a7da5d2a892f4084228174eb2a0b2 com.alrysc.card.SwordFighter2
 50240950da54e981d0701109d25afc0c com.alrysc.card.SwordFighter1
 a5ba18e8a17482d9414e238beabb35fc com.alrysc.card.SwordFighterX
-73ddefb60941acaf1b09dfe98efa002e com.OFC.card.EXE4-134-Yukashita
+499d1dd67577c8d64043d4269d17c77c com.OFC.card.EXE4-134-Yukashita
 bdcb16213263f11e3d97366011187af4 com.OFC.card.EXE6-254-GroundManSP
 448500257bf5ab35e3195398f4c73020 com.OFC.card.EXE6-253-GroundManEX
 7301d7f3e36d84bf6abf4bb31272887c com.OFC.card.EXE6-252-GroundMan
@@ -1525,3 +1524,4 @@ b69115987bd068551d530d826fab2992 DJ.Modifieid-Sand
 48af884211765005c23e162b3bcad734 DJ.Modifieid-Sea
 e1f093e7865d299e9c36490e0d036089 DJ.SandQuake
 f3cfef0322db9b4443b10af7b0bde668 com.DJ.QuakeWave
+15d7eb279d1835610a0c1c0815258864 com.OFC.card.EXE6-179-Invisible
