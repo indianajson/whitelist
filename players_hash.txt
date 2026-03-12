@@ -169,8 +169,8 @@ a7e6ceef475f68d2c3a76e112a56dd91 com.D3str0y3d255&DarkWarePX.Woodman.Player
 5c1f59591f9c2f6aac0d7d0ad75ec756 Nintende_Lunarwmn.exe
 86ca2a69d45812ca6794ce816d9a9b85 com.D3stroy3d.player.Dustman
 2f776490eb4f92b8d5683a29d825153a com.D3stroy3d&Vide&DarkWarePX.player.Beastman
-735e09af04038bd76b36f69bd817af58 com.darkware.navi.nickname.ultimatedarkmegaman
-5e9d411cc6b97c18e55ca1b28c9ac8ee com.darkware.navi.nickname.ultimatemegaman
+4608872cba21eac62937f647b78631a9 com.darkware.navi.nickname.ultimatedarkmegaman
+c006bf09444075d0e4999495c9e464af com.darkware.navi.nickname.ultimatemegaman
 7d0b646f3bb2d4e38ff134ad04ff895b Ring.DarkWarePx&Drawcie&Bluberry
 c807db1eb0eb4801dfdaee6567babf99 com.seabitty.AcidAce
 d30eb679be1c059719cbac8ad698438f com.alrysc.player.YatsuhashiEXE
@@ -301,7 +301,7 @@ b8c9b63079a1d2339a489e284ea63aa3 com.D3stroy3d.player.Hatmanpvp
 8a206e0517901766a38703a184bfed98 com.D3stroy3d&darkware.player.Hatman
 863ff1aa0bc0952b27a4305196ffec2c com.d3str0y3d255&caseofthematts.navi.mistmanpvp
 df59a966392c585755271b9f212ab6f1 com.d3str0y3d255&guava&darkware.navi.Elementalman
-87e3a94b2509771454ddb5caea95b76c com.guava&drawcie&darkware.navi.diveman
+eed593072f53962912e937e286b65fdf com.guava&drawcie&darkware.navi.diveman
 417b3a8f762e6b0f233053066b4e03cf com.d3str0y3d255&caseofthematts.navi.mistman
 745ec53a1f921f5a45a7cbb28102a628 gmod mega
 6c78689ae81f84cb00c399e730849cb2 com.discord.imagiknight#0510.player.OreoEXEB
