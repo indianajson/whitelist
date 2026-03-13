@@ -521,7 +521,7 @@ c882d78533741e8b3d183cabc9f2abfe com.louis.QuickBmrg
 1c249d90a46627045ae44c2882a9472f com.louise.card.GolmHit3
 687ea74e7dc05907f14fd82d7a297668 com.louise.card.GolmHit2
 cdd8d80f55931d286f81ab6016d8f22e com.louise.card.GolmHit1
-c17ecfa89603359c1edd0853acc6eca8 com.louise.card.icewave
+0bed5355212ed545731b6614e2062cea com.louise.card.icewave
 8250f6a99aba87c4f757b8b18d1e206a com.louise.card.magbolt
 51ae908a02668370628e92a2f3d96988 com.isabelle.card.re.hubbatch
 73bb936a15b777223a6924dafe57199f com.louise.card.BassBn4-6

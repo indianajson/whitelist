@@ -20978,16 +20978,18 @@
           "long_description": "Creates a freezing 2 tile wave!",
           "card_class": "Standard",
           "limit": 3
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1673222414999,
-      "discord_url": "https://cdn.discordapp.com/attachments/1012521664623427677/1061796508749533305/cus_icewave.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1773333608207,
+      "discord_url": "https://cdn.discordapp.com/attachments/1012521664623427677/1481693286950502492/com_louise_card_icewave.zip?ex=69b43de8&is=69b2ec68&hm=ce698f456cb397550aed46ff416f377286792d7839fddeca46021189c299fad1&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "cus_icewave.zip",
-      "attachment_id": "1061796508749533305",
+      "original_filename": "com_louise_card_icewave.zip",
+      "attachment_id": "1481693286950502492",
       "thread_id": "1012521664623427677",
       "thread_name": "[EXE3] [CUS] Ice wave",
       "channel_id": "865079018704994355",

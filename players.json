@@ -3601,12 +3601,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1773083207226,
-      "discord_url": "https://cdn.discordapp.com/attachments/1119756181225873438/1480643028430618797/megaman_Bn6_falzar.zip?ex=69b06bc6&is=69af1a46&hm=649e8535c6f66922435d13f7b47d0477ba7b63405934a6f9b63363c3e8419dbe&",
+      "timestamp": 1773288534848,
+      "discord_url": "https://cdn.discordapp.com/attachments/1119756181225873438/1481504234330394756/megaman_Bn6_falzar.zip?ex=69b38dd6&is=69b23c56&hm=7ee971c796344d5d957581764625131c34b46f7636552d6d69b6e6f73e3cae1f&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "megaman_Bn6_falzar.zip",
-      "attachment_id": "1480643028430618797",
+      "attachment_id": "1481504234330394756",
       "thread_id": "1119756181225873438",
       "thread_name": "[BN6][NAVI][OFC] Megaman with cross",
       "channel_id": "865079018704994355",
@@ -3641,12 +3641,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1773083207226,
-      "discord_url": "https://cdn.discordapp.com/attachments/1119756181225873438/1480643029080608861/megaman_Bn6_gregar.zip?ex=69b06bc7&is=69af1a47&hm=b5afc7a3c8b65036b26355b19aa9534ce4be3de9815a39fd2a8c697df202fd43&",
+      "timestamp": 1773288534848,
+      "discord_url": "https://cdn.discordapp.com/attachments/1119756181225873438/1481504235110662227/megaman_Bn6_gregar.zip?ex=69b38dd6&is=69b23c56&hm=b8652ef445504eceb8a9ec72199d13f91db47a814cd4327015cee768ccb5f043&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "megaman_Bn6_gregar.zip",
-      "attachment_id": "1480643029080608861",
+      "attachment_id": "1481504235110662227",
       "thread_id": "1119756181225873438",
       "thread_name": "[BN6][NAVI][OFC] Megaman with cross",
       "channel_id": "865079018704994355",
@@ -5359,98 +5359,6 @@
       "attachment_id": "1374164743748849745",
       "thread_id": "1165722564509843497",
       "thread_name": "[OFC][NAVI][4.5-STYLED] Beastman",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_darkware_navi_nickname_ultimatedarkmegaman": {
-    "data": {
-      "type": "players",
-      "id": "com.darkware.navi.nickname.ultimatedarkmegaman",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "Dark MegaMan",
-      "detail": {
-        "icon": "images\\com_darkware_navi_nickname_ultimatedarkmegaman_icon.png",
-        "preview": "images\\com_darkware_navi_nickname_ultimatedarkmegaman_preview.png",
-        "animation": "./megaman.animation",
-        "texture": "./navi_megaman_atlas.og.png",
-        "icon_zip": "./pet.png",
-        "preview_zip": "./preview.png"
-      },
-      "speed": 1,
-      "attack": 1,
-      "charge_buster_damage": 10,
-      "description": "I am the most evil version of myself",
-      "health": 1000,
-      "element": "None",
-      "height": 48,
-      "charge_position": {
-        "x": 4,
-        "y": -20
-      },
-      "charge_shot_color": {
-        "r": 243,
-        "g": 57,
-        "b": 198,
-        "a": 255
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1773254596528,
-      "discord_url": "https://cdn.discordapp.com/attachments/1166808030885728326/1481361886418047119/Dark_Megaman_Ultimate.zip?ex=69b30944&is=69b1b7c4&hm=bdf60400bce2820bb3733b3021ea407da10776531678bbb0c8e44a6e0590e607&",
-      "author_name": "darkwarepx",
-      "author_id": "462755111811285024",
-      "original_filename": "Dark_Megaman_Ultimate.zip",
-      "attachment_id": "1481361886418047119",
-      "thread_id": "1166808030885728326",
-      "thread_name": "[CUS][NAVI] Megaman and Dark Megaman Ultimate cross edition",
-      "channel_id": "865079018704994355",
-      "guild_id": "455429604455219211"
-    }
-  },
-  "com_darkware_navi_nickname_ultimatemegaman": {
-    "data": {
-      "type": "players",
-      "id": "com.darkware.navi.nickname.ultimatemegaman",
-      "dependencies": [],
-      "subpackages": [],
-      "name": "MegaMan",
-      "detail": {
-        "icon": "images\\com_darkware_navi_nickname_ultimatemegaman_icon.png",
-        "preview": "images\\com_darkware_navi_nickname_ultimatemegaman_preview.png",
-        "animation": "./megaman.animation",
-        "texture": "./navi_megaman_atlas.og.png",
-        "icon_zip": "./pet.png",
-        "preview_zip": "./preview.png"
-      },
-      "speed": 1,
-      "attack": 1,
-      "charge_buster_damage": 10,
-      "description": "I am the best version of myself",
-      "health": 1000,
-      "element": "None",
-      "height": 48,
-      "charge_position": {
-        "x": 4,
-        "y": -20
-      },
-      "charge_shot_color": {
-        "r": 243,
-        "g": 57,
-        "b": 198,
-        "a": 255
-      }
-    },
-    "attachment_data": {
-      "timestamp": 1773254596528,
-      "discord_url": "https://cdn.discordapp.com/attachments/1166808030885728326/1481361886753587451/Megaman_Ultimate.zip?ex=69b30944&is=69b1b7c4&hm=fc6be634c72b17bbd7747c0f717ebeca1008b95aa4e11ac8a9dab367e2969429&",
-      "author_name": "darkwarepx",
-      "author_id": "462755111811285024",
-      "original_filename": "Megaman_Ultimate.zip",
-      "attachment_id": "1481361886753587451",
-      "thread_id": "1166808030885728326",
-      "thread_name": "[CUS][NAVI] Megaman and Dark Megaman Ultimate cross edition",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -8782,12 +8690,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1773088239204,
-      "discord_url": "https://cdn.discordapp.com/attachments/1317300030754918501/1480664134981779486/Protoman.zip?ex=69b07f6f&is=69af2def&hm=9963e885e568308ec943f4acaf082ee54101c296c4a4eef06d654a79ec840a03&",
+      "timestamp": 1773288477336,
+      "discord_url": "https://cdn.discordapp.com/attachments/1317300030754918501/1481503994366132315/Protoman.zip?ex=69b38d9d&is=69b23c1d&hm=3d744b6fb73647ee7b615a57c8f55d5fd913b9ae2152dc7221c205d2a0624eab&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Protoman.zip",
-      "attachment_id": "1480664134981779486",
+      "attachment_id": "1481503994366132315",
       "thread_id": "1317300030754918501",
       "thread_name": "[OFC][MMBN6][MMBN5][NAVI] Protoman/Blues",
       "channel_id": "865079018704994355",
@@ -23324,12 +23232,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1771611628314,
-      "discord_url": "https://cdn.discordapp.com/attachments/1474470321942692010/1474470779918749806/Dark_MegaPVP.zip?ex=699debec&is=699c9a6c&hm=c38674ca25d72bc933108c72ebb183cb31de4eca8cee052c79920e0c0281418b&",
+      "timestamp": 1773288718988,
+      "discord_url": "https://cdn.discordapp.com/attachments/1474470321942692010/1481505008091533505/Dark_MegaPVP.zip?ex=69b38e8e&is=69b23d0e&hm=027559c581e7b460c531365f4c60af88505069bdfc20671a87ed854f5757e063&",
       "author_name": "darkwarepx",
       "author_id": "462755111811285024",
       "original_filename": "Dark_MegaPVP.zip",
-      "attachment_id": "1474470779918749806",
+      "attachment_id": "1481505008091533505",
       "thread_id": "1474470321942692010",
       "thread_name": "[NAVI] [PVP] [OFC] Dark Megaman",
       "channel_id": "865079018704994355",
@@ -23474,17 +23382,17 @@
       "subpackages": [],
       "name": "Splendor",
       "detail": {
-        "preview": "images\\com_dagran_player_Splendor_preview.png",
         "icon": "images\\com_dagran_player_Splendor_icon.png",
+        "preview": "images\\com_dagran_player_Splendor_preview.png",
         "animation": "./battle.animation",
         "texture": "./battle.png",
-        "icon_zip": "./Navi_face.png",
+        "icon_zip": "./pet.png",
         "preview_zip": "./preview.png"
       },
-      "description": "Jack of All Trades",
       "speed": 1,
       "attack": 1,
       "charge_buster_damage": 10,
+      "description": "Jack of All Trades",
       "health": 1000,
       "element": "None",
       "height": 60,
@@ -23500,12 +23408,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1773098864416,
-      "discord_url": "https://cdn.discordapp.com/attachments/1480708694135013640/1480708700128677918/Splendor.zip?ex=69b0a8f0&is=69af5770&hm=36f79443a897594488f1144b11502cff624990fa355e7b7aec734a03d0dd185d&",
+      "timestamp": 1773327982942,
+      "discord_url": "https://cdn.discordapp.com/attachments/1480708694135013640/1481669692618702969/Splendor.zip?ex=69b427ee&is=69b2d66e&hm=91d5571ba21e392c27a8de3814090da8fe1e1fb12f460560d76cbeb6488269b3&",
       "author_name": "_dagran_",
       "author_id": "780487306481500173",
       "original_filename": "Splendor.zip",
-      "attachment_id": "1480708700128677918",
+      "attachment_id": "1481669692618702969",
       "thread_id": "1480708694135013640",
       "thread_name": "[CUS][NAVI][4.5-STYLED]Splendor",
       "channel_id": "865079018704994355",
@@ -23554,6 +23462,98 @@
       "attachment_id": "1480800087990075463",
       "thread_id": "1480800082654789653",
       "thread_name": "[OFC][NAVI][PVP] Circusman",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_navi_nickname_ultimatedarkmegaman": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware.navi.nickname.ultimatedarkmegaman",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Dark MegaMan",
+      "detail": {
+        "icon": "images\\com_darkware_navi_nickname_ultimatedarkmegaman_icon.png",
+        "preview": "images\\com_darkware_navi_nickname_ultimatedarkmegaman_preview.png",
+        "animation": "./megaman.animation",
+        "texture": "./navi_megaman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "I am the most evil version of myself",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 4,
+        "y": -20
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1773291138605,
+      "discord_url": "https://cdn.discordapp.com/attachments/1166808030885728326/1481515156487016512/Dark_Megaman_Ultimate.zip?ex=69b39802&is=69b24682&hm=871abced3039ee5a5b0ba4917b412835a4a2b42bbba4c81f1c977aca096595d3&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Dark_Megaman_Ultimate.zip",
+      "attachment_id": "1481515156487016512",
+      "thread_id": "1166808030885728326",
+      "thread_name": "[CUS][NAVI] Megaman and Dark Megaman Ultimate cross edition",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_darkware_navi_nickname_ultimatemegaman": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware.navi.nickname.ultimatemegaman",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "MegaMan",
+      "detail": {
+        "icon": "images\\com_darkware_navi_nickname_ultimatemegaman_icon.png",
+        "preview": "images\\com_darkware_navi_nickname_ultimatemegaman_preview.png",
+        "animation": "./megaman.animation",
+        "texture": "./navi_megaman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "I am the best version of myself",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 4,
+        "y": -20
+      },
+      "charge_shot_color": {
+        "r": 243,
+        "g": 57,
+        "b": 198,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1773291138605,
+      "discord_url": "https://cdn.discordapp.com/attachments/1166808030885728326/1481515155941752932/Megaman_Ultimate.zip?ex=69b39802&is=69b24682&hm=18ff9216c6b36909cd473c27cea6ca775b146f58ec7e4ffc3edcd446681aae5e&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "Megaman_Ultimate.zip",
+      "attachment_id": "1481515155941752932",
+      "thread_id": "1166808030885728326",
+      "thread_name": "[CUS][NAVI] Megaman and Dark Megaman Ultimate cross edition",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
