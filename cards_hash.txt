@@ -1435,7 +1435,7 @@ b00952524a55f2df3f5a0d8ff69c799e com.OFC.card.EXE4-224-ThunderMan
 ea08ff68860dfe43ab39790fd794eef5 com.OFC.card.EXE4-216-WindManSP
 64aec550f41cc19e58452589d67fc421 com.OFC.card.EXE4-215-WindMan
 bc0603d78025d12361a30e8f503ec9d8 com.OFC.card.EXE6-087-AssassinSword
-850d66e3e0673242edc5cb13f3c9301e com.OFC.card.EXE4-129-Blind
+e2cfa7c42cf4351e8086731a6865bdbf com.OFC.card.EXE4-129-Blind
 03130dc93223b2d2b4aa1aaefc6d3c26 com.chairdev.card.crossman
 c7fed5233cf96442f4dfe8ef27671c7d com.chairdev.card.crossmanex
 3a066c0857c7dbb30dcab3f285cdb28b com.chairdev.card.crossmansp

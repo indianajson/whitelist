@@ -4645,12 +4645,12 @@
       "description": "Test fight with\nthe Metall family\nfrom EXE6"
     },
     "attachment_data": {
-      "timestamp": 1773243949409,
-      "discord_url": "https://cdn.discordapp.com/attachments/1372339239940915323/1481317230456213604/com_OFC_mob_EXE6_001_Metall.zip?ex=69b2dfad&is=69b18e2d&hm=a5315371f2f7bb2029a20fbf8a0ca90710c18382d1794ca0ac3d12ea7f96adf0&",
+      "timestamp": 1773526083342,
+      "discord_url": "https://cdn.discordapp.com/attachments/1372339239940915323/1482500586288054464/com_OFC_mob_EXE6_001_Metall.zip?ex=69b72dc3&is=69b5dc43&hm=9d226e4f3ad0092d122680b3959462a011f603c8fcc381949feb721a774da455&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_mob_EXE6_001_Metall.zip",
-      "attachment_id": "1481317230456213604",
+      "attachment_id": "1482500586288054464",
       "thread_id": "1372339239940915323",
       "thread_name": "[OFC][MOB][EXE6/BN6] Metall (Mettaur) family",
       "channel_id": "865079018704994355",
@@ -5406,6 +5406,34 @@
       "attachment_id": "1480308789541343426",
       "thread_id": "1480308618464067696",
       "thread_name": "[OFC][MOB][EXE6/BN6] Kakajee (Scare Crow) family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_016_CirKiller": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-016-CirKiller",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE4-016-CirKiller"
+      ],
+      "name": "CirKiller (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_016_CirKiller_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nthe CirKiller family\nfrom EXE4"
+    },
+    "attachment_data": {
+      "timestamp": 1773518898879,
+      "discord_url": "https://cdn.discordapp.com/attachments/1482286320410955951/1482470452545982484/com_OFC_mob_EXE4_016_CirKiller.zip?ex=69b711b2&is=69b5c032&hm=36fb0259238769989f890df24cc7fdf919599965e24fc76692f182ec43f20773&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_mob_EXE4_016_CirKiller.zip",
+      "attachment_id": "1482470452545982484",
+      "thread_id": "1482286320410955951",
+      "thread_name": "[OFC][MOB][EXE4/BN4] CirKiller (CirKill) family",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
