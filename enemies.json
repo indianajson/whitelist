@@ -5426,14 +5426,42 @@
       "description": "Test fight with\nthe CirKiller family\nfrom EXE4"
     },
     "attachment_data": {
-      "timestamp": 1773518898879,
-      "discord_url": "https://cdn.discordapp.com/attachments/1482286320410955951/1482470452545982484/com_OFC_mob_EXE4_016_CirKiller.zip?ex=69b711b2&is=69b5c032&hm=36fb0259238769989f890df24cc7fdf919599965e24fc76692f182ec43f20773&",
+      "timestamp": 1773607244231,
+      "discord_url": "https://cdn.discordapp.com/attachments/1482286320410955951/1482840999649611931/com_OFC_mob_EXE4_016_CirKiller.zip?ex=69b86acc&is=69b7194c&hm=a60ba96a4ba3d449ee5c3e65d09ceb1f4762a3864846f0a606b1285ca9020e83&",
       "author_name": "k1rbyat1na",
       "author_id": "239009201530208256",
       "original_filename": "com_OFC_mob_EXE4_016_CirKiller.zip",
-      "attachment_id": "1482470452545982484",
+      "attachment_id": "1482840999649611931",
       "thread_id": "1482286320410955951",
       "thread_name": "[OFC][MOB][EXE4/BN4] CirKiller (CirKill) family",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_OFC_mob_EXE4_014_Kuumoss": {
+    "data": {
+      "type": "enemies",
+      "id": "com.OFC.mob.EXE4-014-Kuumoss",
+      "dependencies": [],
+      "subpackages": [
+        "com.OFC.char.EXE4-014-Kuumoss"
+      ],
+      "name": "Kuumoss (EXE4)",
+      "detail": {
+        "preview": "images\\com_OFC_mob_EXE4_014_Kuumoss_preview.png",
+        "preview_zip": "./preview.png"
+      },
+      "description": "Test fight with\nthe Kuumoss family\nfrom EXE4"
+    },
+    "attachment_data": {
+      "timestamp": 1773610694151,
+      "discord_url": "https://cdn.discordapp.com/attachments/1482855365149462559/1482855469621186711/com_OFC_mob_EXE4_014_Kuumoss.zip?ex=69b87846&is=69b726c6&hm=e411505e8637d7518d7949c833aa3ab1d642389e481a4505e6c74c2d7a2671c6&",
+      "author_name": "k1rbyat1na",
+      "author_id": "239009201530208256",
+      "original_filename": "com_OFC_mob_EXE4_014_Kuumoss.zip",
+      "attachment_id": "1482855469621186711",
+      "thread_id": "1482855365149462559",
+      "thread_name": "[OFC][MOB][EXE4/BN4] Kuumoss (Spidy) family",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }

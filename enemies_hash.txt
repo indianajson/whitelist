@@ -181,4 +181,5 @@ cc47a0cd7a76879ecce59c8445fba7a3 com.OFC.mob.EXE4-046-Duo1
 fbf444714d043f2170fd7e5e05f95dcc com.Dawn.ShaDis.BN3.Ratty
 5ab59f13e3862105eef579a1ceb3b5f2 com.OFC.mob.EXE6-023-Gunner
 414d20568e22b94eda14980edad09c2e com.OFC.mob.EXE6-017-Kakajee
-05995eab5007f32e9df6df0a7a5992aa com.OFC.mob.EXE4-016-CirKiller
+2deda051fe1087fdca0281c8e3b596e4 com.OFC.mob.EXE4-016-CirKiller
+c56643d6e95ea75cadb33f910535f2c6 com.OFC.mob.EXE4-014-Kuumoss

@@ -977,12 +977,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770929157288,
-      "discord_url": "https://cdn.discordapp.com/attachments/959593196923539546/1471608289367294052/Plantman.zip?ex=698f8d85&is=698e3c05&hm=f8be71f4b5cc5688edab55f0008e7eb5a3759d41098fd60cc096e5cc0d989d56&",
+      "timestamp": 1773612009115,
+      "discord_url": "https://cdn.discordapp.com/attachments/959593196923539546/1482860984833019934/Plantman.zip?ex=69b87d69&is=69b72be9&hm=11b951438d8a9b2fef903920f60dc7315f2d416506cc7bd62cd606d09d9d4948&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Plantman.zip",
-      "attachment_id": "1471608289367294052",
+      "attachment_id": "1482860984833019934",
       "thread_id": "959593196923539546",
       "thread_name": "[OFC][NAVI][4.5-STYLED][BN3] Plantman",
       "channel_id": "865079018704994355",
@@ -1445,19 +1445,38 @@
       "id": "com.navi.Searchman",
       "dependencies": [],
       "subpackages": [],
-      "name": "",
+      "name": "Searchman",
       "detail": {
-        "preview": "images\\com_navi_Searchman_preview.png"
+        "preview": "images\\com_navi_Searchman_preview.png",
+        "animation": "./searchman_atlas.animation",
+        "texture": "./searchman_atlas.png",
+        "preview_zip": "./preview.png"
       },
-      "description": "Search out your foes"
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 85,
+      "description": "You're in my sights.",
+      "health": 1000,
+      "element": "Cursor",
+      "height": 60,
+      "charge_position": {
+        "x": 4,
+        "y": -30
+      },
+      "charge_shot_color": {
+        "r": 0,
+        "g": 128,
+        "b": 0,
+        "a": 255
+      }
     },
     "attachment_data": {
-      "timestamp": 1651197881811,
-      "discord_url": "https://cdn.discordapp.com/attachments/969418887399604254/969418921302196254/searchman.zip",
-      "author_name": "D3str0y3d255",
+      "timestamp": 1773611471731,
+      "discord_url": "https://cdn.discordapp.com/attachments/969418887399604254/1482858730767913052/Searchman.zip?ex=69b87b4f&is=69b729cf&hm=f4c8a2204158efdb1af823a84d8cf57da61071adaa6b5d853ac603e1532e6fac&",
+      "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
-      "original_filename": "searchman.zip",
-      "attachment_id": "969418921302196254",
+      "original_filename": "Searchman.zip",
+      "attachment_id": "1482858730767913052",
       "thread_id": "969418887399604254",
       "thread_name": "[OFC][NAVI][PVP]-[+CS] Searchman",
       "channel_id": "865079018704994355",
@@ -2255,14 +2274,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1749181156041,
-      "discord_url": "https://cdn.discordapp.com/attachments/945238541942784020/1380390560191479808/Blastman.zip?ex=6843b463&is=684262e3&hm=5fc6c96404a346c5b41af0cfdc8405d069b06a0dad91cbe169865537cb0cf12a&",
+      "timestamp": 1773611953953,
+      "discord_url": "https://cdn.discordapp.com/attachments/945238541942784020/1482860753596711093/Blastman.zip?ex=69b87d31&is=69b72bb1&hm=9098780323e92354968c11291b97f6869b69447e9080a471ae7cf9b0c1199b76&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Blastman.zip",
-      "attachment_id": "1380390560191479808",
+      "attachment_id": "1482860753596711093",
       "thread_id": "945238541942784020",
-      "thread_name": "[CUS][NAVI] Blastman",
+      "thread_name": "[CUS][NAVI][PLAYER][4.5-STYLED][EXE6/BN6] BlastMan",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -2655,21 +2674,15 @@
       "charge_buster_damage": 50,
       "health": 1000,
       "element": "Break",
-      "height": 60,
-      "charge_shot_color": {
-        "r": 255,
-        "g": 0,
-        "b": 0,
-        "a": 255
-      }
+      "height": 60
     },
     "attachment_data": {
-      "timestamp": 1716672778235,
-      "discord_url": "https://cdn.discordapp.com/attachments/959588141616988232/1244040541146972160/Groundman.zip?ex=6653aa8a&is=6652590a&hm=4f65bb92d4d1f3abc99eb82ae614ab5b2c9e79ddfde29182066c0dcd741f6e7e&",
+      "timestamp": 1773611149110,
+      "discord_url": "https://cdn.discordapp.com/attachments/959588141616988232/1482857377677185126/com_D3stroy3d_player_Groundman.zip?ex=69b87a0c&is=69b7288c&hm=4680155a77ca4d94ac56df549ce0cdfc1c52e7000d35f51e9e8ca56fcce8b826&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
-      "original_filename": "Groundman.zip",
-      "attachment_id": "1244040541146972160",
+      "original_filename": "com_D3stroy3d_player_Groundman.zip",
+      "attachment_id": "1482857377677185126",
       "thread_id": "959588141616988232",
       "thread_name": "[OFC][NAVI] Groundman",
       "channel_id": "865079018704994355",
@@ -3180,12 +3193,12 @@
       "float_shoe": true
     },
     "attachment_data": {
-      "timestamp": 1757356097605,
-      "discord_url": "https://cdn.discordapp.com/attachments/1148017092155682868/1414678750297329755/Quickman.zip?ex=68c071c1&is=68bf2041&hm=5f48859b083e4b6b8fe252332c395ad4bc074f6e2c1a16111d72774724193f6d&",
+      "timestamp": 1773613179744,
+      "discord_url": "https://cdn.discordapp.com/attachments/1148017092155682868/1482865894991466586/Quickman.zip?ex=69b881fb&is=69b7307b&hm=7223d6a2557d4521e25372499681f5961019fffff175076d999abfc52d483580&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Quickman.zip",
-      "attachment_id": "1414678750297329755",
+      "attachment_id": "1482865894991466586",
       "thread_id": "1148017092155682868",
       "thread_name": "[BN2][CUS][4.5-STYLED][PLAYER] Quickman",
       "channel_id": "865079018704994355",
@@ -4541,12 +4554,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1716672760958,
-      "discord_url": "https://cdn.discordapp.com/attachments/1152044690007412827/1244040468929450015/Fireman.zip?ex=6653aa78&is=665258f8&hm=23a4a7f01ac6a012325b533ea72c6f5f48e2e04c4c0c7c75f3b5fe97a6c308a5&",
+      "timestamp": 1773611822314,
+      "discord_url": "https://cdn.discordapp.com/attachments/1152044690007412827/1482860201383034880/Fireman.zip?ex=69b87cae&is=69b72b2e&hm=4f7f934dd80af0699356c981e3b3eeea63db2e32e0c1333d517c232684b2fb60&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Fireman.zip",
-      "attachment_id": "1244040468929450015",
+      "attachment_id": "1482860201383034880",
       "thread_id": "1152044690007412827",
       "thread_name": "[OFC][NAVI] Fireman",
       "channel_id": "865079018704994355",
@@ -4946,14 +4959,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1749179878543,
-      "discord_url": "https://cdn.discordapp.com/attachments/1158084501478592562/1380385201930244146/numberman.zip?ex=6843af66&is=68425de6&hm=d98e60e7dd5cd549fa3373f2cad893b85593712d31e0e53a36c0db8036710701&",
+      "timestamp": 1773611243226,
+      "discord_url": "https://cdn.discordapp.com/attachments/1158084501478592562/1482857772579295362/numberman.zip?ex=69b87a6b&is=69b728eb&hm=6de15f10b7442a0a5bc62d00d008814ecf9b6eaa5744dbb4f20c64ed71edafb4&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "numberman.zip",
-      "attachment_id": "1380385201930244146",
+      "attachment_id": "1482857772579295362",
       "thread_id": "1158084501478592562",
-      "thread_name": "[OFC][NAVI] Numberman.exe (CS + Special to swap CS)",
+      "thread_name": "[OFC][NAVI][4.5-STYLED] Numberman.exe",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -5128,12 +5141,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1759862603152,
-      "discord_url": "https://cdn.discordapp.com/attachments/1160711501867397231/1425191796568358963/Woodman.zip?ex=68e6b0cb&is=68e55f4b&hm=c91f5b21556f17acd6e4a673f1f78848f3dd342f5ce286e7ceeffb0d9b74d5f7&",
+      "timestamp": 1773611857949,
+      "discord_url": "https://cdn.discordapp.com/attachments/1160711501867397231/1482860350541009018/Woodman.zip?ex=69b87cd1&is=69b72b51&hm=edf8398e37826a3573f50fe9f9e087ce6689ed2c6b73c32e0757848bb595a51e&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Woodman.zip",
-      "attachment_id": "1425191796568358963",
+      "attachment_id": "1482860350541009018",
       "thread_id": "1160711501867397231",
       "thread_name": "[OFC][NAVI][4.5-STYLED] Woodman.exe",
       "channel_id": "865079018704994355",
@@ -5397,12 +5410,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1770929189623,
-      "discord_url": "https://cdn.discordapp.com/attachments/1167581576599719999/1471608424772010258/Ring.zip?ex=698f8da5&is=698e3c25&hm=159ca3fbcf754539f7145413c422277bc8a78a4786ebda7d35e5fa862ea4d502&",
+      "timestamp": 1773611364705,
+      "discord_url": "https://cdn.discordapp.com/attachments/1167581576599719999/1482858282111598734/Ring.zip?ex=69b87ae4&is=69b72964&hm=b4c82fbcd0b7cc961c14ec780189134b92d5e2dfc5d862e18aeb9ff27883a926&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Ring.zip",
-      "attachment_id": "1471608424772010258",
+      "attachment_id": "1482858282111598734",
       "thread_id": "1167581576599719999",
       "thread_name": "[OFC][NAVI][4.5-STYLED] Ring.exe",
       "channel_id": "865079018704994355",
@@ -5699,12 +5712,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1749178665701,
-      "discord_url": "https://cdn.discordapp.com/attachments/1180006767627870208/1380380114831016067/Knightman.zip?ex=6843aaa9&is=68425929&hm=04a361a70a95377b314d0eb7ebb7b3433a638c4777a47d4fc6562e2e2f1c29ec&",
+      "timestamp": 1773611410912,
+      "discord_url": "https://cdn.discordapp.com/attachments/1180006767627870208/1482858475926196314/Knightman.zip?ex=69b87b12&is=69b72992&hm=9201d07acefa1a80bf5514231538a4819e948c95d74433252d470262ca0daa80&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Knightman.zip",
-      "attachment_id": "1380380114831016067",
+      "attachment_id": "1482858475926196314",
       "thread_id": "1180006767627870208",
       "thread_name": "[OFC][NAVI][4.5-STYLED] Knightman.exe",
       "channel_id": "865079018704994355",
@@ -5745,12 +5758,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1716673474671,
-      "discord_url": "https://cdn.discordapp.com/attachments/1180368142279639040/1244043462194630656/Windman.zip?ex=6653ad42&is=66525bc2&hm=80dcc4807df3ab2d0575d8eaac10e48c6731e677d977d3d8308b81134e56d611&",
+      "timestamp": 1773611205381,
+      "discord_url": "https://cdn.discordapp.com/attachments/1180368142279639040/1482857613719896164/Windman.zip?ex=69b87a45&is=69b728c5&hm=f1672ac5f66fde94f9917737ddb9167fb35c9583ea32eeeccb43d7af56cc669d&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Windman.zip",
-      "attachment_id": "1244043462194630656",
+      "attachment_id": "1482857613719896164",
       "thread_id": "1180368142279639040",
       "thread_name": "[OFC][NAVI][4.5-STYLED] Windman.exe",
       "channel_id": "865079018704994355",
@@ -7042,14 +7055,14 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1717883042291,
-      "discord_url": "https://cdn.discordapp.com/attachments/1249108495354040370/1249116756530954311/Drillman.zip?ex=66662222&is=6664d0a2&hm=0785244aaeea0b5a895da21efbece69fd59d70cc7485b48e47c1f4299fe567bb&",
+      "timestamp": 1773611520586,
+      "discord_url": "https://cdn.discordapp.com/attachments/1249108495354040370/1482858935965974671/Drillman.zip?ex=69b87b80&is=69b72a00&hm=30325a6aa2cf872cd5fc48a5c0a99a852f728878fbc4b60c09e92d602cd24d8e&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Drillman.zip",
-      "attachment_id": "1249116756530954311",
+      "attachment_id": "1482858935965974671",
       "thread_id": "1249108495354040370",
-      "thread_name": "[OFC][NAVI][4.5-STYLED] Drillman",
+      "thread_name": "[OFC][NAVI][4.5-STYLED][PoN][BN3] Drillman",
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
@@ -7493,12 +7506,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1723749828979,
-      "discord_url": "https://cdn.discordapp.com/attachments/1271573273074860042/1273723843499917382/Judgeman.zip?ex=66bfa744&is=66be55c4&hm=c21ce12675d614efd0b45bb2512ee748b280b06430addcd9512b969092b30b53&",
+      "timestamp": 1773614224053,
+      "discord_url": "https://cdn.discordapp.com/attachments/1271573273074860042/1482870275224899716/Judgeman.zip?ex=69b88610&is=69b73490&hm=5a05b0dafa136a02c3d0b6d2319d4251794dd4197e7967fb65090563efea11b5&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Judgeman.zip",
-      "attachment_id": "1273723843499917382",
+      "attachment_id": "1482870275224899716",
       "thread_id": "1271573273074860042",
       "thread_name": "[OFC][NAVI][BN6][CS+Special] Judgeman",
       "channel_id": "865079018704994355",
@@ -7812,12 +7825,12 @@
       "air_shoe": true
     },
     "attachment_data": {
-      "timestamp": 1749180323599,
-      "discord_url": "https://cdn.discordapp.com/attachments/1283921573690081327/1380387068865286205/shademan.zip?ex=6843b123&is=68425fa3&hm=c1ece061aaf7fa33ac3ab266abf4e9b121e56d190d2ab44531385697df23612b&",
+      "timestamp": 1773614784729,
+      "discord_url": "https://cdn.discordapp.com/attachments/1283921573690081327/1482872626635341914/shademan.zip?ex=69b88840&is=69b736c0&hm=95c44d8efab2466b0c14dad606f994167ed64bcec4dcb0312cb292293bb855b6&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "shademan.zip",
-      "attachment_id": "1380387068865286205",
+      "attachment_id": "1482872626635341914",
       "thread_id": "1283921573690081327",
       "thread_name": "[OFC][CUS][BN4][NAVI][4.5-STYLED] Shademan",
       "channel_id": "865079018704994355",
@@ -8824,12 +8837,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1747696746686,
-      "discord_url": "https://cdn.discordapp.com/attachments/1319990416044589058/1374164496083587082/Rideman_r.zip?ex=682d0dea&is=682bbc6a&hm=33039e606e1f94f801598a1b9f84fe78dec2e218b0e7417f372b9b1ff9fd7e4e&",
+      "timestamp": 1773611612461,
+      "discord_url": "https://cdn.discordapp.com/attachments/1319990416044589058/1482859321258672349/Rideman_r.zip?ex=69b87bdc&is=69b72a5c&hm=b8c073c5d09636fb02106a58ce849ec35e7bd4eba845b1fac683cf9fd6fb3ee1&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Rideman_r.zip",
-      "attachment_id": "1374164496083587082",
+      "attachment_id": "1482859321258672349",
       "thread_id": "1319990416044589058",
       "thread_name": "[OFC][CUS][LoN][4.5-STYLED] Reverse Rideman",
       "channel_id": "865079018704994355",
@@ -8870,12 +8883,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1736699009910,
-      "discord_url": "https://cdn.discordapp.com/attachments/1327904722656563301/1328036644733063205/Chargeman.zip?ex=67853e01&is=6783ec81&hm=c2a4598e7d77b0a78920a2c6f23d3e84c64bd9cac2e5a9185c2fafbf9c094b45&",
+      "timestamp": 1773611706646,
+      "discord_url": "https://cdn.discordapp.com/attachments/1327904722656563301/1482859716215574528/Chargeman.zip?ex=69b87c3a&is=69b72aba&hm=0f5ebaf7cb2780c2e32973de37af634c79d8a28379c0b82abafb3b0263462d39&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Chargeman.zip",
-      "attachment_id": "1328036644733063205",
+      "attachment_id": "1482859716215574528",
       "thread_id": "1327904722656563301",
       "thread_name": "[BN6][OFC][NAVI][PLAYER] Chargeman",
       "channel_id": "865079018704994355",
@@ -9218,12 +9231,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1738852639661,
-      "discord_url": "https://cdn.discordapp.com/attachments/1337069176883515443/1337069622607745158/Rideman.zip?ex=67a61a9f&is=67a4c91f&hm=e55bace86ef9c785754e90617ace1c4d63a79087de7c87faecf705d0273326de&",
+      "timestamp": 1773611586379,
+      "discord_url": "https://cdn.discordapp.com/attachments/1337069176883515443/1482859211921821847/Rideman.zip?ex=69b87bc2&is=69b72a42&hm=7bae5152300f25262c2a742d33e70971bf9c4e1662366d7c056b073ea75b488e&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Rideman.zip",
-      "attachment_id": "1337069622607745158",
+      "attachment_id": "1482859211921821847",
       "thread_id": "1337069176883515443",
       "thread_name": "[OFC][LoN][NAVI][PLAYER][4.5-STYLED] Rideman",
       "channel_id": "865079018704994355",
@@ -12032,12 +12045,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1761931569863,
-      "discord_url": "https://cdn.discordapp.com/attachments/1433867963106332712/1433869671592890520/Mistman.zip?ex=690642b1&is=6904f131&hm=cc7adc3f40a1400903ad0e65830997e04d6734ab0be229d50267e1974147223a&",
+      "timestamp": 1773611662575,
+      "discord_url": "https://cdn.discordapp.com/attachments/1433867963106332712/1482859531590566038/Mistman.zip?ex=69b87c0e&is=69b72a8e&hm=69e821444047875a865a0acc6b6bcf82116a8cfdf61f41f022ab5fb4ebb4e816&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "Mistman.zip",
-      "attachment_id": "1433869671592890520",
+      "attachment_id": "1482859531590566038",
       "thread_id": "1433867963106332712",
       "thread_name": "[OFC][CUS][BN3][4.5-STYLED] Mistman",
       "channel_id": "865079018704994355",
@@ -21299,12 +21312,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1765865139509,
-      "discord_url": "https://cdn.discordapp.com/attachments/1450368087600795701/1450368259047030864/JammingMan.zip?ex=69424833&is=6940f6b3&hm=ba414057f45ead2d779b2ad32a6ba3550aa5c7a332c8390e285f0c3d92c68122&",
+      "timestamp": 1773611913679,
+      "discord_url": "https://cdn.discordapp.com/attachments/1450368087600795701/1482860584742686740/JammingMan.zip?ex=69b87d09&is=69b72b89&hm=9db7023359d893797d90bb02c8665a71a2bf798b25653ce82d01756c024c526b&",
       "author_name": "d3str0y3d255",
       "author_id": "414013449585033216",
       "original_filename": "JammingMan.zip",
-      "attachment_id": "1450368259047030864",
+      "attachment_id": "1482860584742686740",
       "thread_id": "1450368087600795701",
       "thread_name": "[OFC] [PON] [PVP] Jammingman",
       "channel_id": "865079018704994355",
