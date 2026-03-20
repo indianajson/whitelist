@@ -318,7 +318,7 @@ c1e0cd6365a305badb1feac51ca21481 com.drawcie.navi.darkmegaPVP
 f7534f011701fe52d96ed506ab6bafed Gregar
 650be4456bf5abd49a6404e161c56c6d com.maplewood&darkware.Roll
 5b30a8a5179deaf1a66740a0dffab76c Cyanman V5 Base
-e9e0476c52c4838a973a065cb9248cea com.dagran.player.Splendor
+2f90033642d9937e6dc580c37e66cab6 com.dagran.player.Splendor
 d644f37fe4605bd5ab1e91645d18b1f8 com.d3str0y3d255&guava.navi.circusmanpvp
 165cedaabdf8564a5b2b6a6b562b327c com.darkware.navi.nickname.ultimatedarkmegaman
 970063eeabdc56aed1fe078aae6cd054 com.darkware.navi.nickname.ultimatemegaman
