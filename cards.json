@@ -18260,16 +18260,18 @@
           "secondary_element": "None",
           "description": "Launch 2 fangs up and down",
           "limit": 4
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1669085519527,
-      "discord_url": "https://cdn.discordapp.com/attachments/1030288483253764166/1044445111603445850/Twinfang3.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1774327959788,
+      "discord_url": "https://cdn.discordapp.com/attachments/1030288483253764166/1485863900183527496/hoov_card_twinfang3.zip?ex=69c36a17&is=69c21897&hm=48e2511b3d9d60d3f9dda91269d8c1488a874e7de292c439e33d32de01583ea0&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "Twinfang3.zip",
-      "attachment_id": "1044445111603445850",
+      "original_filename": "hoov_card_twinfang3.zip",
+      "attachment_id": "1485863900183527496",
       "thread_id": "1030288483253764166",
       "thread_name": "[EXE4][CHIP] Twinfang Series",
       "channel_id": "865079018704994355",
@@ -18300,16 +18302,18 @@
           "secondary_element": "None",
           "description": "Launch 2 fangs up and down",
           "limit": 4
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1669085519527,
-      "discord_url": "https://cdn.discordapp.com/attachments/1030288483253764166/1044445111322415134/Twinfang2.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1774327959788,
+      "discord_url": "https://cdn.discordapp.com/attachments/1030288483253764166/1485863899839332452/hoov_card_twinfang2.zip?ex=69c36a17&is=69c21897&hm=ee7d63cec45f8c07c74c2137081f819ebb7c890ed8a516cd4648374d5388034d&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "Twinfang2.zip",
-      "attachment_id": "1044445111322415134",
+      "original_filename": "hoov_card_twinfang2.zip",
+      "attachment_id": "1485863899839332452",
       "thread_id": "1030288483253764166",
       "thread_name": "[EXE4][CHIP] Twinfang Series",
       "channel_id": "865079018704994355",
@@ -18341,16 +18345,18 @@
           "secondary_element": "None",
           "description": "Launch 2 fangs up and down",
           "limit": 4
-        }
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
       }
     },
     "attachment_data": {
-      "timestamp": 1669085519527,
-      "discord_url": "https://cdn.discordapp.com/attachments/1030288483253764166/1044445111020437544/Twinfang1.zip",
-      "author_name": "Hooviey",
+      "timestamp": 1774327959788,
+      "discord_url": "https://cdn.discordapp.com/attachments/1030288483253764166/1485863899453460531/hoov_card_twinfang1.zip?ex=69c36a17&is=69c21897&hm=c12fccb50971c633ed7b14ed04058219771c705bae5b458ff01ff47fcdfdfc5d&",
+      "author_name": "hooviey",
       "author_id": "736271336376107068",
-      "original_filename": "Twinfang1.zip",
-      "attachment_id": "1044445111020437544",
+      "original_filename": "hoov_card_twinfang1.zip",
+      "attachment_id": "1485863899453460531",
       "thread_id": "1030288483253764166",
       "thread_name": "[EXE4][CHIP] Twinfang Series",
       "channel_id": "865079018704994355",
@@ -20984,12 +20990,12 @@
       }
     },
     "attachment_data": {
-      "timestamp": 1773333608207,
-      "discord_url": "https://cdn.discordapp.com/attachments/1012521664623427677/1481693286950502492/com_louise_card_icewave.zip?ex=69b43de8&is=69b2ec68&hm=ce698f456cb397550aed46ff416f377286792d7839fddeca46021189c299fad1&",
+      "timestamp": 1774375465425,
+      "discord_url": "https://cdn.discordapp.com/attachments/1012521664623427677/1486063152495067196/com_louise_card_icewave.zip?ex=69c423a9&is=69c2d229&hm=67e9db8f43945f5afe512d6ebb82dc5595b0d77aac40a6fd91b60ac1542f80bd&",
       "author_name": "hooviey",
       "author_id": "736271336376107068",
       "original_filename": "com_louise_card_icewave.zip",
-      "attachment_id": "1481693286950502492",
+      "attachment_id": "1486063152495067196",
       "thread_id": "1012521664623427677",
       "thread_name": "[EXE3] [CUS] Ice wave",
       "channel_id": "865079018704994355",

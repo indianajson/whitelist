@@ -454,9 +454,9 @@ ff945a11f53838b1bdb78ce2e2337994 com.k1rbyat1na.card.EXE6-277-HakushakuEX
 b46e2a4af4e66947a1025ca086dd51ab com.k1rbyat1na.card.EXE5-282-LeadersRaid
 982885e2656d6370f6401e363365aa94 com.k1rbyat1na.card.EXE4-276-GrandPrixPower
 cd449ad8b803c1f623299aeebe234e24 com.k1rbyat1na.card.EXE6-185-MagneCoil
-ab6c26eda645411c1c2cf8d06ecb1e99 hoov.card.twinfang3
-3245e60c0cedb5b32fa8fe0222435e42 hoov.card.twinfang2
-337b0317e8208b09965f9530492c81dd hoov.card.twinfang1
+417e99f8c791050045de643e1e118fd3 hoov.card.twinfang3
+6a158cff457e32fee5a807054ad00137 hoov.card.twinfang2
+2c55007e733589576a6b1feff627c012 hoov.card.twinfang1
 1f836178eee3d64e82daedb3a0a2127e hoov.cards.MagBomb3
 3315bc5a028189ced3f5162f6eb507a7 hoov.cards.MagBomb2
 d5f6c95f54f5ff823b792fd994b02b45 hoov.cards.MagBomb1
@@ -521,7 +521,7 @@ c882d78533741e8b3d183cabc9f2abfe com.louis.QuickBmrg
 1c249d90a46627045ae44c2882a9472f com.louise.card.GolmHit3
 687ea74e7dc05907f14fd82d7a297668 com.louise.card.GolmHit2
 cdd8d80f55931d286f81ab6016d8f22e com.louise.card.GolmHit1
-0bed5355212ed545731b6614e2062cea com.louise.card.icewave
+3fcff0008c838215554534f7a33dc129 com.louise.card.icewave
 8250f6a99aba87c4f757b8b18d1e206a com.louise.card.magbolt
 51ae908a02668370628e92a2f3d96988 com.isabelle.card.re.hubbatch
 73bb936a15b777223a6924dafe57199f com.louise.card.BassBn4-6

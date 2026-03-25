@@ -23570,5 +23570,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_darkware_navi_megamanstfpvp": {
+    "data": {
+      "type": "players",
+      "id": "com.darkware.navi.megamanstfpvp",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "MegaMan(STF)",
+      "detail": {
+        "icon": "images\\com_darkware_navi_megamanstfpvp_icon.png",
+        "preview": "images\\com_darkware_navi_megamanstfpvp_preview.png",
+        "animation": "./megaman.animation",
+        "texture": "./navi_megaman_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "The future has already arrived",
+      "health": 1000,
+      "element": "None",
+      "height": 48,
+      "charge_position": {
+        "x": 4,
+        "y": -20
+      },
+      "charge_shot_color": {
+        "r": 224,
+        "g": 248,
+        "b": 64,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1774327646463,
+      "discord_url": "https://cdn.discordapp.com/attachments/1485861552073736393/1485862585583669288/MegamanSTF_PVP.zip?ex=69c368de&is=69c2175e&hm=69a2cdecda1cfd620b240f679cf92b5e03b2296dcaeb4c65212172c7b8112d7b&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "MegamanSTF_PVP.zip",
+      "attachment_id": "1485862585583669288",
+      "thread_id": "1485861552073736393",
+      "thread_name": "[OFC][NAVI][PVP][STF] Megaman Star Force MMBN6 style",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
