@@ -63007,5 +63007,173 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_card_darkware_ragashi_MudField": {
+    "data": {
+      "type": "cards",
+      "id": "com.card.darkware&ragashi.MudField",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_card_darkware_ragashi_MudField_icon.png",
+        "preview": "images\\com_card_darkware_ragashi_MudField_preview.png",
+        "codes": [
+          "M",
+          "U",
+          "D"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "MudFld",
+          "damage": 0,
+          "time_freeze": true,
+          "element": "Aqua",
+          "description": "Better Sea? Panels",
+          "long_description": "Transform the entire field into mud tiles.",
+          "limit": 3
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1774759416933,
+      "discord_url": "https://cdn.discordapp.com/attachments/1487670939494776943/1487673561370857582/MudField.zip?ex=69c9ff78&is=69c8adf8&hm=c4675b22da6927a3183dc56f87fe8eb8efce3bc5a3ed64c22b74e0040ed4e053&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "MudField.zip",
+      "attachment_id": "1487673561370857582",
+      "thread_id": "1487670939494776943",
+      "thread_name": "[CUS][CHIPS] Meadow,Inferno,Elec and Mud tiles",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_card_darkware_ragashi_MeadowField": {
+    "data": {
+      "type": "cards",
+      "id": "com.card.darkware&ragashi.MeadowField",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_card_darkware_ragashi_MeadowField_icon.png",
+        "preview": "images\\com_card_darkware_ragashi_MeadowField_preview.png",
+        "codes": [
+          "M",
+          "E",
+          "D"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "MeadowFld",
+          "damage": 0,
+          "time_freeze": true,
+          "element": "Wood",
+          "description": "Better Grass Panels",
+          "long_description": "Turn entire field in meadow tiles",
+          "limit": 3
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1774759416933,
+      "discord_url": "https://cdn.discordapp.com/attachments/1487670939494776943/1487673562167902350/MeadowField.zip?ex=69c9ff78&is=69c8adf8&hm=f44639c36883dc338d89fe48b7c89ca71df162c3b5055e6ac80babf8eca78982&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "MeadowField.zip",
+      "attachment_id": "1487673562167902350",
+      "thread_id": "1487670939494776943",
+      "thread_name": "[CUS][CHIPS] Meadow,Inferno,Elec and Mud tiles",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_card_darkware_ragashi_InfernoField": {
+    "data": {
+      "type": "cards",
+      "id": "com.card.darkware&ragashi.InfernoField",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_card_darkware_ragashi_InfernoField_icon.png",
+        "preview": "images\\com_card_darkware_ragashi_InfernoField_preview.png",
+        "codes": [
+          "I",
+          "N",
+          "F"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "InfrnoFld",
+          "damage": 0,
+          "time_freeze": true,
+          "element": "Fire",
+          "description": "Better Lava Panels",
+          "long_description": "Turn entire field in inferno tiles",
+          "limit": 3
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1774759416933,
+      "discord_url": "https://cdn.discordapp.com/attachments/1487670939494776943/1487673561886752908/InfernoField.zip?ex=69c9ff78&is=69c8adf8&hm=3303ca0e772acd333870bc79152849c738a34150bc4fce4d7fb1e8dfd7a2d517&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "InfernoField.zip",
+      "attachment_id": "1487673561886752908",
+      "thread_id": "1487670939494776943",
+      "thread_name": "[CUS][CHIPS] Meadow,Inferno,Elec and Mud tiles",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
+  },
+  "com_card_darkware_ragashi_ElecField": {
+    "data": {
+      "type": "cards",
+      "id": "com.card.darkware&ragashi.ElecField",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "",
+      "detail": {
+        "icon": "images\\com_card_darkware_ragashi_ElecField_icon.png",
+        "preview": "images\\com_card_darkware_ragashi_ElecField_preview.png",
+        "codes": [
+          "E",
+          "L",
+          "C"
+        ],
+        "props": {
+          "can_boost": false,
+          "shortname": "ElecFld",
+          "damage": 0,
+          "time_freeze": true,
+          "element": "Elec",
+          "description": "Better Metal Panels",
+          "long_description": "Transform the entire field into electrified metal tiles.",
+          "limit": 3
+        },
+        "icon_zip": "./icon.png",
+        "preview_zip": "./preview.png"
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1774759416933,
+      "discord_url": "https://cdn.discordapp.com/attachments/1487670939494776943/1487673561635229867/ElecField.zip?ex=69c9ff78&is=69c8adf8&hm=df72f0c51e1bc7792106ce53103a19f06d837439d05d622ec0d38b722986a692&",
+      "author_name": "darkwarepx",
+      "author_id": "462755111811285024",
+      "original_filename": "ElecField.zip",
+      "attachment_id": "1487673561635229867",
+      "thread_id": "1487670939494776943",
+      "thread_name": "[CUS][CHIPS] Meadow,Inferno,Elec and Mud tiles",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
