@@ -1529,3 +1529,4 @@ c89f9d5dcc648178f527a534594ef271 com.card.darkware&ragashi.MudField
 ec53ab4acce31e677086a1a634a52317 com.card.darkware&ragashi.MeadowField
 eb38e30626978c68ab7824a3dd936081 com.card.darkware&ragashi.InfernoField
 b1c9738066e483f3a54d7244660c2278 com.card.darkware&ragashi.ElecField
+06ebed606f41c6adab7bb0dfe61717a2 CaveStory.Xceed.Sue
