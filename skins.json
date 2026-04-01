@@ -440,5 +440,27 @@
       "channel_id": "932744419948507166",
       "guild_id": "455429604455219211"
     }
+  },
+  "1488712214721593555": {
+    "data": {
+      "type": "skins",
+      "name": "Megaman Zero Model W Theme / Evil Dark Navi Theme",
+      "id": "1488712214721593555",
+      "description": "<:ONBEvilAura:991944549410807899>",
+      "discord_url": "https://cdn.discordapp.com/attachments/1488712214721593555/1488712360855081020/pet_ui_og.zip?ex=69cdc6ed&is=69cc756d&hm=e678b17c2eecd039d4f732441e93f8a12297b89461452aab4c882bf2707047a9&",
+      "screenshots": []
+    },
+    "attachment_data": {
+      "timestamp": 1775007085789,
+      "discord_url": "https://cdn.discordapp.com/attachments/1488712214721593555/1488712360855081020/pet_ui_og.zip?ex=69cdc6ed&is=69cc756d&hm=e678b17c2eecd039d4f732441e93f8a12297b89461452aab4c882bf2707047a9&",
+      "author_name": "fenrirwyrmblood",
+      "author_id": "203335116049612800",
+      "original_filename": "pet_ui_og.zip",
+      "attachment_id": "1488712360855081020",
+      "thread_id": "1488712214721593555",
+      "thread_name": "Megaman Zero Model W Theme / Evil Dark Navi Theme",
+      "channel_id": "932744419948507166",
+      "guild_id": "455429604455219211"
+    }
   }
 }
