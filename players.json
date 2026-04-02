@@ -25226,5 +25226,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "Discord_FenrirWyrmblood_Basic_BlazingFlizard": {
+    "data": {
+      "type": "players",
+      "id": "Discord_FenrirWyrmblood_Basic_BlazingFlizard",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Blazing Flizard",
+      "detail": {
+        "icon": "images\\Discord_FenrirWyrmblood_Basic_BlazingFlizard_icon.png",
+        "preview": "images\\Discord_FenrirWyrmblood_Basic_BlazingFlizard_preview.png",
+        "animation": "./battle.out.anim",
+        "texture": "./battle.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "Find me a worthy opponent.",
+      "health": 1000,
+      "element": "Fire",
+      "height": 40,
+      "charge_position": {
+        "x": 0,
+        "y": -20
+      },
+      "charge_shot_color": {
+        "r": 255,
+        "g": 131,
+        "b": 0,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1775019096621,
+      "discord_url": "https://cdn.discordapp.com/attachments/1488761226015146115/1488762737734717460/Discord_FenrirWyrmblood_Basic_BlazingFlizard.zip?ex=69cdf5d8&is=69cca458&hm=05e9d4a9059a74076c907d1b2026aa72deaf10b44e77b76b36ae07130a499afe&",
+      "author_name": "fenrirwyrmblood",
+      "author_id": "203335116049612800",
+      "original_filename": "Discord_FenrirWyrmblood_Basic_BlazingFlizard.zip",
+      "attachment_id": "1488762737734717460",
+      "thread_id": "1488761226015146115",
+      "thread_name": "[MMZ3] [NAVI] [PVP] [BASIC] Blazin Flizard",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
