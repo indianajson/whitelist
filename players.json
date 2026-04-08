@@ -25318,5 +25318,51 @@
       "channel_id": "865079018704994355",
       "guild_id": "455429604455219211"
     }
+  },
+  "com_Ota_D3str0y3d255_SlurPVP": {
+    "data": {
+      "type": "players",
+      "id": "com.Ota&D3str0y3d255.SlurPVP",
+      "dependencies": [],
+      "subpackages": [],
+      "name": "Slur",
+      "detail": {
+        "icon": "images\\com_Ota_D3str0y3d255_SlurPVP_icon.png",
+        "preview": "images\\com_Ota_D3str0y3d255_SlurPVP_preview.png",
+        "animation": "./slur.animation",
+        "texture": "./navi_slur_atlas.og.png",
+        "icon_zip": "./pet.png",
+        "preview_zip": "./preview.png"
+      },
+      "speed": 1,
+      "attack": 1,
+      "charge_buster_damage": 10,
+      "description": "Shut up! You Earth NetNavi!",
+      "health": 1000,
+      "element": "None",
+      "height": 65,
+      "charge_position": {
+        "x": 2,
+        "y": -29
+      },
+      "charge_shot_color": {
+        "r": 248,
+        "g": 248,
+        "b": 0,
+        "a": 255
+      }
+    },
+    "attachment_data": {
+      "timestamp": 1775608893303,
+      "discord_url": "https://cdn.discordapp.com/attachments/1491187306521034963/1491236524346572841/SlurPVP.zip?ex=69d6f5bd&is=69d5a43d&hm=4f34742182ec808caf6133f81eed5b4413c43186550ff11a5519d4bfd0af18aa&",
+      "author_name": "d3str0y3d255",
+      "author_id": "414013449585033216",
+      "original_filename": "SlurPVP.zip",
+      "attachment_id": "1491236524346572841",
+      "thread_id": "1491187306521034963",
+      "thread_name": "[CUS][PVP][PLAYER][NAVI][ANIME] Slur.exe",
+      "channel_id": "865079018704994355",
+      "guild_id": "455429604455219211"
+    }
   }
 }
