@@ -147,7 +147,7 @@ d6b0603f0bcf4eaa84df02cb2fc41072 Professor.Ztar.Player.MrProgOrange
 65feaf18dc873b1fdcb052bf2b3d3f1c Professor.Ztar.Player.MrProgGold
 043d24bfdb6d4b77a7aa13a228869131 com.D3stroy3d&Vide.player.Beastman
 4bd722a047cde31b66344daf1b37af61 com.darkware.navi.rogueSF
-78ae5d50a4cdf23e061b0b98b338a65d com.navi.JaydeSwift.TomahawkMan
+dbc9f271de022b5ef85672be95d0710d com.navi.JaydeSwift.TomahawkMan
 6230ab56ba8f62b4ebc0709a95bdf212 OctoChris.Player.MetalSonic
 a8c9b12145866b9002ae07c7ae1b9335 com.D3str0y3d255ANDDarkwarePX.Toadman.Player
 312c8e17387d1233e17ac586843c6fe1 com.D3stroy3dANDDarkwarePX.player.Fireman
