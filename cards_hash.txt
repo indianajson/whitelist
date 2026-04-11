@@ -1525,8 +1525,8 @@ b69115987bd068551d530d826fab2992 DJ.Modifieid-Sand
 e1f093e7865d299e9c36490e0d036089 DJ.SandQuake
 f3cfef0322db9b4443b10af7b0bde668 com.DJ.QuakeWave
 b8b9f8e73220f7d5446ef8a9a337ede6 com.OFC.card.EXE6-179-Invisible
-c89f9d5dcc648178f527a534594ef271 com.card.darkware&ragashi.MudField
-ec53ab4acce31e677086a1a634a52317 com.card.darkware&ragashi.MeadowField
-eb38e30626978c68ab7824a3dd936081 com.card.darkware&ragashi.InfernoField
-b1c9738066e483f3a54d7244660c2278 com.card.darkware&ragashi.ElecField
+3a011253ec749ad76b022fab3f49d5b3 com.card.darkware&ragashi.MudField
+cf28a5fea9f3d429bb156f2de4b27c8b com.card.darkware&ragashi.MeadowField
+66b7113505c8535290c25088017a1f96 com.card.darkware&ragashi.InfernoField
+318de59012d5170070b95bb6d3b8d906 com.card.darkware&ragashi.ElecField
 06ebed606f41c6adab7bb0dfe61717a2 CaveStory.Xceed.Sue
