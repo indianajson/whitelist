@@ -1529,4 +1529,4 @@ b8b9f8e73220f7d5446ef8a9a337ede6 com.OFC.card.EXE6-179-Invisible
 cf28a5fea9f3d429bb156f2de4b27c8b com.card.darkware&ragashi.MeadowField
 66b7113505c8535290c25088017a1f96 com.card.darkware&ragashi.InfernoField
 318de59012d5170070b95bb6d3b8d906 com.card.darkware&ragashi.ElecField
-06ebed606f41c6adab7bb0dfe61717a2 CaveStory.Xceed.Sue
+ef2b0c1af2b1630417c76e10fb2dc44e CaveStory.Xceed.Sue
